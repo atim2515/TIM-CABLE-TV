@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3HD
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง TV5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Channel_7_HD.svg/250px-Logo_Channel_7_HD.svg.png",ช่อง 7HD
+http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png",ช่อง 9 MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",ช่อง NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtobEzzhW-LkVQLExAfvnTY9sSgHysP_2zQ&s",ช่อง Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",ช่อง True4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
+https://tv-live.tpchannel.org/live/tv_720p.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",ช่อง TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
