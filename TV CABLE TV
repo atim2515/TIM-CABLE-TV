@@ -12,6 +12,21 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",ช่อง NBT
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3l0alOv1NSlb7ORWGHJLsN2DSA09VdtZxw&s",ช่อง NBT WORLD
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png",ช่อง NBT Central
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png",ช่อง NBT North
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvQ-dRi2o7ZYcimmPZM4GVmSukMKa3Qieog&s",ช่อง NBT South
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png",ช่อง NBT Northeast
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtobEzzhW-LkVQLExAfvnTY9sSgHysP_2zQ&s",ช่อง Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
@@ -30,17 +45,59 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
 https://tv-live.tpchannel.org/live/tv_720p.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLG0oyRNzBRciT4ABG7W_cVYYmE7f-VAwGXA&s",ช่อง Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",ช่อง TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://mpics.mgronline.com/pics/Images/551000012503902.JPEG",ช่อง ASTV News 1
 http://news1.live14.com/stream/news1.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2025/12/25/c1ce2130-e145-11f0-9745-e1abaece5066_webp_original.webp.png",ช่อง ท็อปทีวี
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/kypXJdwjISReU0pJoZnTvZEDkkY1uCY6n-5379M3Cr_YDoaThHA8wK34BarVKj_QJW8wdyzA=s900-c-k-c0x00ffffff-no-rj",ช่อง Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpg9eRTPukOX9QUJves7j6x_CwrBrRU82ZQ&s",ช่อง 13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m5zto9xIURq-WihmzoPl60uWDR2fKV0SNc0Jg03xG0JE0L=s900-c-k-c0x00ffffff-no-rj",ช่อง ท็อปทีวี
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0-qvp3DjGf8SuxIpjsCcdVUYDlAxtH3Bog&s",ช่อง Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFWtNqYVWOLSlcC24rFVZsXuPikhgBDWkuw&s",ช่อง Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_2JqEruZTu1NuWTkX6OxW9zvDqzz7NzNA&s",ช่อง Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/JIfKTrKkI/DefaultData/sbbtv_inter.jpg",ช่อง SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREB4z8qwITIS5Tlt0ombHc0Q0KmJcGgIzzqA&s",ช่อง SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttjEffjXDHwgTMCY3cwXG4Qh2UQx8m2Nt8g&s",ช่อง Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuoct4XaakarFl8UMjLatklD5h9btWM3SFlw&s",ช่อง White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kXKO-TaNW0d5B5LrYbEtAM8JqJe6RvcfAriQIz3gK_sA=s900-c-k-c0x00ffffff-no-rj",ช่อง Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/18/65dc9bb0-98c4-11ea-bcb3-0320ce420b5e_original.png",ช่อง DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
