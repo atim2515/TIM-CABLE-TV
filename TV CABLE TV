@@ -36,6 +36,9 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
 https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",ช่อง PPTV HD
+https://www.adintrend.tv/hd/ch25?t=live
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
 https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
@@ -49,7 +52,7 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
-https://playidtv24.vercel.app/stream/3bbtv/gmm25.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.adintrend.tv/hd/ch0?t=live
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
@@ -107,6 +110,9 @@ http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
@@ -384,6 +390,9 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
 https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",ช่อง PPTV HD
+https://www.adintrend.tv/hd/ch25?t=live
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
 https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
@@ -397,7 +406,7 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
-https://playidtv24.vercel.app/stream/3bbtv/gmm25.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://www.adintrend.tv/hd/ch0?t=live
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
