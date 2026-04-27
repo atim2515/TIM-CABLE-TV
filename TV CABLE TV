@@ -221,10 +221,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ra5bFRmZ8jusZ-eYl9va6uCiLWwDFjGDSA&s",ช่อง CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ra5bFRmZ8jusZ-eYl9va6uCiLWwDFjGDSA&s",ช่อง News24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-yU4Ac88j6FksVptsnLsoRf3tbZBIxGcpA&s",ช่อง Newsmax TV
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s",ช่อง NEWSMAX2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/250px-ABC_Australia_logo.svg.png",ช่อง ABC Australia
@@ -238,11 +235,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd|user-agen
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV0vxC6lZhJcOZ6_WPhZAK_2g-cP-k0d1Hg&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3d_vC_z2FJEpM5ucRnSlycuBXFiKMetYjdg&s",ช่อง France 24
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",ช่อง RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png?_=20170130200146",ช่อง News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1280px-Logo_TV5_Monde_-_2021.svg.png",ช่อง TV5Monde
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -395,3 +392,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd|user-agen
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
+#keyId:072eeb02f6744f838fcc8f0ef36b312e
+#key:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
