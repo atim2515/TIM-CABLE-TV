@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
+https://www.adintrend.tv/hd/ch3?t=live
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง TV5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -33,11 +36,20 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
 https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
+https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",ช่อง Workpoint TV
+https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",ช่อง True4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
+https://playidtv24.vercel.app/stream/3bbtv/gmm25.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
@@ -53,6 +65,9 @@ https://tv-live.tpchannel.org/live/tv_720p.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLG0oyRNzBRciT4ABG7W_cVYYmE7f-VAwGXA&s",ช่อง Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",ช่อง NATION TV
+https://playidtv24.vercel.app/stream/3bbtv/nation.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",ช่อง TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -278,6 +293,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd|user-agent=IndiH
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
@@ -327,6 +348,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd|user-agent=Ind
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
+https://www.adintrend.tv/hd/ch3?t=live
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง TV5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -357,11 +381,23 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chun
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtobEzzhW-LkVQLExAfvnTY9sSgHysP_2zQ&s",ช่อง Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
+https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
+https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",ช่อง Workpoint TV
+https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",ช่อง True4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
+https://playidtv24.vercel.app/stream/3bbtv/gmm25.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
@@ -369,8 +405,14 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
 https://tv-live.tpchannel.org/live/tv_720p.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",ช่อง NATION TV
+https://playidtv24.vercel.app/stream/3bbtv/nation.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",ช่อง TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -396,8 +438,17 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",ช่อง Animal
+http://49.0.64.96:8007/Animal
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
