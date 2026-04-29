@@ -287,13 +287,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=7
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",ช่อง Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=7
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43302/36080bf7-28c9-4926-a0f7-abac6a375bb0.png?w=800&h=800",ช่อง WOWOW Cinema
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=7
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",ช่อง WOWOW Prime
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=7
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43303/6f9795e0-7713-439e-af43-04809c98c867.png?w=800&h=800",ช่อง WOWOW Live
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",ช่อง WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",ช่อง Family Gekijo
