@@ -450,6 +450,12 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/0r9Jac_cmwsL54ggF3BuzHkzx0VkLLYjFQ_ea3mQKSUlPgBrZR27hRImx84E4c_oX1Abjnph=s900-c-k-c0x00ffffff-no-rj",ช่อง BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://yt3.googleusercontent.com/LeBV3z5dOIitwUk6vv-nqo2B8nS3QN046CYGLkWzeqzZl-6RW7H3g6girn4CP_PRYD1NmCvc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",ช่อง TVB Entertainment News
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
