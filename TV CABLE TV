@@ -111,6 +111,12 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",ช่อง Animal
+http://49.0.64.96:8007/Animal
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 
@@ -471,9 +477,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/27/Mei_Ah_Film_Production_Company_Limited_%282003%29.png/664px-Mei_Ah_Film_Production_Company_Limited_%282003%29.png",ช่อง Mei Ah
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
 http://cdn.163189.xyz/163189/now
 
@@ -482,6 +485,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",ช่อง CCTV-2
+http://69.30.245.50/live/cctv2.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",ช่อง CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
@@ -553,6 +565,12 @@ http://49.0.64.96:8007/Animal
 
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZZd5yH0wD6hSi3B6LDdi_9s-45hr24vpxw&s",ช่อง CANAL+ PREMIER LEAGUE HD
+http://185.160.192.64:80/mangin15/85784/116520
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwfb7EACkm9JdSxBj008G5R-qrR_tEFJ0jQ&s",ช่อง CANAL+ FOOT HD
+http://185.160.192.64:80/mangin15/85784/181485
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -700,28 +718,13 @@ http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",ช่อง Arirang
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://69.30.245.50/live/cctv4.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",ช่อง Rock Entertainment
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
