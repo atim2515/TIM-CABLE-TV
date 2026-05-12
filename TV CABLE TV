@@ -451,18 +451,24 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
+http://r.jdshipin.com/thuYX
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png",ช่อง TVB Xinhe
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVB_Classic_2022_IVP_LAND_917x516.jpg",ช่อง TVB Classic
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest/scale-to-width-down/646?cb=20230714155414&path-prefix=vi",ช่อง TVB Classic
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg",ช่อง TVB Entertainment News
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxiHx2FJf-nNpEw0kKSjFlOm_vnkWBSTFHw&s",ช่อง RTHK 31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png",ช่อง RTHK 32
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
