@@ -453,8 +453,17 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://yt3.googleusercontent.com/LeBV3z5dOIitwUk6vv-nqo2B8nS3QN046CYGLkWzeqzZl-6RW7H3g6girn4CP_PRYD1NmCvc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",ช่อง TVB Entertainment News
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png",ช่อง TVB Xinhe
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVB_Classic_2022_IVP_LAND_917x516.jpg",ช่อง TVB Classic
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxiHx2FJf-nNpEw0kKSjFlOm_vnkWBSTFHw&s",ช่อง RTHK 31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png",ช่อง RTHK 32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
