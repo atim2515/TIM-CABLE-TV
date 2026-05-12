@@ -516,6 +516,21 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0-qvp3DjGf8SuxIpjsCcdVUYDlAxtH3Bog&s",ช่อง Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeM49YsUTe7MElzTJs4337HRFSdNVBYG0jw&s",ช่อง 70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkNCGLgxNNk1uYR4Xj5N7i1wsGhz6rctgZA&s",ช่อง 80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/c/c8/Image14.jpeg/revision/latest?cb=20221111210259",ช่อง 90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcBzcXjg7g7FrE4_ttdIwPS6yfXHyp46xKXg&s",ช่อง 90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",ช่อง Rock Entertainment
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -554,17 +569,32 @@ https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
-#EXTINF:-1 group-title="Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png",ช่อง Now 70's
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2-DxoriOs5tT8WVUNu9rAoqifVo580GOVQ&s",ช่อง That's 70's
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
 
-#EXTINF:-1 group-title="Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/NOW_80s_logo.png/250px-NOW_80s_logo.png",ช่อง Now 80's
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vonIk9JRauQZAN6huuqLRtoMCR77jeMI3Q&s",ช่อง That's 80's
 https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
 
-#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5idGA-SpaKZq8rAVscyCnuIdBfIvpVIs9w&s",ช่อง Now 90s00s
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawaN4YJyMZLwajqxH_r1be2sAcbPliRV8yw&s",ช่อง That's 90s00s
 https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
 
-#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGyv1BbAYHXYBet1eh0Dg8Ejlh15aAeb4kA&s",ช่อง That's Rock
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
@@ -581,8 +611,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/66b604178b19d7efdc584b92_tennis-channel.png",ช่อง Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClsq6NIa7Rnsbk7xRBZRDEI6Q9O2WrhUbCg&s",ช่อง UFC
+https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
+
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrqrNQ3BiZOTzRzxr3RMwM6Gx4iaUB5A_KQ&s",ช่อง Wrestling Legends TV
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://images.worldpokertour.com/dxydtqlpr/image/fetch/w_1240,c_limit/f_auto:image/https://wptmedia.wpt.com/wp-content/uploads/2023/09/Watch-Header-2023-1.jpg",ช่อง World Poker Tour
+https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
