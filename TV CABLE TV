@@ -471,7 +471,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg",ช่อง NOW NEWS
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/27/Mei_Ah_Film_Production_Company_Limited_%282003%29.png/664px-Mei_Ah_Film_Production_Company_Limited_%282003%29.png",ช่อง Mei Ah
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
 http://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxiHx2FJf-nNpEw0kKSjFlOm_vnkWBSTFHw&s",ช่อง RTHK 31
@@ -481,12 +484,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://69.30.245.50/live/cctv4.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
