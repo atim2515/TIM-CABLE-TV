@@ -925,4 +925,7 @@ http://27.254.65.244:8000/;
 http://radio4.thzhost.com:4122/;
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง j
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+https://github.com/tummeng21/m3u8/raw/refs/heads/main/cinemaxth.m3u8
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง jo
+https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueasiamore.m3u8
