@@ -708,8 +708,8 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.onefc.com/wp-content/uploads/2024/06/Superlek-Kiatmoo9-Kongthoranee-Sor-Sommai-ONE-Friday-Fights-68-49-scaled.jpg",ช่อง Hi Fight SuperSports
-http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
+http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s",ช่อง Premier sports
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
