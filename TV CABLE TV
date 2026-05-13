@@ -923,3 +923,6 @@ http://27.254.65.244:8000/;
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง Yesterday 106.5 FM
 http://radio4.thzhost.com:4122/;
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง Yesterday 106.5 FM
+http://bestcommt2.github.io/m3u8/truethaifilm.m3u8
