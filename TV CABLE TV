@@ -519,8 +519,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
-https://dookeela4.live/live-tv/af-reality
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 1
+https://dookeela4.live/live-tv/af-reality|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
@@ -576,9 +576,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",ช่อง VTV1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",ช่อง VTV2
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
-
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",ช่อง VTV3
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
 
@@ -590,9 +587,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qB4hPqDqciW_m1HEE1f9pGVBnm1LiRSt9Q&s",ช่อง VTV8
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/VTV9_logo_2007-2008.png/revision/latest/scale-to-width-down/1200?cb=20240315115008&path-prefix=vi",ช่อง VTV9
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",ช่อง VIETNAM TODAY
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Vietnam_Today_HD_du_phong
