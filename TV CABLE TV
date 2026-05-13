@@ -480,7 +480,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg",ช่อง TVB Entertainment News
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",ช่อง TVB News
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fz6sOQP4c4viFvggqK0gARU0YC30C177CQ&s",ช่อง TVB News
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
@@ -489,13 +489,19 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
 http://cdn.163189.xyz/163189/now
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/92/HOY_77_Logo.png/250px-HOY_77_Logo.png",ช่อง HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png",ช่อง ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxiHx2FJf-nNpEw0kKSjFlOm_vnkWBSTFHw&s",ช่อง RTHK 31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/Phoenix_Hong_Kong_Channel_logo.png/revision/latest/scale-to-width-down/539?cb=20221122014525&path-prefix=vi",ช่อง Phoenix Hong Kong Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
@@ -527,6 +533,27 @@ http://69.30.245.50/live/cctv9.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",ช่อง CCTV-10
 http://69.30.245.50/live/cctv10.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8XC1oBybS69HaHgAGLOJDKZOghgx48ZAIg&s",ช่อง CCTV-11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",ช่อง CCTV-12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4r3ASYPx1y862hvlKBDeBwEiZKymrQXtyA&s",ช่อง CCTV-13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1_3eifADdwcv1-LXoQZ32afBYwB_3MumsQ&s",ช่อง CCTV-14
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/CCTV_channel_15.svg/1280px-CCTV_channel_15.svg.png",ช่อง CCTV-15
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuCEypT-ErGiibgTAaSEZLJceuUH6Pb460Q&s",ช่อง CCTV-16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9jjhqy2NwyDn8N2eCiGp-WFVikQgSKmVpA&s",ช่อง CCTV-17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
