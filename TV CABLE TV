@@ -120,14 +120,11 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
+http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
@@ -519,15 +516,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nJURi5dOYztQ6s2io_8-64pGvRTaTBt12w&s",ช่อง RTHK 33
-https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_33-Gang_Tai_Dian_Shi_33
-
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0qgDVbY-63J2St8brDRrKJN2greS1CtvQ&s",ช่อง RTHK 34
-https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_34-Gang_Tai_Dian_Shi_34
-
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0jbl2DOGyHP0vzn-9vk96Xi_G0CACVa3eA&s",ช่อง RTHK 35
-https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_35-Gang_Tai_Dian_Shi_35
-
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png",ช่อง Phoenix Hong Kong Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
@@ -699,23 +687,23 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
-
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
-https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
-
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 1
+http://49.0.64.96:8007/TENNIS
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 2
+http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 3
+http://49.0.64.96:8007/NBA
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 4
+http://49.0.64.96:8007/GOLF
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/66b604178b19d7efdc584b92_tennis-channel.png",ช่อง Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
@@ -773,15 +761,6 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://www.adintrend.tv/hd/ch3?t=live
