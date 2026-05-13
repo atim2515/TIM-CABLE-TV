@@ -748,10 +748,17 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://www.adintrend.tv/hd/ch0?t=live
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+https://www.oned.net/live-tv/one31
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+https://www.thaich8.com/live
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
