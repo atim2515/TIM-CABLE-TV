@@ -777,11 +777,14 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg?itok=WqGM3_Vy",ช่อง Brazzers TV
-https://adult-tv-channels.click/brazzers-tv-online/
-
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://okteve.com/wp-content/uploads/media/a8f172f0712d0a728fe7cef4ecd19adc.jpeg",ช่อง Babes TV
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrbWXGUI73XH0qRA67kteyIuiuax7KCdQCQ&s",ช่อง Babes TV
 https://adult-tv-channels.click/babes-tv-hd/
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrbWXGUI73XH0qRA67kteyIuiuax7KCdQCQ&s",ช่อง Hustler TV
+https://adult-tv-channels.click/hustler-tv/
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrbWXGUI73XH0qRA67kteyIuiuax7KCdQCQ&s",ช่อง Brazzers TV
+https://adult-tv-channels.com/brazzers-tv-online/
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
