@@ -111,6 +111,24 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
 
@@ -519,9 +537,6 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง TRUE SPORTS 1
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
-
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 
@@ -675,6 +690,33 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
+https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
+http://49.0.64.96:8007/HiSports
+
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/66b604178b19d7efdc584b92_tennis-channel.png",ช่อง Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 
@@ -722,6 +764,24 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1717396131.png",ช่อง True Sports 4
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://www.adintrend.tv/hd/ch3?t=live
