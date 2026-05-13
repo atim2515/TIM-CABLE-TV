@@ -480,6 +480,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg",ช่อง TVB Entertainment News
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",ช่อง TVB News
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
@@ -491,6 +494,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
@@ -620,6 +626,12 @@ https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Channel_NewsAsia.svg/revision/latest/scale-to-width-down/250?cb=20190401004018",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEYBRmgRX1qPmbJsSUnzT8n0ep_-TAuV5Bw&s",ช่อง CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNPzdNfSJAJP75npTZQY7sAHt2f_q4CIKSg&s",ช่อง BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY01qX-sLD9J0h387yRif4P9Y0Hn71A6rRAw&s",ช่อง CNBC
 https://tvpass.org/live/CNBC/hd
