@@ -688,13 +688,13 @@ http://49.0.64.96:8007/Animal
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
