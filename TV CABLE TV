@@ -786,6 +786,15 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
+https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://www.adintrend.tv/hd/ch3?t=live
 
