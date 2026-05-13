@@ -501,6 +501,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nJURi5dOYztQ6s2io_8-64pGvRTaTBt12w&s",ช่อง RTHK 33
+https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_33-Gang_Tai_Dian_Shi_33
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0qgDVbY-63J2St8brDRrKJN2greS1CtvQ&s",ช่อง RTHK 34
+https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_34-Gang_Tai_Dian_Shi_34
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0jbl2DOGyHP0vzn-9vk96Xi_G0CACVa3eA&s",ช่อง RTHK 35
+https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-RTHK_35-Gang_Tai_Dian_Shi_35
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png",ช่อง Phoenix Hong Kong Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
@@ -509,6 +518,9 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
+https://dookeela4.live/live-tv/af-reality
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
@@ -561,17 +573,29 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9jjhqy2NwyDn8N2eCiGp-WFVikQgSKmVpA&s",ช่อง CCTV-17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",ช่อง VTV1
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",ช่อง VTV1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",ช่อง BOX MOVIE 1
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",ช่อง VTV2
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",ช่อง BOX HITS
-https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD_du_phong
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",ช่อง VTV3
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",ช่อง HOLLYWOOD CLASSICS
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",ช่อง VTV5
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/250px-VTV7_logo_2016_final.svg.png",ช่อง VTV7
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qB4hPqDqciW_m1HEE1f9pGVBnm1LiRSt9Q&s",ช่อง VTV8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/VTV9_logo_2007-2008.png/revision/latest/scale-to-width-down/1200?cb=20240315115008&path-prefix=vi",ช่อง VTV9
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",ช่อง VIETNAM TODAY
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Vietnam_Today_HD_du_phong
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
