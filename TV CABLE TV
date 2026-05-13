@@ -120,6 +120,15 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
+https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 
@@ -687,44 +696,44 @@ https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
 https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
+https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
-http://49.0.64.96:8007/HiSports
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 1
-http://49.0.64.96:8007/TENNIS
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 2
-http://49.0.64.96:8007/TOPFIGHT
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 3
-http://49.0.64.96:8007/NBA
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 4
-http://49.0.64.96:8007/GOLF
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 5
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.onefc.com/wp-content/uploads/2024/06/Superlek-Kiatmoo9-Kongthoranee-Sor-Sommai-ONE-Friday-Fights-68-49-scaled.jpg",ช่อง Hi Fight SuperSports
 http://49.0.64.96:8007/HIFIGHT
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 6
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s",ช่อง Premier sports
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 7
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 8
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง 9
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/66b604178b19d7efdc584b92_tennis-channel.png",ช่อง Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxO_ECwnCJ-j1wpja3QZv3mW8w65GyZFBLg&s",ช่อง Tennis
+http://49.0.64.96:8007/TENNIS
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png",ช่อง Golf Channel
+http://49.0.64.96:8007/GOLF
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResjWPBwdk1ImzXH46z2sK0XXf39i8BnDNVw&s",ช่อง NBA
+http://49.0.64.96:8007/NBA
+
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClsq6NIa7Rnsbk7xRBZRDEI6Q9O2WrhUbCg&s",ช่อง UFC
 https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://images.tapology.com/logos/2660/profile/Top_Fight_Russia-logo.jpg?1548796292",ช่อง TopFight
+http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.onefc.com/wp-content/uploads/2024/06/Superlek-Kiatmoo9-Kongthoranee-Sor-Sommai-ONE-Friday-Fights-68-49-scaled.jpg",ช่อง Hi Fight SuperSports
+http://49.0.64.96:8007/HIFIGHT
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrqrNQ3BiZOTzRzxr3RMwM6Gx4iaUB5A_KQ&s",ช่อง Wrestling Legends TV
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
