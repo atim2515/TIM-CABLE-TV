@@ -609,6 +609,15 @@ https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",ช่อง Cần Thơ TV1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMDU4MGNfyRTmtG_IPi69Cr7zMIKqorUR6w&s",ช่อง Cao Bằng TV
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",ช่อง Đà Nẵng TV1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",ช่อง Đà Nẵng TV2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
 
