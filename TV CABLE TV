@@ -684,7 +684,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://play-lh.googleusercontent.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQ",ช่อง VBS TV
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png",ช่อง ANTV
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEM3gqgcTVfQ1JoGwhLKD8AX-1Kleo-_BSg&s",ช่อง ANTV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_640_360.png",ช่อง Cà Mau TV
@@ -693,10 +693,7 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvb6_87hkE-En5FOEDpxlcdhpUDHnIOES7Qg&s",ช่อง QPVN
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",ช่อง Da Vinci Asia Vietnam
-https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",ช่อง HTV Key
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/HTV4_logo_2017.png/revision/latest?cb=20230301095054&path-prefix=vi",ช่อง HTV4
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://brandcom.vn/wp-content/uploads/2024/07/logo-ke%CC%82nh-truye%CC%82%CC%80n-hi%CC%80nh-do%CC%82%CC%80ng-nai-1.jpg",ช่อง Đồng Nai 1
@@ -704,6 +701,9 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/RgEOYY7utX-DONGNAI2-THUMBNAIL-KENHVTVgo-500x281.webp",ช่อง Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",ช่อง Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 #EXTINF:-1 group-title="Hmong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFizkcnHy1733BIe4TVKipwC92SsDeZcAzA&s",ช่อง Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
