@@ -55,7 +55,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://www.adintrend.tv/hd/ch0?t=live
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
-https://www.oned.net/live-tv/one31
+https://www.one31.net/live
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
 https://www.thaich8.com/live
@@ -1036,7 +1036,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://www.adintrend.tv/hd/ch0?t=live
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
-https://www.oned.net/live-tv/one31
+https://www.one31.net/live
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
 https://www.thaich8.com/live
