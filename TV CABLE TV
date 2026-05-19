@@ -273,6 +273,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=7
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",ช่อง NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7
 
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
 
@@ -286,10 +292,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",ช่อง TBS Channel 1
-https://live.livingjtv.live/jp68/playlist.m3u8?token=M7VMdfn2WH
+https://live.livingjtv.live/jp67/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",ช่อง TBS Channel 2
-https://live.livingjtv.live/jp69/playlist.m3u8?token=M7VMdfn2WH
+https://live.livingjtv.live/jp68/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง フジテレビ系
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
@@ -316,10 +322,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",ช่อง TV Asahi Channel 1
-https://live.livingjtv.live/jp70/playlist.m3u8?token=M7VMdfn2WH
+https://live.livingjtv.live/jp69/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",ช่อง TV Asahi Channel 2
-https://live.livingjtv.live/jp71/playlist.m3u8?token=M7VMdfn2WH
+https://live.livingjtv.live/jp70/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",ช่อง 代替 テレ朝系
 https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
