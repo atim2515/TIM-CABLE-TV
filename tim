@@ -63,7 +63,7 @@ https://www.thaich8.com/live
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_py4gl1PHMUfNOwSYEvI9D02XckzB6uar.jpg",ช่อง TRUTH TV (75)
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_py4gl1PHMUfNOwSYEvI9D02XckzB6uar.jpg",ช่อง TRUTH TV
 https://mvtv.co.th/play/play_mvtv.php?no=30&channel=TRUTH%20TV%20(75)
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
@@ -168,29 +168,17 @@ https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",ช่อง Mango Mojito
 https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
-https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax ๅ
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
+http://141.95.55.143/CH745/index.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png",ช่อง MV GO SPORT
 https://mvtv.co.th/play/play_mvtv.php?no=110&channel=MV%20GO%20SPORT
@@ -1277,21 +1265,6 @@ https://www.trueplookpanya.com/tv/
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
