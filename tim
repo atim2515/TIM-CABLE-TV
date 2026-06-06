@@ -256,58 +256,61 @@ https://tvpass.org/live/CNBC/hd
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G
-https://live.livingtv.live/jp1/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G (Osaka)
+http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/250px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK E
-https://live.livingtv.live/jp3/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s",ช่อง NHK BS
-https://live.livingtv.live/jp19/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",ช่อง NHK BSP4K
-https://live.livingtv.live/jp17/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
-https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",ช่อง NTV Plus
-https://live.livingjtv.live/jp71/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง TBS
-https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",ช่อง TBS Channel 1
-https://live.livingjtv.live/jp67/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",ช่อง TBS Channel 2
-https://live.livingjtv.live/jp68/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง Fuji TV
-https://live.livingtv.live/jp6/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif",ช่อง Fuji TV One
-https://live.livingjtv.live/jp73/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs308.gif",ช่อง Fuji TV Two
-https://live.livingjtv.live/jp74/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCwGGo9Fq8gnptIaFWA0uOj_rMobBBN54QQ&s",ช่อง Fuji TV NEXT
-https://live.livingjtv.live/jp75/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง フジテレビ系
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",ช่อง TV Asahi
-https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",ช่อง TV Asahi Channel 1
-https://live.livingjtv.live/jp69/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",ช่อง TV Asahi Channel 2
-https://live.livingjtv.live/jp70/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง TV Tokyo
-https://live.livingtv.live/jp8/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง 代替 テレ朝系
 https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
@@ -316,259 +319,265 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
-https://live.livingtv.live/jp12/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.mbs.jp/english/images/index/MBS_logo.png",ช่อง MBS
-https://live.livingtv.live/jp11/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/250px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ช่อง YTV
-https://live.livingtv.live/jp14/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2025/01/tvosaka_420x237_thumb.jpg",ช่อง TV Osaka
-https://live.livingtv.live/jp15/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",ช่อง Kansai TV
-https://live.livingtv.live/jp13/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHr3U1uVUvN2EcARRaz8eKVrHUXkAXaIRgnQ&s",ช่อง Sun TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7
+http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",ช่อง Tokyo MX1
-https://live.livingtv.live/jp9/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",ช่อง Tokyo MX2
-https://live.livingtv.live/jp10/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEetdQliPDPN9OsBNPxRyA7fMrArdOLynKQ&s",ช่อง Tabi Channel
-https://live.livingjtv.live/jp92/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif",ช่อง Tetsudo Channel
-https://live.livingjtv.live/jp93/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",ช่อง Mondo TV
-https://live.livingjtv.live/jp55/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",ช่อง Me-Tele Next
-https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCfIpzgJBI8FMje9SSkuxHjvfJn-vqoxvJg&s",ช่อง Dance Channel
+http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
-https://live.livingjtv.live/jp94/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",ช่อง KNTV
-https://live.livingjtv.live/jp99/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68EDbfW7W83sPL5zQ3dr3zBnqAsWo1OFCwQ&s",ช่อง KBS
-https://live.livingtv.live/jp16/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ErkAGW9F0dDDW4Eq_A02OvSKA1e7jICOjw&s",ช่อง BS Asahi 4K
-https://live.livingtv.live/jp23/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/tkMtZf7GKiIm0aZiXQRe6qlJFjxGEvLWMgr8AJsYya74spnmxah23GTMMpk7O_aNOuOIv92Oiw=s900-c-k-c0x00ffffff-no-rj",ช่อง KBS World
+http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",ช่อง BS Asahi
-https://live.livingtv.live/jp22/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",ช่อง BS Fuji TV
-https://live.livingtv.live/jp27/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",ช่อง BS Nippon TV
-https://live.livingtv.live/jp21/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",ช่อง BS TBS
-https://live.livingtv.live/jp24/playlist.m3u8?token=M7VMdfn2WH
-
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4870A7BxJBSJO4HZ7AJMQnNDvqLI-umriw&s",ช่อง BS TV Tokyo 4K
-https://live.livingtv.live/jp18/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",ช่อง BS TV Tokyo
-https://live.livingtv.live/jp26/playlist.m3u8?token=M7VMdfn2WH
-
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",ช่อง BS Yoshimoto
-https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",ช่อง BS 10
-https://live.livingtv.live/jp34/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",ช่อง BS 11
-https://live.livingtv.live/jp28/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",ช่อง BS 12
-https://live.livingtv.live/jp29/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง J:COM BS
-https://live.livingtv.live/jp37/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง JCOM BS
+http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
-https://live.livingtv.live/jp35/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",ช่อง Movie Plus
-https://live.livingjtv.live/jp51/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",ช่อง The Cinema
-https://live.livingjtv.live/jp50/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
-https://live.livingtv.live/jp31/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",ช่อง WOWOW Prime
-https://live.livingtv.live/jp30/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",ช่อง WOWOW Live
-https://live.livingtv.live/jp32/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",ช่อง WOWOW Plus
-https://live.livingtv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",ช่อง Family Gekijo
-https://live.livingjtv.live/jp53/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",ช่อง Toei Channel
-https://live.livingjtv.live/jp47/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",ช่อง Home Drama Channel
-https://live.livingjtv.live/jp54/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i7CPm1dTs-fDNMZhGuEAOSzkipdTGxWLvg&s",ช่อง Nihon Eiga Senmon
-https://live.livingtv.live/jp36/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",ช่อง Neco Channel
-https://live.livingjtv.live/jp49/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",ช่อง Jidaigeki Senmon
-https://live.livingjtv.live/jp52/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",ช่อง Eisei Gekijo
-https://live.livingjtv.live/jp48/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLQga46f4coqBxuohNJ1ZxBboeexN0eBQQ&s",ช่อง LaLa TV
-https://live.livingjtv.live/jp58/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",ช่อง Channel Ginga
-https://live.livingjtv.live/jp72/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",ช่อง Super Drama TV
-https://live.livingjtv.live/jp56/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",ช่อง Dlife
-https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",ช่อง Action Channel
-https://live.livingjtv.live/jp59/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",ช่อง Mystery Channel
-https://live.livingjtv.live/jp60/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lYxT0D1YGAcTZ-wG9XSBZn_sPkuaUABIjA&s",ช่อง V Paradise
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",ช่อง Pigoo
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
-https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",ช่อง Music On! TV
-https://live.livingjtv.live/jp78/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",ช่อง Music Japan TV
-https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/gPp9qo9jvkd9r9kUJ0ejfO_FoM1zRGbAatXN5AC9AfnUL0a4uh0fy7Ixm3v8G7y_GjDX1eSCYQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Space Shower TV
-https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png",ช่อง Kayo Pops
-https://live.livingjtv.live/jp83/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",ช่อง Music Air
-https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
 https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",ช่อง Discovery Channel Japan
-https://live.livingjtv.live/jp90/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",ช่อง National Geographic Japan
-https://live.livingjtv.live/jp89/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png",ช่อง History Channel Japan
-https://live.livingjtv.live/jp88/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet Japan
-https://live.livingjtv.live/jp91/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ช่อง Animax
-https://live.livingjtv.live/jp45/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",ช่อง Kids Station
-https://live.livingjtv.live/jp82/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",ช่อง AT-X
-https://live.livingjtv.live/jp83/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",ช่อง TEZUKA PRO
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",ช่อง Cartoon Network Japan
-https://live.livingjtv.live/jp87/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-dc.jpg",ช่อง Disney Channel Japan
-https://live.livingjtv.live/jp46/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-junior.jpg",ช่อง Disney Jr. Japan
-https://live.livingjtv.live/jp84/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",ช่อง Kids English
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png",ช่อง J Sports 1
-https://live.livingtv.live/jp40/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/747.png",ช่อง J Sports 2
-https://live.livingtv.live/jp41/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",ช่อง J Sports 3
-https://live.livingjtv.live/jp42/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpE1ETERXAr0sDDPk5x4-27nMvr2S1y2_0A&s",ช่อง J Sports 4
-https://live.livingjtv.live/jp43/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap0xYgCK4qjD0o7l6NcIdnoefn9z_DvZjKA&s",ช่อง Nittele G Plus
-https://live.livingjtv.live/jp63/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif",ช่อง Sport live plus
-https://live.livingjtv.live/jp66/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",ช่อง Sky A
-https://live.livingjtv.live/jp61/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/1280px-GAORA_SPORTS_logo.svg.png",ช่อง Gaora Sports
-https://live.livingjtv.live/jp62/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",ช่อง Fighting TV Samurai
-https://live.livingjtv.live/jp65/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",ช่อง Golf Network
-https://live.livingjtv.live/jp64/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://hidakakonbu.net/wp-content/uploads/2018/07/logo_greenchannel.png",ช่อง Green Channel
-https://live.livingtv.live/jp39/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/31dSiRDx8XYX41jikFPIwYJK213ghYEbLKP0wqZ2sHNQlbd98Tv5k_G8vgF0-n5LHWaCdHF9Fw=s160-c-k-c0x00ffffff-no-rj",ช่อง Fishing Vision
-https://live.livingjtv.live/jp44/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",ช่อง Shogi Channel
-https://live.livingjtv.live/jp98/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",ช่อง CNNj
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=7
+http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",ช่อง BBC News Japan
-https://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",ช่อง NTV News24
-https://live.livingjtv.live/jp95/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",ช่อง TBS News
-https://live.livingjtv.live/jp96/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",ช่อง Weather News
+http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJgXxf12A7Ik8BxFWu1ed1T9IQW9TaYTyqw&s",ช่อง CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
