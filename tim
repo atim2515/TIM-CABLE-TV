@@ -147,7 +147,7 @@ https://mvtv.co.th/play/play_mvtv.php?no=98&channel=TTD3
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/99_y_QlSGIfvmqV2rMe71xbT6naE4XOwB83Zy.png",ช่อง TTD4
 https://mvtv.co.th/play/play_mvtv.php?no=99&channel=TTD4
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/99_y_QlSGIfvmqV2rMe71xbT6naE4XOwB83Zy.png",ช่อง TTD5
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/100_y_Z7VxML6XkH0o9wrsIUzajC4Bfe8PEbqW.png",ช่อง TTD5
 https://mvtv.co.th/play/play_mvtv.php?no=100&channel=TTD5
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/101_y_Nujyn9h71JtsVYo5KkAfGL3OeMZF4T6i.png",ช่อง TTD6
@@ -726,6 +726,35 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgG2sH9KDN1uxHrjctK07YGKvtT58kN39y6g&s",ช่อง TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS JIBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS KBC
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0ehTE8TkQ1jSKdSj4_4n9ByitQHiB3L9qg&s",ช่อง TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HGRJR77OSG6QPNUDEWBVWCH5U.jpg",ช่อง TV Chosun 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYinhFymugMXpuY-M2PKxjIgeUY3v8jrevxw&s",ช่อง FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 
@@ -746,6 +775,9 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.namu.wiki/i/LmODYqO5BGcSHCfWsCCyE9f6jUTRWKSWz5WXvrodBgUrdMpy9goiKv8QQ7P42JIWFHxN4AVomTsbi2I3IuOH0w.webp",ช่อง OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/wZ_BWzFTnEg/maxresdefault.jpg",ช่อง RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
 https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
@@ -785,6 +817,12 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://koreatownladirectory.com/wp-content/uploads/2024/05/home_shopping_world_la.jpg",ช่อง Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnJ6RbqK-iM4-UpqD-Y_seQ8GPt72wQ_now&s",ช่อง Shinsegae Shopping TV
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://play-lh.googleusercontent.com/FWH-1e3HbhZ66Se56gcM9wFyEn8oaYu7TukT7S1v44ZJv9u413RKr93Xc-2SVV36PFg",ช่อง Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZWvTaBmpIZEmJ2QX-wVuVNzdhxS1zYL7Rg&s",ช่อง Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
