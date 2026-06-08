@@ -342,6 +342,9 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/250px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
 https://tvpass.org/live/CrimePlusInvestigation/hd
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOzJDccu0Vrr_sSB_aQjBCALZ_meODXSuGw&s",ช่อง Camera Smile
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZ_YSBk5rz8enil6UF8ecd3_Rp_1M0P1uVg&s",ช่อง Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
@@ -367,16 +370,16 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Florida & Alabama
-https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Key West & Florida Keys
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Myrtle Beach & The Grand Strand
-https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Panama City
-https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://dishpromotions.com/wp-content/uploads/CSPN2-logo.png",ช่อง C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
