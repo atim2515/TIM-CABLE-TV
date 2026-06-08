@@ -49,9 +49,6 @@ https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhon
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
@@ -351,14 +348,62 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://play-lh.googleusercontent.com/h22LrFBB-AVzwcEh6zUpkcAKrPH_gCN64y9-h5YJBk53n1yyF4o4SmEzaLhafgQZv_0",ช่อง Wu Tang Collection
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXooRwKqSoovWFuvhJ7gBV3WXEdC3gaBYig&s",ช่อง XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",ช่อง Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zaQS86LjerGhqYZaYKUeK3VtO2GHuubmoA&s",ช่อง Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CqgF4byaNQBz-sCnvppgtikdTxg7BjLAPQ&s",ช่อง Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsVo6Y93vp3QAE61ywc9kbGc3w-Dljj5dwg&s",ช่อง Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Florida & Alabama
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Myrtle Beach & The Grand Strand
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://dishpromotions.com/wp-content/uploads/CSPN2-logo.png",ช่อง C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY01qX-sLD9J0h387yRif4P9Y0Hn71A6rRAw&s",ช่อง CNBC
 https://tvpass.org/live/CNBC/hd
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Bowling Network
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Boxing
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Cipher Network
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Comedy Network
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Drive In Movie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -1139,14 +1184,8 @@ https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXb8AR5H15AFfOZOyLwD9oHRAb8Kd9Ue3eCg&s",ช่อง Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk19j5dJiGY-nTw5tguklmkJFv2GYswwHosw&s",ช่อง Hang Meas HDTV
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://i.pinimg.com/280x280_RS/97/75/f4/9775f4606f5697b03ed13f9abf1334d3.jpg",ช่อง Komsan TV
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-
-#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nnCkH6keixM4j3xPxgPbvRjDP9tl02E7JA&s",ช่อง MOI TV
-http://202.62.56.22:8080/hls/MOITV.m3u8
 
 #EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://netlinkbroadcaster.com/wp-content/themes/netlink/assets/img/share/logo.png",ช่อง Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
@@ -1163,8 +1202,6 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iFB9fTeRs2KCqZdWrB5lbIzrded2jl3afA&s",ช่อง TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlDV4magugA343TcG5_JBy5orvvB5tJVl1Q&s",ช่อง WIKI TV
-https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="Hmong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFizkcnHy1733BIe4TVKipwC92SsDeZcAzA&s",ช่อง Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 
