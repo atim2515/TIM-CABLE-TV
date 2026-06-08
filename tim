@@ -51,6 +51,9 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
 https://www.adintrend.tv/hd/ch0?t=live
 
@@ -1121,6 +1124,47 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",ช่อง Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlj8n8n2sdRzqZOMf4cVHu7A3-p3vD9gj1Q&s",ช่อง Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20QO-4mjZ9a52PUvl5SDmKPsMPz3DhpVmxQ&s",ช่อง ARDB TV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s",ช่อง CTV 9
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBq7lsJZgWl1lj3Tw0Jcuw8XoAFL1lhx47A&s",ช่อง EBC General Education
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXb8AR5H15AFfOZOyLwD9oHRAb8Kd9Ue3eCg&s",ช่อง Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk19j5dJiGY-nTw5tguklmkJFv2GYswwHosw&s",ช่อง Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://i.pinimg.com/280x280_RS/97/75/f4/9775f4606f5697b03ed13f9abf1334d3.jpg",ช่อง Komsan TV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nnCkH6keixM4j3xPxgPbvRjDP9tl02E7JA&s",ช่อง MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://netlinkbroadcaster.com/wp-content/themes/netlink/assets/img/share/logo.png",ช่อง Netlink TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wv8264POgkLePV50RxC0qksO03DkkNJRsQ&s",ช่อง One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtholiU2U0i-Zrxlx9suT_1eLUkJ-HsAkivlA191Iz6g=s900-c-k-c0x00ffffff-no-rj",ช่อง SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQheHeF6b70TYQPzmvOjtVuNvjH0fXq_RhLQ&s",ช่อง TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iFB9fTeRs2KCqZdWrB5lbIzrded2jl3afA&s",ช่อง TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlDV4magugA343TcG5_JBy5orvvB5tJVl1Q&s",ช่อง WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="Hmong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFizkcnHy1733BIe4TVKipwC92SsDeZcAzA&s",ช่อง Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 
