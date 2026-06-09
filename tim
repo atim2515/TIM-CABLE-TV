@@ -1248,6 +1248,9 @@ https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 #EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ช่อง Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",ช่อง Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmKl_gg6kaIil0aoNDVfeTDc-Rs5fIcHwMw&s",ช่อง RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
