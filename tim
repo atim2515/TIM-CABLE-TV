@@ -944,8 +944,8 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lotte_Logo_%282017%29.svg/1280px-Lotte_Logo_%282017%29.svg.png",ช่อง Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1900001KQ_20260528T042755SQUARE.png",ช่อง Samsung Television Network
-https://jmp2.uk/stvp-KR1900001KQ
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260422T012502SQUARE.png",ช่อง TV조선
+https://jmp2.uk/stvp-KR3700002JT
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -1111,7 +1111,7 @@ http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",ช่อง Sony SAB
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",ช่อง Sony Ten 1 HD
+#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",ช่อง Sony Ten 1 HD
 https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-1-hd.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",ช่อง Sony Max SD
@@ -1179,12 +1179,6 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png",ช่อง sonic Tamil
 http://103.159.180.34:5001/live/290.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",ช่อง Star Vijay HD
-http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png",ช่อง Times NOW
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",ช่อง Swayam Prabha 19
 http://103.159.180.34:5001/live/401.m3u8
