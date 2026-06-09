@@ -1076,16 +1076,6 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",ช่อง Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsGujarati.png",ช่อง Colors Gujarati
-http://103.159.180.34:5001/live/196.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png",ช่อง Zee Talkies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-9z5383489/master.m3u8
-
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png",ช่อง Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
 
@@ -1108,20 +1098,11 @@ http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",ช่อง Sony SAB
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",ช่อง Sony Ten 1 HD
-https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-1-hd.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",ช่อง Sony Max SD
-https://sonyliv.07in.workers.dev/live/999/999/sony-max.m3u8
-
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",ช่อง SET HD
 http://202.70.146.135:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png",ช่อง Travelxp HD
 http://103.159.180.34:5001/live/164.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png",ช่อง Cartoon Network Telugu
-http://103.159.180.34:5001/live/166.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",ช่อง Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
@@ -1150,14 +1131,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/mast
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png",ช่อง India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png",ช่อง MTV
-http://103.159.180.34:5001/live/248.m3u8
-
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png",ช่อง Music India
 http://103.159.180.34:5001/live/250.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",ช่อง ETV Cinema
-http://103.159.180.34:5001/live/252.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png",ช่อง NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -1168,14 +1143,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png",ช่อง NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",ช่อง Animal Planet HD English
-http://103.159.180.34:5001/live/286.m3u8
-
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",ช่อง Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-
-#EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png",ช่อง sonic Tamil
-http://103.159.180.34:5001/live/290.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",ช่อง Swayam Prabha 19
 http://103.159.180.34:5001/live/401.m3u8
@@ -1224,6 +1193,60 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",ช่อง Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",ช่อง DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",ช่อง Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",ช่อง Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",ช่อง Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",ช่อง News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ช่อง ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",ช่อง Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",ช่อง Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",ช่อง BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",ช่อง Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770187361105.png",ช่อง SATV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",ช่อง Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png",ช่อง Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",ช่อง SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",ช่อง Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",ช่อง Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",ช่อง Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ช่อง Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmKl_gg6kaIil0aoNDVfeTDc-Rs5fIcHwMw&s",ช่อง RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
