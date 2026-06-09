@@ -1219,17 +1219,11 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/st
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",ช่อง J Movies
 http://103.159.180.34:5001/live/417.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://i.imgur.com/fjgzW20.png",ช่อง Mazhavil Manorama HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
-#KODIPROP:mimetype=application/dash+xml
-https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",ช่อง Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 group-title="India TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png",ช่อง Animal Planet HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
-#KODIPROP:mimetype=application/dash+xml
-https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
+#EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",ช่อง Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmKl_gg6kaIil0aoNDVfeTDc-Rs5fIcHwMw&s",ช่อง RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
