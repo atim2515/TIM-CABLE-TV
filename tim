@@ -180,13 +180,13 @@ https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQZoOnlWZc_QjuheSY8nb4d4tURXMqE7j2w&s",ช่อง True Sports 5
 https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776196.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง True Premire Football 3
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง True Premire Football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5lwzQeeFr0DCIOU9yoecJaKzYDtHoTVPg&s",ช่อง beIN Sports 1
@@ -1257,9 +1257,6 @@ https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmKl_gg6kaIil0aoNDVfeTDc-Rs5fIcHwMw&s",ช่อง RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://i.imgur.com/W2rXjWd.png",ช่อง Hot TV
-https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
-
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",ช่อง VTV1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
 
@@ -1515,22 +1512,22 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfb8FvNlFjBCiaqv7BAwzhPfRJcEveKZJh_g&s",ช่อง True Sports 1
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6arMVUYCCkGv0WNLtTmCRR83ZH73rXphfQ&s",ช่อง True Sports 2
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyx_M3_uRtHyqrgm9RZiOsv4tXzlhKZhhlw&s",ช่อง True Sports 3
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQZoOnlWZc_QjuheSY8nb4d4tURXMqE7j2w&s",ช่อง True Sports 5
 https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWi0sa5vBo-iE2RdIayHshJFkAav81T4QVA&s",ช่อง True Sports 7
 https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง true Premire football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5lwzQeeFr0DCIOU9yoecJaKzYDtHoTVPg&s",ช่อง beIN Sports 1
@@ -1656,22 +1653,22 @@ https://www.trueplookpanya.com/tv/
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802455.png",ช่อง True Sports 1
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfb8FvNlFjBCiaqv7BAwzhPfRJcEveKZJh_g&s",ช่อง True Sports 1
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499966.png",ช่อง True Sports 2
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6arMVUYCCkGv0WNLtTmCRR83ZH73rXphfQ&s",ช่อง True Sports 2
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664802480.png",ช่อง True Sports 3
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyx_M3_uRtHyqrgm9RZiOsv4tXzlhKZhhlw&s",ช่อง True Sports 3
 https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847910.png",ช่อง True Sports 5
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQZoOnlWZc_QjuheSY8nb4d4tURXMqE7j2w&s",ช่อง True Sports 5
 https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664847921.png",ช่อง True Sports 7
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWi0sa5vBo-iE2RdIayHshJFkAav81T4QVA&s",ช่อง True Sports 7
 https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://dookeela4.live/uploads/1664499681.png",ช่อง true Premire football 3
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง true Premire football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5lwzQeeFr0DCIOU9yoecJaKzYDtHoTVPg&s",ช่อง beIN Sports 1
@@ -1848,5 +1845,56 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z2b4
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ptshgz8bvtsk.jpeg",ช่อง สวพ fm 91
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20334
 
-#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://i2.wp.com/fm101talk.com/wp-content/uploads/2020/04/logo.jpg?fit=506%2C526&ssl=1",ช่อง 101 RROne FM Radio
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwa8aAhsrUV2WY4c4B2N2_G_x3Mr2ZDq6fMA&s",ช่อง 101 RROne FM Radio
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20374
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",ช่อง 106 วิทยุครอบครัวข่าว
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v203a4
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg",ช่อง วัดป่าไทรงาม
+http://103.22.182.105:7110/;
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gcevqeh6xptz.png",ช่อง THAI MUSIC
+http://listen.thai-radio.net/medium
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uunmnkfuxvjt.jpg",ช่อง MCOT Modern Radio
+http://rstream.mcot.net:9066/;
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg",ช่อง จั๊กกะจี้เรดิโอ
+http://43.229.135.187:8020/;
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/u3bfzuhvj9mh.jpg",ช่อง XFM 94.5
+https://radio12.plathong.net/7360/;stream.mp3
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/avltfshqkte4.png",ช่อง รักษ์ปักษ์ใต้ เรดิโอ
+https://radio10.plathong.net/7100/;stream.mp3
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png",ช่อง จส.5 AM 567 KHz ชัยภูมิ
+http://media.login.in.th:8235/;stream.mp3
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZMAZUFJwZXGAux20Cve8V8ozElfryiAfNy8p8=s900-c-k-c0x00ffffff-no-rj",ช่อง Love OK Click Station 96.75
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21334
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static-media.streema.com/media/cache/d4/d7/d4d75351a928d35f9cbad3571f6a6bd4.jpg",ช่อง 104.5 อสมท นครศรีธรรมราช
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21344
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://www.tvjaa.com/storage/radio-channels/modern9875.png",ช่อง 98.75 เชียงใหม่
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21354
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveka8qsjrjs.png",ช่อง FM 101.25 อสมท. เชียงราย
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21374
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://oldsonghome.com/wp-content/uploads/2019/11/FM-102.jpg",ช่อง 102 คลื่นคนทำงาน
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v23354
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png",ช่อง FLEX 102.5 FM
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",ช่อง Eingdoi Radio เพลงลูกทุ่ง
+https://radio14.plathong.net/7126/;stream.mp3
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",ช่อง 90 ลูกทุ่ง รักไทย
+http://radio11.plathong.net:8896/;stream.mp3
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaTnQReNTeN7nYunSsRNaUT0HriJaHFp813A0AsXg=s900-c-k-c0x00ffffff-no-rj",ช่อง ลูกทุ่งเน็ตเวิร์ก
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
