@@ -1212,17 +1212,23 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",ช่อง Uniques HD
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SCTV_HD_Logo.svg/3840px-SCTV_HD_Logo.svg.png",ช่อง SCTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
-
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://cdn.techinasia.com/data/images/5hq8giWqvvuSce6kDyF7yVyeTYyZWEtg9Fi7NnKg.png",ช่อง TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2LUaOnOCSWphQkLmHiCALHuSMDcEYrufZg&s",ช่อง TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",ช่อง NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dD8-lYG_fWJDo2PrdV9SN30lIGWLN0djqw&s",ช่อง GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5PdJQobF09r1XR64Pw1Ho107dNKiUI2B5w&s",ช่อง CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQugHdtirzB9RqLtU2SFtMXs4YNphGX7bRlA&s",ช่อง CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
@@ -1407,12 +1413,6 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYC40B8ABbfe65TDocCBRq6Fq5SSOvgj01w&s",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
-#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0-qvp3DjGf8SuxIpjsCcdVUYDlAxtH3Bog&s",ช่อง Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png",ช่อง And TV HD
-http://103.159.180.34:5001/live/472.m3u8
-
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeM49YsUTe7MElzTJs4337HRFSdNVBYG0jw&s",ช่อง 70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 
@@ -1428,8 +1428,14 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJjhH_OZyfPP923POyeCP8MhGxhvBZUuHRA&s",ช่อง MBC ACTION
+https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/HLS/Live.m3u8
+
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png",ช่อง And TV HD
+http://103.159.180.34:5001/live/472.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
