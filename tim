@@ -159,9 +159,6 @@ https://mvtv.co.th/play/play_mvtv.php?no=101&channel=TTD6
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/105_y_1fchjGOtlWTgHksuv69PNmVERBJZAwzx.png",ช่อง TTD10
 https://mvtv.co.th/play/play_mvtv.php?no=105&channel=TTD10
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0-qvp3DjGf8SuxIpjsCcdVUYDlAxtH3Bog&s",ช่อง Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
@@ -170,33 +167,6 @@ https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",ช่อง Mango Mojito
 https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfb8FvNlFjBCiaqv7BAwzhPfRJcEveKZJh_g&s",ช่อง True Sports 1
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6arMVUYCCkGv0WNLtTmCRR83ZH73rXphfQ&s",ช่อง True Sports 2
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQZoOnlWZc_QjuheSY8nb4d4tURXMqE7j2w&s",ช่อง True Sports 5
-https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776196.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง True Premire Football 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5lwzQeeFr0DCIOU9yoecJaKzYDtHoTVPg&s",ช่อง beIN Sports 1
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",ช่อง beIN Sports 2
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MOdlKhNI64bUj-yYGA9w0BKF8sBwe2dcBw&s",ช่อง beIN Sports 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
@@ -248,6 +218,9 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
+https://live-us1.thaimomo.com/live-as/chlantung-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nKg0OK4uiofxRCsDuk95VCOsM7bswscVTv4qdNTgJGjhg=s900-c-k-c0x00ffffff-no-rj",ช่อง ทรูปลูกปัญญา
 https://www.trueplookpanya.com/tv/
@@ -339,12 +312,6 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://oet01.stou.ac.th/stouchannel/wp-content/uploads/sites/18/2019/06/cropped-stouchannel_color.png",ช่อง STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
-https://tvpass.org/live/AEEast/hd
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/250px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
-https://tvpass.org/live/CrimePlusInvestigation/hd
-
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOzJDccu0Vrr_sSB_aQjBCALZ_meODXSuGw&s",ช่อง Camera Smile
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
@@ -383,12 +350,6 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://dishpromotions.com/wp-content/uploads/CSPN2-logo.png",ช่อง C-SPAN 2
-https://tvpass.org/live/CSPAN2/hd
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY01qX-sLD9J0h387yRif4P9Y0Hn71A6rRAw&s",ช่อง CNBC
-https://tvpass.org/live/CNBC/hd
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
@@ -1254,8 +1215,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="India TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",ช่อง Uniques HD
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 
-#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmKl_gg6kaIil0aoNDVfeTDc-Rs5fIcHwMw&s",ช่อง RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SCTV_HD_Logo.svg/3840px-SCTV_HD_Logo.svg.png",ช่อง SCTV HD
+http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://cdn.techinasia.com/data/images/5hq8giWqvvuSce6kDyF7yVyeTYyZWEtg9Fi7NnKg.png",ช่อง TRANSTV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2LUaOnOCSWphQkLmHiCALHuSMDcEYrufZg&s",ช่อง TRANS7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",ช่อง VTV1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
@@ -1497,8 +1467,8 @@ https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo Country
 https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Z0AOPL5tcGTNqMTVJDHhqCfNiNvCJYyLDA&s",ช่อง KIX
-https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU4NzhmZmItNjU1OS00ZTAwLTljMmMtZjQ4OWQwMWJlZjJmXkEyXkFqcGc@._V1_QL75_UX500_CR0,234,500,281_.jpg",ช่อง AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
@@ -1653,33 +1623,6 @@ https://www.trueplookpanya.com/tv/
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfb8FvNlFjBCiaqv7BAwzhPfRJcEveKZJh_g&s",ช่อง True Sports 1
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6arMVUYCCkGv0WNLtTmCRR83ZH73rXphfQ&s",ช่อง True Sports 2
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyx_M3_uRtHyqrgm9RZiOsv4tXzlhKZhhlw&s",ช่อง True Sports 3
-https://love.46wur1l2ob.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQZoOnlWZc_QjuheSY8nb4d4tURXMqE7j2w&s",ช่อง True Sports 5
-https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWi0sa5vBo-iE2RdIayHshJFkAav81T4QVA&s",ช่อง True Sports 7
-https://love.46wur1l2ob.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง true Premire football 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5lwzQeeFr0DCIOU9yoecJaKzYDtHoTVPg&s",ช่อง beIN Sports 1
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",ช่อง beIN Sports 2
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MOdlKhNI64bUj-yYGA9w0BKF8sBwe2dcBw&s",ช่อง beIN Sports 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://www.adintrend.tv/hd/ch3?t=live
 
@@ -1766,9 +1709,6 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYC40B8ABbfe65TDocCBRq6Fq5SSOvgj01w&s",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0-qvp3DjGf8SuxIpjsCcdVUYDlAxtH3Bog&s",ช่อง Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
