@@ -1248,6 +1248,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b3840
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQugHdtirzB9RqLtU2SFtMXs4YNphGX7bRlA&s",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
+http://cdn6.163189.xyz/163189/8tv
+
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
@@ -1458,6 +1461,15 @@ https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lKmh1zr4g16VaadJMnC6wMDDldRFF6EUtA&s",ช่อง Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHo4eo8vKBpoo7_X4P4Z3IGk800mz59FcQ-Q&s",ช่อง Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",ช่อง NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2-DxoriOs5tT8WVUNu9rAoqifVo580GOVQ&s",ช่อง That's 70's
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
 
@@ -1491,6 +1503,18 @@ https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 #EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEb3C1a7FWu0Hl-_tOJE1R3W6YokFGLRew&s",ช่อง AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOzJDccu0Vrr_sSB_aQjBCALZ_meODXSuGw&s",ช่อง Camera Smile
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png",ช่อง Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMWI1ZmEtZTEzOC00NmUxLThlN2MtOTdhZTI4ZTcwMGUzXkEyXkFqcGc@._V1_.jpg",ช่อง Fear Factor
+https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuhasapVuuoI2pspSdtRvsFApKbwvqT0JQw&s",ช่อง Haunt TV
+https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
@@ -1499,6 +1523,12 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsVo6Y93vp3QAE61ywc9kbGc3w-Dljj5dwg&s",ช่อง Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM16bCAbg0FIGxmgBX9ZTP85HUh19xvNnSjg&s",ช่อง Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dNymyhlNRbmpB7qvVTT62iWtphe0qRMEQA&s",ช่อง Come Dine with Me
+https://jmp2.uk/plu-65d724a9d8adfa00086c8ae9.m3u8
 
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
@@ -1557,9 +1587,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNPzdNfSJAJP75npTZQY7sAHt2f_q4CIKSg&s",ช่อง BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY01qX-sLD9J0h387yRif4P9Y0Hn71A6rRAw&s",ช่อง CNBC
-https://tvpass.org/live/CNBC/hd
-
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNroASc9BorbVMaeVGiCxOrreGpPOzLh1FQ&s",ช่อง Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
@@ -1571,6 +1598,9 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s",ช่อง NEWSMAX2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CMdieU1YSM6pUePCUtSp2w5jbUWLQQys4A&s",ช่อง GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV0vxC6lZhJcOZ6_WPhZAK_2g-cP-k0d1Hg&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
