@@ -1,37 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",ช่อง キャンプ・アウトドア
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+http://213.91.179.28:8000/play/a03q
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",ช่อง GOLF LIFE
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+http://77.46.130.252:99/maxsport1
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",ช่อง 観るたび
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",ช่อง 今日のごはんなに?
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ช่อง ペットTV
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",ช่อง 東海ロキポ
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",ช่อง 丸ごと北海道
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",ช่อง FASHIONPLUS
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ช่อง ぴあ落語ざんまい
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",ช่อง 丸ごと九州
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+http://cdn6.163189.xyz/163189/8tv
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",ช่อง エンタメニュース
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ช่อง ビジネス・プレミアム
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
