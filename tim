@@ -525,6 +525,12 @@ https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVS Nostalgia Movies
 https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAg5RHFmbDJpybDaMIL19urZttp0nCy8KIg&s",ช่อง Great! Romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1280px-Pop_UK_TV_Logo_%282015%29.svg.png",ช่อง Pop
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 
@@ -1009,6 +1015,9 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
 https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7gDK7-klM1F0eW0KNXKGd-K9OUGk-rKmAQ&s",ช่อง National Assembly TV
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
@@ -1593,9 +1602,6 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
-#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq4Q3mOju8X6kg61hUuDejd3hLDPExbcgCw&s",ช่อง Midnight Pulp
-https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
@@ -1622,6 +1628,12 @@ https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZTmoeUStMq7pnvhkKjhYC5ddTjuH1DoL6A&s",ช่อง Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cwwJUNnm3lZEvXoeoC6bE05YwFq2_lUuKg&s",ช่อง Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzPxQicX1lWyY43XaEOTlEbL88FWDAXbVOQ&s",ช่อง Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKUx-I8vgecnSFr5qAUAQbt4OQqx6Ady76SA&s",ช่อง XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
@@ -1662,29 +1674,14 @@ https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBuhasapVuuoI2pspSdtRvsFApKbwvqT0JQw&s",ช่อง Haunt TV
 https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqrZObWDo4RVDrFH7bZWHk1002AqJB4EQgQ&s",ช่อง Tastemade Home
-https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
-
-#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNkQrg9YOrnxaKQsDqxAy8e9DeEyecAycRQ&s",ช่อง Tastemade Travel
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vgxuIBQj9A2x7tQ6ecvmEFgZ1iEkdToVKA&s",ช่อง Ghost Hunters
+https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtC9wtEH-jCEQL-g4rnG-1N95Y0OiaWfLsJg&s",ช่อง The Design Network
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Tiny_House_Nation_logo.png",ช่อง Tiny House Nation
-https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
-
-#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",ช่อง ZooMoo
-https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
-
-#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgzODIzMGYtMTMwYS00YjJiLTgwMWYtMmEyNWNkNGIzNGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",ช่อง Mr. Bean Animated
-https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
-
-#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JoJo%27s_Bizarre_Adventure_logo.png/250px-JoJo%27s_Bizarre_Adventure_logo.png",ช่อง JoJo's Bizarre Adventure
-https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CqgF4byaNQBz-sCnvppgtikdTxg7BjLAPQ&s",ช่อง Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
@@ -1698,11 +1695,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 #EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dNymyhlNRbmpB7qvVTT62iWtphe0qRMEQA&s",ช่อง Come Dine with Me
 https://jmp2.uk/plu-65d724a9d8adfa00086c8ae9.m3u8
 
-#EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkKhJJRJYL0WWx3uxARCHdBSVQAAC6riHbg&s",ช่อง PBS Food
-https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8
+#EXTINF:-1 group-title="Food Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/GBMtitle.jpg",ช่อง Great British Menu
+https://all3media-great-british-menu-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Food Channel" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K Food by CJ ENM
-https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
+#EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOhM4Jh4biX_P1iJcP_cU3UcIsHajDpbm4g&s",ช่อง Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
@@ -1724,6 +1721,9 @@ http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s",ช่อง Premier sports
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJci0xQxOQmEU94dSNpcjag_2OpEZSYE1W5w&s",ช่อง FIFA+
+https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/66b604178b19d7efdc584b92_tennis-channel.png",ช่อง Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
@@ -1775,6 +1775,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CMdieU1YSM6pUePCUtSp2w5jbUWLQQys4A&s",ช่อง GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcb66QnEr5U2SdZIIoxZi_W1xbR2DKlVZeg&s",ช่อง France 24 English
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV0vxC6lZhJcOZ6_WPhZAK_2g-cP-k0d1Hg&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
