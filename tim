@@ -67,7 +67,7 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_py4gl1PHMUfNOwSYEvI9D02XckzB6uar.jpg",ช่อง TRUTH TV
-https://mvtv.co.th/play/play_mvtv.php?no=30&channel=TRUTH%20TV%20(75)
+https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1782666300&uta=OCzgyP-R6v-m4uN68Hh_kg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
 https://tv-live.tpchannel.org/live/tv_720p.m3u8
@@ -115,19 +115,19 @@ http://49.0.64.96:8007/SERIES
 http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/194_y_9BUVhAoK5Dzxwjdu2rgXWP8Sb7JOnFRt.png",ช่อง MIXMAJOR
-https://mvtv.co.th/play/play_mvtv.php?no=194&channel=MIXMAJOR
+https://lb-live-m.sky-cdn.com/mv/mix.m3u8?expires=1782666777&uta=UB2e-8QakgNBAiff9TJcPA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/37_y_8KPsXmUlvo3WdRBa4kFw57MAjYC0JpSn.png",ช่อง สยาม Channel
-https://mvtv.co.th/play/play_mvtv.php?no=37&channel=%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%20Channel
+https://lb-live-m.sky-cdn.com/mv/siam.m3u8?expires=1782666827&uta=x-z13iwIBMQLPwvONITLDg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/38_y_1GdTFB60lkIKhROmJe9cgSLXYxuaZtWq.png",ช่อง ลิโด้ Channel
 https://mvtv.co.th/play/play_mvtv.php?no=38&channel=%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89%20Channel
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/39_y_XlQsEw0e6upJZHaLvYhof1W3DkS9yTPi.png",ช่อง สกาล่า Channe
-https://mvtv.co.th/play/play_mvtv.php?no=39&channel=%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%20Channel
+https://lb-live-m.sky-cdn.com/mv/scala.m3u8?expires=1782666740&uta=PsRTFWPwch1KkbIxeJnVhg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/193_y_DkM50ECZIn7GTaO3tgKYfih6AzUPoBHp.jpg",ช่อง ราม่า channel
-https://mvtv.co.th/play/play_mvtv.php?no=193&channel=%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2%20channel
+https://lb-live-m.sky-cdn.com/mv/rama.m3u8?expires=1782666850&uta=1hFtz3LRLJSVSb3Ym6Wqbw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m5zto9xIURq-WihmzoPl60uWDR2fKV0SNc0Jg03xG0JE0L=s900-c-k-c0x00ffffff-no-rj",ช่อง ท็อปทีวี
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
@@ -166,10 +166,10 @@ https://mvtv.co.th/play/play_mvtv.php?no=105&channel=TTD10
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",ช่อง Boomerang
-https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1782666514&uta=RVaEgkns9Ci-dSzIMsEDGQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",ช่อง Mango Mojito
-https://mvtv.co.th/play/play_mvtv.php?no=188&channel=Mango%20Mojito
+https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1782666616&uta=8YHD4O-FTb8cg7iXCD32Uw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
@@ -193,7 +193,7 @@ http://49.0.64.96:8007/Animal
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ช่อง ไทบ้านทีวี
-https://mvtv.co.th/play/play_mvtv.php?no=35&channel=%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://lb-live-m.sky-cdn.com/mv/thaibaan.m3u8?expires=1782666800&uta=gBJIhnZcwOop5VXtbhAMwA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png",ช่อง อีสานทีวี
 https://mvtv.co.th/play/play_mvtv.php?no=108&channel=%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
@@ -202,13 +202,13 @@ https://mvtv.co.th/play/play_mvtv.php?no=108&channel=%E0%B8%AD%E0%B8%B5%E0%B8%AA
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/111_y_aDCJ36j9LTdRNsV8YvigI1ftnycXe5ou.png",ช่อง มูเตลู
-https://mvtv.co.th/play/play_mvtv.php?no=111&channel=%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%95%E0%B8%A5%E0%B8%B9
+https://lb-live-m.sky-cdn.com/mv/mutalu.m3u8?expires=1782666878&uta=eFfbVcdrcdkmVEbAVJF5IA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
-https://mvtv.co.th/play/play_mvtv.php?no=34&channel=MVM
+https://lb-live-m.sky-cdn.com/mv/mvm.m3u8?expires=1782666922&uta=T7YnuiyVLutyM8Wco5TPcQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",ช่อง MVLAO
-https://mvtv.co.th/play/play_mvtv.php?no=33&channel=MVLAO
+https://lb-live-m.sky-cdn.com/mv/mvlao.m3u8?expires=1782666902&uta=kfp4iLQsTSLuDHbLuZD9lQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
@@ -244,22 +244,22 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",ช่อง MVMall Living
-https://mvtv.co.th/play/play_mvtv.php?no=171&channel=MVMall%20Living
+https://lb-live-m.sky-cdn.com/mv/living.m3u8?expires=1782666559&uta=1KDV2nLJsHQFfPKveDKBvw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/89_y_y9TtlhsnYHegoVCifM4UIrLGQaKOm0Dz.png",ช่อง MVMall Trend
-https://mvtv.co.th/play/play_mvtv.php?no=89&channel=MVMall%20Trend
+https://lb-live-m.sky-cdn.com/mv/trend.m3u8?expires=1782666714&uta=LbsvMcSp9Pnxhy8eez3ASA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",ช่อง MVMall Family
 https://mvtv.co.th/play/play_mvtv.php?no=107&channel=MVMall%20Family%20(40)
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",ช่อง MVMall Healthy
-https://mvtv.co.th/play/play_mvtv.php?no=36&channel=MVMall%20Healthy%20(58)
+https://lb-live-m.sky-cdn.com/mv/healthy.m3u8?expires=1782666667&uta=z2dFvsX7osuGyEdbooERGA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/40_y_vXc1emONx4pf2B397HPgljtErLIqhVoT.png",ช่อง MVMall DD
-https://mvtv.co.th/play/play_mvtv.php?no=40&channel=MVMall%20DD%20(59)
+https://lb-live-m.sky-cdn.com/mv/dd.m3u8?expires=1782666588&uta=9s91WZXa58rp1Jlb1k-NHQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/32_y_FVzqJyNiGrdE0seQxCptgUcfmOYbnhLK.png",ช่อง MVMall Plus
-https://mvtv.co.th/play/play_mvtv.php?no=32&channel=MVMall%20Plus%20(51)
+https://lb-live-m.sky-cdn.com/mv/plus.m3u8?expires=1782666695&uta=pYRoFOReckgnCG2mWR64bw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",ช่อง DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
