@@ -66,8 +66,8 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwNi9XvVv507fJJUz04_oGvooAUxO4LVrmmV-i1_Peg&s=10",ช่อง Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_py4gl1PHMUfNOwSYEvI9D02XckzB6uar.jpg",ช่อง TRUTH TV
-https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1782666300&uta=OCzgyP-R6v-m4uN68Hh_kg
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/VT9m5oge0eggOCQ6G0JEmHXqGySTuDH5P0cPm7KzvkHE1O_1JbIHuLNcc-CxtQ3ebVKvCxNTNPU=s900-c-k-c0x00ffffff-no-rj",ช่อง TRUTH TV
+https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1783700113&uta=_p6H0Xm7kBv7HWhIFtp44g
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSoJc-9RBROxgQktr8VZDoCCfEKJ85SMN1Ow&s",ช่อง โทรทัศน์รัฐสภา
 https://tv-live.tpchannel.org/live/tv_720p.m3u8
@@ -114,20 +114,23 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s",ช่อง Channel 8 Thailand
 http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61Q5xNcWYVGnY0Wtsk1I8ffl1vdnv8Ro5a8n40w7Z&s=10",ช่อง MVTV
+https://lb-live-m.sky-cdn.com/mv/mvtv-web.m3u8?expires=1783700973&uta=WY0mFGgATQvCElEGzJSTng
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/194_y_9BUVhAoK5Dzxwjdu2rgXWP8Sb7JOnFRt.png",ช่อง MIXMAJOR
-https://lb-live-m.sky-cdn.com/mv/mix.m3u8?expires=1782666777&uta=UB2e-8QakgNBAiff9TJcPA
+https://lb-live-m.sky-cdn.com/mv/mix.m3u8?expires=1783700842&uta=8KjGcqNAWsnQT4ZxtbpAkA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/37_y_8KPsXmUlvo3WdRBa4kFw57MAjYC0JpSn.png",ช่อง สยาม Channel
-https://lb-live-m.sky-cdn.com/mv/siam.m3u8?expires=1782666827&uta=x-z13iwIBMQLPwvONITLDg
+https://lb-live-m.sky-cdn.com/mv/siam.m3u8?expires=1783700877&uta=KLiC32yX_VKBzn6hnf8vcg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/38_y_1GdTFB60lkIKhROmJe9cgSLXYxuaZtWq.png",ช่อง ลิโด้ Channel
 https://mvtv.co.th/play/play_mvtv.php?no=38&channel=%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89%20Channel
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/39_y_XlQsEw0e6upJZHaLvYhof1W3DkS9yTPi.png",ช่อง สกาล่า Channe
-https://lb-live-m.sky-cdn.com/mv/scala.m3u8?expires=1782666740&uta=PsRTFWPwch1KkbIxeJnVhg
+https://lb-live-m.sky-cdn.com/mv/scala.m3u8?expires=1783700812&uta=Xw499ouuqSM-lk9DAU58Ag
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/193_y_DkM50ECZIn7GTaO3tgKYfih6AzUPoBHp.jpg",ช่อง ราม่า channel
-https://lb-live-m.sky-cdn.com/mv/rama.m3u8?expires=1782666850&uta=1hFtz3LRLJSVSb3Ym6Wqbw
+https://lb-live-m.sky-cdn.com/mv/rama.m3u8?expires=1783700902&uta=MnhgKRuqD5c8XUTsT9fxQA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m5zto9xIURq-WihmzoPl60uWDR2fKV0SNc0Jg03xG0JE0L=s900-c-k-c0x00ffffff-no-rj",ช่อง ท็อปทีวี
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
@@ -166,10 +169,10 @@ https://mvtv.co.th/play/play_mvtv.php?no=105&channel=TTD10
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",ช่อง Boomerang
-https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1782666514&uta=RVaEgkns9Ci-dSzIMsEDGQ
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1783700247&uta=QAR1MvAu-A1ytsJM6NCBiw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",ช่อง Mango Mojito
-https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1782666616&uta=8YHD4O-FTb8cg7iXCD32Uw
+https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1783700632&uta=QVuGVbtAD3CVP83-pDD8BA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
@@ -193,7 +196,7 @@ http://49.0.64.96:8007/Animal
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ช่อง ไทบ้านทีวี
-https://lb-live-m.sky-cdn.com/mv/thaibaan.m3u8?expires=1782666800&uta=gBJIhnZcwOop5VXtbhAMwA
+https://lb-live-m.sky-cdn.com/mv/thaibaan.m3u8?expires=1783700858&uta=Ikr9giMdLMcKRzrYnaIauQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png",ช่อง อีสานทีวี
 https://mvtv.co.th/play/play_mvtv.php?no=108&channel=%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
@@ -202,13 +205,13 @@ https://mvtv.co.th/play/play_mvtv.php?no=108&channel=%E0%B8%AD%E0%B8%B5%E0%B8%AA
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/111_y_aDCJ36j9LTdRNsV8YvigI1ftnycXe5ou.png",ช่อง มูเตลู
-https://lb-live-m.sky-cdn.com/mv/mutalu.m3u8?expires=1782666878&uta=eFfbVcdrcdkmVEbAVJF5IA
+https://lb-live-m.sky-cdn.com/mv/mutalu.m3u8?expires=1783700920&uta=LnnycqLSYMGjh7Mq1_Um3w
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
-https://lb-live-m.sky-cdn.com/mv/mvm.m3u8?expires=1782666922&uta=T7YnuiyVLutyM8Wco5TPcQ
+https://lb-live-m.sky-cdn.com/mv/mvm.m3u8?expires=1783700955&uta=W034AJV6wEvSTCSKpJ1OTw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",ช่อง MVLAO
-https://lb-live-m.sky-cdn.com/mv/mvlao.m3u8?expires=1782666902&uta=kfp4iLQsTSLuDHbLuZD9lQ
+https://lb-live-m.sky-cdn.com/mv/mvlao.m3u8?expires=1783700938&uta=ivCL3NUHrDPJZJ5QzMqGqA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
@@ -244,22 +247,22 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",ช่อง MVMall Living
-https://lb-live-m.sky-cdn.com/mv/living.m3u8?expires=1782666559&uta=1KDV2nLJsHQFfPKveDKBvw
+https://lb-live-m.sky-cdn.com/mv/living.m3u8?expires=1783700559&uta=BzaAJfTcq4NGqUP60tz-fA
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/89_y_y9TtlhsnYHegoVCifM4UIrLGQaKOm0Dz.png",ช่อง MVMall Trend
-https://lb-live-m.sky-cdn.com/mv/trend.m3u8?expires=1782666714&uta=LbsvMcSp9Pnxhy8eez3ASA
+https://lb-live-m.sky-cdn.com/mv/trend.m3u8?expires=1783700772&uta=SBArmB6U5wmRBbDjk6_OFg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",ช่อง MVMall Family
-https://mvtv.co.th/play/play_mvtv.php?no=107&channel=MVMall%20Family%20(40)
+https://lb-live-m.sky-cdn.com/mv/family.m3u8?expires=1783700792&uta=MufyOA3mdPo19C-3w6_mSQ
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",ช่อง MVMall Healthy
-https://lb-live-m.sky-cdn.com/mv/healthy.m3u8?expires=1782666667&uta=z2dFvsX7osuGyEdbooERGA
+https://lb-live-m.sky-cdn.com/mv/healthy.m3u8?expires=1783700678&uta=cB63YUapZCMF-5BxgnwIsg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/40_y_vXc1emONx4pf2B397HPgljtErLIqhVoT.png",ช่อง MVMall DD
-https://lb-live-m.sky-cdn.com/mv/dd.m3u8?expires=1782666588&uta=9s91WZXa58rp1Jlb1k-NHQ
+https://lb-live-m.sky-cdn.com/mv/dd.m3u8?expires=1783700606&uta=MwImB8OMm7OX1Pw3M3saYw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/32_y_FVzqJyNiGrdE0seQxCptgUcfmOYbnhLK.png",ช่อง MVMall Plus
-https://lb-live-m.sky-cdn.com/mv/plus.m3u8?expires=1782666695&uta=pYRoFOReckgnCG2mWR64bw
+https://lb-live-m.sky-cdn.com/mv/plus.m3u8?expires=1783700743&uta=gYJ0yPUd9Dlb9SqmE60bsw
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",ช่อง DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
@@ -547,10 +550,10 @@ http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s",ช่อง NHK BS
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",ช่อง NHK BSP4K
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
 http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
@@ -655,19 +658,19 @@ http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",ช่อง BS Asahi
-http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",ช่อง BS Fuji TV
-http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",ช่อง BS Nippon TV
-http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",ช่อง BS TBS
-http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",ช่อง BS TV Tokyo
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",ช่อง BS 10
 http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
@@ -682,7 +685,7 @@ http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
-http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",ช่อง Movie Plus
 http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
@@ -691,13 +694,13 @@ http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
-http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",ช่อง WOWOW Prime
-http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",ช่อง WOWOW Live
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",ช่อง WOWOW Plus
 http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
@@ -712,7 +715,7 @@ http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i7CPm1dTs-fDNMZhGuEAOSzkipdTGxWLvg&s",ช่อง Nihon Eiga Senmon
-http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",ช่อง Neco Channel
 http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
@@ -757,7 +760,7 @@ http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/gPp9qo9jvkd9r9kUJ0ejfO_FoM1zRGbAatXN5AC9AfnUL0a4uh0fy7Ixm3v8G7y_GjDX1eSCYQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Space Shower TV
-http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png",ช่อง Kayo Pops
 http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
@@ -781,7 +784,7 @@ http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ช่อง Animax
-http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",ช่อง Kids Station
 http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
@@ -793,22 +796,22 @@ http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-dc.jpg",ช่อง Disney Channel Japan
-http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-junior.jpg",ช่อง Disney Jr. Japan
 http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png",ช่อง J Sports 1
-http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/747.png",ช่อง J Sports 2
-http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",ช่อง J Sports 3
-http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpE1ETERXAr0sDDPk5x4-27nMvr2S1y2_0A&s",ช่อง J Sports 4
-http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap0xYgCK4qjD0o7l6NcIdnoefn9z_DvZjKA&s",ช่อง Nittele G Plus
 http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
@@ -829,10 +832,10 @@ http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mod
 http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://hidakakonbu.net/wp-content/uploads/2018/07/logo_greenchannel.png",ช่อง Green Channel
-http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/31dSiRDx8XYX41jikFPIwYJK213ghYEbLKP0wqZ2sHNQlbd98Tv5k_G8vgF0-n5LHWaCdHF9Fw=s160-c-k-c0x00ffffff-no-rj",ช่อง Fishing Vision
-http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",ช่อง Shogi Channel
 http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
