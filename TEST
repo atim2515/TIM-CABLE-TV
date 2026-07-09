@@ -1,76 +1,79 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",ช่อง キャンプ・アウトドア
-http://213.91.179.28:8000/play/a03q
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",ช่อง GOLF LIFE
-http://77.46.130.252:99/maxsport1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",ช่อง 観るたび
-https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",ช่อง 今日のごはんなに?
-https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ช่อง ペットTV
-https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",ช่อง 東海ロキポ
-https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",ช่อง 丸ごと北海道
-https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",ช่อง FASHIONPLUS
-https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ช่อง ぴあ落語ざんまい
-https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs09#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",ช่อง 丸ごと九州
-http://cdn6.163189.xyz/163189/8tv
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",ช่อง エンタメニュース
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ช่อง ビジネス・プレミアム
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",ช่อง エンタメ・アジア
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs13#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",ช่อง LeminoTV
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ช่อง ぷれいば！
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ช่อง NTV Pro Wrestling
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs16#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",ช่อง 九州・沖縄　街ネタ
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs17#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",ช่อง 映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",ช่อง アイドル・グラビア
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",ช่อง 日テレNEWS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png",ช่อง スカイA サプリ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",ช่อง FUEL TV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",ช่อง GAORA ZERO
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",ช่อง 刺激ストロング
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง しまじろうチャンネル
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง しまじろうチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
