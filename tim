@@ -321,6 +321,12 @@ http://40.160.24.53/MTV/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYoLejx_hxY1gI4GCw8WX1YRUzWvAV5b86Q&s",ช่อง MTV2
 http://40.160.24.53/MTV2/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1ru8litkjxfU6RQbXhMl7pArQjaME4IVRQ&s",ช่อง MTV Live
+http://40.160.24.53/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",ช่อง MTV Classic
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_gA251GPmj52DJ8DXsPVFPZn4kinTuccOVW1RGNO&s",ช่อง Great Entertainment Television
 http://40.160.24.52/GetTV/index.m3u8
 
@@ -521,12 +527,6 @@ http://40.160.24.52/AXS_TV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvdVEHtqf9XTPgtfAwwh3DrkAhexvl09E0g&s",ช่อง CMT
 http://40.160.24.52/CMT/index.m3u8
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1ru8litkjxfU6RQbXhMl7pArQjaME4IVRQ&s",ช่อง MTV Live
-http://40.160.24.53/MTV_LIVE/index.m3u8
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",ช่อง MTV Classic
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",ช่อง Revolt
 http://40.160.24.58/REVOLT/index.m3u8
