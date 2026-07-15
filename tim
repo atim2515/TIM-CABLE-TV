@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
-https://www.adintrend.tv/hd/ch3?t=live
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง TV5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -33,6 +33,9 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chun
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtobEzzhW-LkVQLExAfvnTY9sSgHysP_2zQ&s",ช่อง Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-_gw7Ot8wo8BjUjf2B6MCWkEinTixm4Tl7K2LSlktQ&s=10",ช่อง Vipa TV
+https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
 https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
@@ -49,22 +52,25 @@ https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhon
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
-https://www.adintrend.tv/hd/ch0?t=live
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
-https://www.one31.net/live
+https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
-https://www.thaich8.com/live
+https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwNi9XvVv507fJJUz04_oGvooAUxO4LVrmmV-i1_Peg&s=10",ช่อง Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2NOMyvDYyzGYairQO0iPGWOcqG4iCC2lj4xZYAc76MUaBnNn_y9OevKp&s=10",ช่อง Umm TV
+https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/VT9m5oge0eggOCQ6G0JEmHXqGySTuDH5P0cPm7KzvkHE1O_1JbIHuLNcc-CxtQ3ebVKvCxNTNPU=s900-c-k-c0x00ffffff-no-rj",ช่อง TRUTH TV
 https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1783700113&uta=_p6H0Xm7kBv7HWhIFtp44g
@@ -76,7 +82,7 @@ https://tv-live.tpchannel.org/live/tv_720p.m3u8
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/017349b0-a5c0-11ed-81fb-39ce5d470141_webp_original.png",ช่อง TNN16
-https://www.tnnthailand.com/live/
+https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",ช่อง NATION TV
 https://playidtv24.vercel.app/stream/3bbtv/nation.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -173,6 +179,9 @@ https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1783700247&uta=QAR1MvAu-
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/188_y_9itQ04ehdKRuspqr7o5HaWjAZnTk2lmI.jpg",ช่อง Mango Mojito
 https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1783700632&uta=QVuGVbtAD3CVP83-pDD8BA
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
@@ -314,6 +323,9 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://oet01.stou.ac.th/stouchannel/wp-content/uploads/sites/18/2019/06/cropped-stouchannel_color.png",ช่อง STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
+http://180.180.243.239/streams/3/hls
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://40.160.24.53/MTV/index.m3u8
@@ -654,9 +666,6 @@ http://40.160.24.52/NESN/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQFH0YY8EFxSFc5jhbvXeXZkW4uo5HFTJeoPjKsRlKrw&s=10",ช่อง Big Ten Network
 http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png",ช่อง ACC Network
-http://40.160.24.52/ACC_NETWORK/index.m3u8
-
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnFxq16zQxmM01wpYaKAKz8Ut5qG_IRucvw&s",ช่อง MSG
 http://40.160.24.52/MSG/index.m3u8
 
@@ -674,6 +683,9 @@ http://40.160.24.52/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/250px-SEC_Network_%282024%29.svg.png",ช่อง SEC Network
 http://40.160.24.55/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png",ช่อง ACC Network
+http://40.160.24.52/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUk9yNmeRKnRV3-ikFIEpiUBdH_9VMoW9dNJTnkLiUwiZVwb5j0Cv47DNW&s=10",ช่อง FanDuel TV
 http://40.160.24.55/TVG/index.m3u8
@@ -870,11 +882,23 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tvs_television_network_logo.jpg",ช่อง TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JRBdhUGI6Bnv9RP5vuk37NCzhpjTRlDguA3y8USuzw&s=10",ช่อง BBC News
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9BhBKryxjon7xlQO88Uq3psmp6S418foUoy8lg9vow6zKMr-sQqsJ2mP&s=10",ช่อง BBC One
+http://193.239.186.231/BBC1/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfObsmeBgdvGpKoQpR0K3e2PmaiboiOThjbTFf-aTHbGSjWN5_qGgDRNM&s=10",ช่อง BBC Three
+http://41.205.77.102/BBC-THREE/index.m3u8
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAg5RHFmbDJpybDaMIL19urZttp0nCy8KIg&s",ช่อง Great! Romance
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6o_UK6VBX7YVobo2n1CX7oYR-zVSKmyzyTe93qlMRw&s=10",ช่อง MTV Global
+https://shift03.isp.bg/MTVEurope/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1280px-Pop_UK_TV_Logo_%282015%29.svg.png",ช่อง Pop
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
@@ -1974,11 +1998,17 @@ https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGyv1BbAYHXYBet1eh0Dg8Ejlh15aAeb4kA&s",ช่อง That's Rock
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0hegfmQvg2nnzbjA3ebQBdb5ZH2QwFZKO0MtkXGEZ-kzRw87A91e72A&s=10",ช่อง Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZTmoeUStMq7pnvhkKjhYC5ddTjuH1DoL6A&s",ช่อง Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cwwJUNnm3lZEvXoeoC6bE05YwFq2_lUuKg&s",ช่อง Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkr27lUyrDiaLOdKwgXRp3q300tWSzBGo_zpUErVZtoA&s",ช่อง Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzPxQicX1lWyY43XaEOTlEbL88FWDAXbVOQ&s",ช่อง Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
