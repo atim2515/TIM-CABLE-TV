@@ -771,6 +771,19 @@ https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vz7sK-AQrBh3hADcspCUFsVjR-WxTjmiiIrVxwnCww&s=10",ช่อง Mad Dog and Merrill
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NWADIfeq1QuU6sSMGzaotrAivo2DrsUTNjwI2OQoS2rLZqhjERJLkRwP&s=10",ช่อง AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NWADIfeq1QuU6sSMGzaotrAivo2DrsUTNjwI2OQoS2rLZqhjERJLkRwP&s=10",ช่อง AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NWADIfeq1QuU6sSMGzaotrAivo2DrsUTNjwI2OQoS2rLZqhjERJLkRwP&s=10",ช่อง AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRDaQHOaw9warEuhHZJ3rcZnVgefD6AnFAjvPSmSzQ&s=10",ช่อง DreamWorks Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://103.137.83.62:9090/play/30/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Florida & Alabama
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
