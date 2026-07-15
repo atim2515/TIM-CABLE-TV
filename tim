@@ -898,6 +898,7 @@ https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/a
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6o_UK6VBX7YVobo2n1CX7oYR-zVSKmyzyTe93qlMRw&s=10",ช่อง MTV Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/MTVEurope/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1280px-Pop_UK_TV_Logo_%282015%29.svg.png",ช่อง Pop
