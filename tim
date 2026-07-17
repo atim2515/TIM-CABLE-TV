@@ -456,6 +456,9 @@ http://40.160.24.52/FXX/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEiIdGAr2Rm1NeJHQ5VEsphqe6_ZI7sCn4A&s",ช่อง SYFY
 http://40.160.24.55/SYFY/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BnS0SP6A7yJi5yAymqoMBx-eXMT5TTxkGmh_U9J9lA&s=10",ช่อง TNT
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRUgw7ng-HWMZlkQfli3FF_pPFcgwrqhB8w&s",ช่อง VH1
 http://40.160.24.55/VH1/index.m3u8
 
@@ -504,6 +507,12 @@ http://40.160.24.55/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs81E24wuzRqHYS97vR_P3Z63zX0odXuOQkxIfB_pgfg&s=10",ช่อง Star Channel
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1280px-Starz_Cinema_Logo_2022.svg.png",ช่อง STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/500px-Showtime_Family_Zone.svg.png?_=20160604164339",ช่อง SHOWTIME FAMILY
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA9lEPckEeqfzNhW3qhk2hh6Yi-WfG8pxwh0bg8Lu_7j8XpY4EtT28TZk&s=10",ช่อง Start TV
 http://40.160.24.55/START_TV/index.m3u8
 
@@ -537,8 +546,11 @@ http://40.160.24.52/DECADES/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Antenna_TV_2022.svg/250px-Antenna_TV_2022.svg.png",ช่อง Antenna TV
 http://40.160.24.52/ANTENNA_TV/index.m3u8
 
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD_NETWORK
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsS5I0QvJmPaOEnhzAup_9_sXyqXpwX75xv_h-gfH4Q&s=10",ช่อง COOKING CHANNEL
+http://rocketfx.uk:8080/live/henry/henry/ab049e11-0cb7-473f-a0a5-f1f673be6009.ts
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
 http://40.160.24.52/AXS_TV/index.m3u8
@@ -918,6 +930,9 @@ http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4oxlEMduRIB_Rat9MzKcdrf8QVw0ASRgr11DXryrJA&s=10",ช่อง BBC Three
 http://41.205.77.102/BBC-THREE/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjl4EJjqlNj3KyLl92wePQS7GpEiz-Lz0xmHn29HrAhw&s=10",ช่อง Channel 4
+http://rocketfx.uk:8080/live/henry/henry/468e03d6-d06b-43e0-b26d-ee0c42153cb3.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
@@ -1475,7 +1490,7 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade Astro
 http://r.jdshipin.com/thuYX
@@ -1484,7 +1499,7 @@ http://r.jdshipin.com/thuYX
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png",ช่อง TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+http://rihou.cc:555/tv/[Pd]Plus综合
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
@@ -1496,19 +1511,25 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fz6sOQP4c4viFvggqK0gARU0YC30C177CQ&s",ช่อง TVB News
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://rihou.cc:555/tv/[Pd]无线新闻
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
-http://cdn.163189.xyz/163189/now
+https://cdn.123.rr.kg/163189/now
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://cdn.prod.website-files.com/63c60a65b11cea030c5b3137/63c647cb3f09c3adfc80d0ed_logo-icable.png",ช่อง 有綫新聞
+http://rihou.cc:555/tv/[Pd]有线新闻
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/92/HOY_77_Logo.png/250px-HOY_77_Logo.png",ช่อง HOY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+http://rihou.cc:555/tv/[Pd]有线新闻
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png",ช่อง ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://mediaconfederation.com/wp-content/uploads/2022/10/600%E5%9B%BD%E9%99%85%E5%8F%B0.jpg",ช่อง 600国际新闻台
+https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxiHx2FJf-nNpEw0kKSjFlOm_vnkWBSTFHw&s",ช่อง RTHK 31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -1516,8 +1537,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png",ช่อง Phoenix Hong Kong Channel
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAjHhfTGLk5uk5YuRcxe-e2mYrfeTUOR3vFbtNWsS0w&s=10",ช่อง 凤凰資詢
+http://rihou.cc:555/tv/[Pd]凤凰资讯
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyc3vjbfKY4i-_5HxZwUJAVAR5WjIG15stRIynxOCfKw&s=10",ช่อง 鳳凰中文
+http://rihou.cc:555/tv/[Pd]凤凰中文
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง 鳳凰香港
+http://rihou.cc:555/tv/[Pd]凤凰香港
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUPs0uWtXmH6rniPKN_824P3NiPluXUhJsg&s",ช่อง 澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -1543,8 +1570,38 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TOcyrgT6x8hO7L5pMTCZymCqI0885inbHh7Z2EY7WaVfxya8P0zgJD0&s=10",ช่อง 耀才财经频道
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLyEB39q-tQOvL6z6h7_lipd5UcGkEBQdkw&s",ช่อง TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง 中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXIUFxq9gj6aLecsrK9WqgFdF7wLV4wNgJEBMcJsutw&s=10",ช่อง 台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง 华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TjcDWBNP96640AOx__V2i_aQwf4ghVAzA3m8P5Eipw&s=10",ช่อง 东森新闻
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
@@ -1596,6 +1653,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9jjhqy2NwyDn8N2eCiGp-WFVikQgSKmVpA&s",ช่อง CCTV-17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",ช่อง CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dLWHwyRifQYCc9H3x5Po820Xe4d2NlzUQAB0aJ1PW9T-X-CPl7dbbV7-&s=10",ช่อง CHC影迷电影
+http://192.151.150.154/live/chchd.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png/revision/latest?cb=20230916095723&path-prefix=vi",ช่อง CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
 
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",ช่อง CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
