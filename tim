@@ -402,6 +402,9 @@ http://40.160.24.52/FOX/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rb7kyzXg4gnLSmp4ozMBZg4GgdAu6r0uNRwvxIwNKw&s=10",ช่อง Game Show Network
 http://40.160.24.52/GSN/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5g_2jGoTWw41O4_p5yxll19OIOnHcTXG0JjaoMcpgg&s=10",ช่อง HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAndqZOOBQqqQ6S3MLdEadUfnVC95bvhiU8Q&s",ช่อง Paramount Network
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 
@@ -606,6 +609,9 @@ http://40.160.24.55/REELZ/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
 http://40.160.24.52/AE/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7jv_7gItwZ-dA-p3CvaDTYT7Q6-I9IJeKZftvoHEVw&s=10",ช่อง HLN
+http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1280px-Oxygen_TV_%282017_Logo%29.svg.png",ช่อง Oxygen 
 http://40.160.24.55/OXYGEN/index.m3u8
 
@@ -620,6 +626,9 @@ http://40.160.24.53/NAT_GEO/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1O2jDVeTiiiD-33SGoKt-gbhL-3cWqkW9g&s",ช่อง National Geographic Wild
 http://40.160.24.53/NAT_GEO_WILD/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn7tIuh5lMn3oezF7GUExtUPK-mKQV_j9wu2Ux4tV0g&s=10",ช่อง Animal Planet
+http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEP5toz-X0H65KZg38CLdSfBG2nencfOObEA&s",ช่อง History
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
@@ -901,10 +910,13 @@ https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JRBdhUGI6Bnv9RP5vuk37NCzhpjTRlDguA3y8USuzw&s=10",ช่อง BBC News
 http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9BhBKryxjon7xlQO88Uq3psmp6S418foUoy8lg9vow6zKMr-sQqsJ2mP&s=10",ช่อง BBC One
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyTqj4SrozQULhkLn6wLeY5IEmfWlpKownKYMp6suwA&s",ช่อง BBC One
 http://193.239.186.231/BBC1/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfObsmeBgdvGpKoQpR0K3e2PmaiboiOThjbTFf-aTHbGSjWN5_qGgDRNM&s=10",ช่อง BBC Three
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMvF_2jWXeBcd5jgNiwmVVsqEPC48AK0ZQNSpuaVC_w&s",ช่อง BBC Two
+http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4oxlEMduRIB_Rat9MzKcdrf8QVw0ASRgr11DXryrJA&s=10",ช่อง BBC Three
 http://41.205.77.102/BBC-THREE/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
@@ -2159,7 +2171,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNroASc9BorbVMaeVGiCxOrreGpPOzLh1FQ&s",ช่อง Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 group-title="News Channel" tvg-logo="https://dishpromotions.com/wp-content/uploads/CSPN2-logo.png",ช่อง C-SPAN 2
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPPaHraREIBXW8Le_zQVTNCOfEaE19sVCKXCAnKvQ&s",ช่อง C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
 
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ra5bFRmZ8jusZ-eYl9va6uCiLWwDFjGDSA&s",ช่อง CBS News
