@@ -931,8 +931,65 @@ http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4oxlEMduRIB_Rat9MzKcdrf8QVw0ASRgr11DXryrJA&s=10",ช่อง BBC Three
 http://41.205.77.102/BBC-THREE/index.m3u8
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1sIe5Qyl711hO5-RijU7jaacZ2Z37dM3Bpu_pQILVBw&s=10",ช่อง BBC Four
+http://rocketfx.uk:8080/live/henry/henry/25d72491-4e51-4424-a6d9-7721661ecdc8.ts
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjl4EJjqlNj3KyLl92wePQS7GpEiz-Lz0xmHn29HrAhw&s=10",ช่อง Channel 4
 http://rocketfx.uk:8080/live/henry/henry/468e03d6-d06b-43e0-b26d-ee0c42153cb3.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp_sy_Ay2mCFvX6vvTtKXNZZZDnIlLvUKkMTthYbSPAw&s=10",ช่อง Channel 4+1
+http://rocketfx.uk:8080/live/henry/henry/855f6014-185a-4635-a3fb-9797cfefb82c.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqXWFJ-vBX85s96_ypImJNGEBJySHFOOWD2WeztpnTw&s=10",ช่อง Channel 5
+http://rocketfx.uk:8080/live/henry/henry/3a1e10fe-371d-4032-98ee-46744aa38e45.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRvItJDierePv0WF2TxrMBW6R6aRc1XuMLiyzDgcEddw&s=10",ช่อง Channel 5+1
+http://rocketfx.uk:8080/live/henry/henry/dee96e13-e9a1-4f2a-92b6-0f984f708296.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2I5o4RL-nutahqX4uSvYYXOobMwE0aqwgTpEzOl_Rqg&s=10",ช่อง ITV1
+http://rocketfx.uk:8080/live/henry/henry/4f09c2e2-2c49-4ac8-98fa-b1d3c311cf1a.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/ITV1_%2B1_logo_2022.svg/960px-ITV1_%2B1_logo_2022.svg.png?_=20221228000407",ช่อง ITV+1
+http://rocketfx.uk:8080/live/henry/henry/b06f2c70-a1dd-4d56-aa1e-e3a27afdd775.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MPuCE2H8zWOOIyCRPmJ_Z0_2lGzMKDsEu9Emu1LwBg&s=10",ช่อง ITV2
+http://rocketfx.uk:8080/live/henry/henry/cef934f5-083a-4b8d-8102-baf34e718d9e.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0OqGbXuIOTYcC1DyrVa0CjxnyAKHkK4wgRS9WdDJ0w&s=10",ช่อง ITV2+1
+http://rocketfx.uk:8080/live/henry/henry/41437af1-8beb-4ffb-b78c-195c21a937ef.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFucvXnYuRE7YH2ksmUE7a4-P4PQtv4IX_ZzUlEzsuA&s",ช่อง ITV3
+http://rocketfx.uk:8080/live/henry/henry/a3586a35-a54d-4089-971f-3d4f5b105e68.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPnDqEoFeHeCgJLAzU-JybFU4dQxMr0e2idb_16734Q&s=10",ช่อง ITV3+1
+http://rocketfx.uk:8080/live/henry/henry/e161991c-9403-4c9b-88ad-51b51d7c9ed3.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBvgdHGFCIj5_Ra_rWrUD00LaSE5gkzrPpcypTyW-QA&s=10",ช่อง ITV4
+http://rocketfx.uk:8080/live/henry/henry/9e88ad22-0e12-4e3d-822c-583f82261236.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLK0SBj0ehJ0zUaAFSEqxBz2Rv1EPNIWS1_6p8NuVKxA&s",ช่อง ITV4+1
+http://rocketfx.uk:8080/live/henry/henry/122db646-c214-4961-9e6a-e0de9f0217f2.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lU5Kfkn33gCz9PfknSsCzZqi5lZcUUej7PSchTyihQ&s=10",ช่อง 4seven
+http://rocketfx.uk:8080/live/henry/henry/e7324bf8-4fc1-4bf9-9b04-aace38888a97.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9WBsCB12EVQ8fHzHTAXNz6MeWBr2HgxEazwNNPV77A&s=10",ช่อง 5 Action
+http://rocketfx.uk:8080/live/henry/henry/eb0eaf54-e45b-40d1-85eb-b190349830c8.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/250px-5USA_logo.svg.png",ช่อง 5 USA
+http://rocketfx.uk:8080/live/henry/henry/eb605b3e-1b6d-472e-8fe4-f541cf0b4aaa.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/250px-5USA_logo.svg.png",ช่อง 5USA+1
+http://rocketfx.uk:8080/live/henry/henry/caa162ab-9a0d-462f-88a0-b8accf18541b.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBb3IjwkAkAzc3M2gWKzJ34ijfRUeoLgsnohW5Mj7Pew&s=10",ช่อง 5SELECT
+http://rocketfx.uk:8080/live/henry/henry/6f6df1c7-48c9-49c6-8b55-5e80946f74b0.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMup76vrZUvOlkNVvV5FfNpt6FU_QGO9afBZhLTFgELQ&s=10",ช่อง 5STAR
+http://rocketfx.uk:8080/live/henry/henry/a03bd760-d0b1-43cc-b29f-ca77b41cc2b7.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMup76vrZUvOlkNVvV5FfNpt6FU_QGO9afBZhLTFgELQ&s=10",ช่อง 5STAR+1
+http://rocketfx.uk:8080/live/henry/henry/c849328a-8ab3-4197-8dc5-f8cb82e25fe2.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
