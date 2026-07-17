@@ -456,9 +456,6 @@ http://40.160.24.52/FXX/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEiIdGAr2Rm1NeJHQ5VEsphqe6_ZI7sCn4A&s",ช่อง SYFY
 http://40.160.24.55/SYFY/index.m3u8
 
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BnS0SP6A7yJi5yAymqoMBx-eXMT5TTxkGmh_U9J9lA&s=10",ช่อง TNT
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
-
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRUgw7ng-HWMZlkQfli3FF_pPFcgwrqhB8w&s",ช่อง VH1
 http://40.160.24.55/VH1/index.m3u8
 
@@ -1056,7 +1053,7 @@ https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28 
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",ช่อง KNTV
 https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
@@ -1095,7 +1092,7 @@ https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง JCOM BS
-http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
@@ -1122,7 +1119,7 @@ https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",ช่อง Toei Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27 
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",ช่อง Home Drama Channel
 http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying 
@@ -1143,7 +1140,7 @@ http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying
 http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",ช่อง Channel Ginga
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29 
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg520t10qVmEtE9tmeiql5tubwhd5FStzqYLpwwxI4w&s=10",ช่อง Super Drama TV
 http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
@@ -1490,7 +1487,10 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade Astro
 http://r.jdshipin.com/thuYX
@@ -1522,7 +1522,7 @@ https://cdn.123.rr.kg/163189/now
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://cdn.prod.website-files.com/63c60a65b11cea030c5b3137/63c647cb3f09c3adfc80d0ed_logo-icable.png",ช่อง 有綫新聞
 http://rihou.cc:555/tv/[Pd]有线新闻
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/92/HOY_77_Logo.png/250px-HOY_77_Logo.png",ช่อง HOY 77
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQne_e3HL5Bqnfa0y3pJ-yt_cGppsrXrmZ0wGjSCvg4&s",ช่อง HOY 78
 http://rihou.cc:555/tv/[Pd]有线新闻
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png",ช่อง ViuTV
@@ -2113,6 +2113,15 @@ https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjH0w4XS_jzVQlr5820i8sh7VMOeBmzQgrw&s",ช่อง XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUwN0aCVB7XaA_r08bhwQadTUh7j7oXcJzA4jzYjuKs67pWlR24x79SiC&s=10",ช่อง MUSIC CHOICE 60S
+http://rocketfx.uk:8080/live/henry/henry/4b79b41b-56cb-4fec-aafd-a961b1c51aa5.ts
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUwN0aCVB7XaA_r08bhwQadTUh7j7oXcJzA4jzYjuKs67pWlR24x79SiC&s=10",ช่อง MUSIC CHOICE 70S
+http://rocketfx.uk:8080/live/henry/henry/2312f9bb-923a-4eb3-bbbb-2d0fb03e4ca1.ts
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUwN0aCVB7XaA_r08bhwQadTUh7j7oXcJzA4jzYjuKs67pWlR24x79SiC&s=10",ช่อง MUSIC CHOICE 80S
+http://rocketfx.uk:8080/live/henry/henry/e7bff5a4-bcb4-49a3-a344-6b11e0d3c64a.ts
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
