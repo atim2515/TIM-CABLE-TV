@@ -534,6 +534,9 @@ http://40.160.24.52/DECADES/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Antenna_TV_2022.svg/250px-Antenna_TV_2022.svg.png",ช่อง Antenna TV
 http://40.160.24.52/ANTENNA_TV/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD_NETWORK
+http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
 http://40.160.24.52/AXS_TV/index.m3u8
 
