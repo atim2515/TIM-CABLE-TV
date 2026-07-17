@@ -920,16 +920,16 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JRBdhUGI6Bnv9RP5vuk37NCzhpjTRlDguA3y8USuzw&s=10",ช่อง BBC News
-http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyTqj4SrozQULhkLn6wLeY5IEmfWlpKownKYMp6suwA&s",ช่อง BBC One
-http://193.239.186.231/BBC1/index.m3u8
+http://rocketfx.uk:8080/live/henry/henry/024ec764-b7b0-487b-9a37-24acb2b30cf7.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMvF_2jWXeBcd5jgNiwmVVsqEPC48AK0ZQNSpuaVC_w&s",ช่อง BBC Two
-http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
+http://rocketfx.uk:8080/live/henry/henry/ba3d2fb7-35d4-4ad2-889c-76ce32714624.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4oxlEMduRIB_Rat9MzKcdrf8QVw0ASRgr11DXryrJA&s=10",ช่อง BBC Three
-http://41.205.77.102/BBC-THREE/index.m3u8
+http://rocketfx.uk:8080/live/henry/henry/d1feac9c-419c-4c41-8149-dd1e344f5a94.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1sIe5Qyl711hO5-RijU7jaacZ2Z37dM3Bpu_pQILVBw&s=10",ช่อง BBC Four
 http://rocketfx.uk:8080/live/henry/henry/25d72491-4e51-4424-a6d9-7721661ecdc8.ts
@@ -990,6 +990,18 @@ http://rocketfx.uk:8080/live/henry/henry/a03bd760-d0b1-43cc-b29f-ca77b41cc2b7.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMup76vrZUvOlkNVvV5FfNpt6FU_QGO9afBZhLTFgELQ&s=10",ช่อง 5STAR+1
 http://rocketfx.uk:8080/live/henry/henry/c849328a-8ab3-4197-8dc5-f8cb82e25fe2.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rsDNXLHWow8VINGUgkKOxv_IC0B8EQ00wvj0UktHlw&s=10",ช่อง That's TV
+http://rocketfx.uk:8080/live/henry/henry/38dcf2c0-35ff-4349-8552-b15bd57e2413.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSck2CoFYIf13gyi2PAbAtk-a3chVKG7Zq6rkYOTKqaqA&s=10",ช่อง That's TV 2
+http://rocketfx.uk:8080/live/henry/henry/33403b32-befd-4eb9-8cfc-afc69fc2275e.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkF8CSY872DA0bwR6TfDWs5qR77ybR2xei9I-L0NyTiA&s=10",ช่อง Sky Arts
+http://rocketfx.uk:8080/live/henry/henry/ca649313-e678-4af7-8384-7e6ac372e48e.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbV1pqsaS7VEG3ZoYnc9XRNYhTkKsQz3bG8Z1pGHInug&s=10",ช่อง Sky One
+http://rocketfx.uk:8080/live/henry/henry/3457ea4e-450e-4fc0-944f-88d23cd2bc3d.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
