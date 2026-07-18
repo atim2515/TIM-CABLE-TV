@@ -123,9 +123,6 @@ https://lb-live-m.sky-cdn.com/mv/mix.m3u8?expires=1784489779&uta=cJxjPqx9Kfdq6d9
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/37_y_8KPsXmUlvo3WdRBa4kFw57MAjYC0JpSn.png",ช่อง สยาม Channel
 https://lb-live-m.sky-cdn.com/mv/siam.m3u8?expires=1784489813&uta=w4JHo5I_RS76DcDQQdEgIQ
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/38_y_1GdTFB60lkIKhROmJe9cgSLXYxuaZtWq.png",ช่อง ลิโด้ Channel
-https://mvtv.co.th/play/play_mvtv.php?no=38&channel=%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89%20Channel
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/39_y_XlQsEw0e6upJZHaLvYhof1W3DkS9yTPi.png",ช่อง สกาล่า Channe
 https://lb-live-m.sky-cdn.com/mv/scala.m3u8?expires=1784489757&uta=Wmlguo0Uu6nvaoYi6eZ6iw
 
@@ -2399,11 +2396,20 @@ https://jmp2.uk/plu-6364f6cd308d210007b5eee9.m3u8
 #EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง Are You The One?
 https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
 
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง Auction Hunters
+https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง AWSN
+https://jmp2.uk/plu-660e7488aec9680008fabcf1.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง Beauty and the Beast
+https://jmp2.uk/plu-6512d6a0a1217e00092c1214.m3u8
+
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",ช่อง True4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/017349b0-a5c0-11ed-81fb-39ce5d470141_webp_original.png",ช่อง TNN16
-https://www.tnnthailand.com/live/
+https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nKg0OK4uiofxRCsDuk95VCOsM7bswscVTv4qdNTgJGjhg=s900-c-k-c0x00ffffff-no-rj",ช่อง ทรูปลูกปัญญา
 https://www.trueplookpanya.com/tv/
@@ -2412,7 +2418,7 @@ https://www.trueplookpanya.com/tv/
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
-https://www.adintrend.tv/hd/ch3?t=live
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง TV5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -2460,16 +2466,16 @@ https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhon
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTG-0r-2oJd9P-3odTGiJZ5C8OZQOpGnwvGw&s",ช่อง Mono 29
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
-https://www.adintrend.tv/hd/ch0?t=live
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
-https://www.one31.net/live
+https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
-https://www.thaich8.com/live
+https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
