@@ -991,6 +991,12 @@ http://rocketfx.uk:8080/live/henry/henry/a03bd760-d0b1-43cc-b29f-ca77b41cc2b7.ts
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMup76vrZUvOlkNVvV5FfNpt6FU_QGO9afBZhLTFgELQ&s=10",ช่อง 5STAR+1
 http://rocketfx.uk:8080/live/henry/henry/c849328a-8ab3-4197-8dc5-f8cb82e25fe2.ts
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakxPPfdfK33MrWXsgEFeRb33cSGkSxe1te6gtT6_NbQ&s=10",ช่อง BLAZE
+http://rocketfx.uk:8080/live/henry/henry/851c0d8a-fbf0-4fc8-8634-27c75226a93d.ts
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtnDCrH_CAd6bykVlDs0d5dBM8nbaRGrX_M0Efl5Aqw&s=10",ช่อง Challenge
+http://rocketfx.uk:8080/live/henry/henry/dc494b80-c6be-4d39-ae1b-307f50f20000.ts
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rsDNXLHWow8VINGUgkKOxv_IC0B8EQ00wvj0UktHlw&s=10",ช่อง That's TV
 http://rocketfx.uk:8080/live/henry/henry/38dcf2c0-35ff-4349-8552-b15bd57e2413.ts
 
@@ -1003,11 +1009,17 @@ http://rocketfx.uk:8080/live/henry/henry/3457ea4e-450e-4fc0-944f-88d23cd2bc3d.ts
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1YbeyxwaZfgobfDQwLA5cy66rOORLwHERX6wGYwSaQ&s=10",ช่อง Sky Atlantic
 http://rocketfx.uk:8080/live/henry/henry/3e8a07ad-535d-4d4f-92eb-006d1eae4bc5.ts
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDrT2OCoRp6Q3Nk02x2X8ehfSlGeEz7rKKhHHcwqjRA&s=10",ช่อง Film 4
+http://rocketfx.uk:8080/live/henry/henry/7533966c-f19f-4027-adc4-b604c29ecae0.ts
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAg5RHFmbDJpybDaMIL19urZttp0nCy8KIg&s",ช่อง Great! Romance
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPNfcWvbq2oDv0jYFs3F62laMoWKYFAOR_bIyHbA5uQ&s=10",ช่อง Clubland TV
+http://rocketfx.uk:8080/live/henry/henry/392c3b25-b912-4b72-b808-a02baed980f6.ts
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6o_UK6VBX7YVobo2n1CX7oYR-zVSKmyzyTe93qlMRw&s=10",ช่อง MTV Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1674,9 +1686,6 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
 http://74.91.26.218:82/live/ftvnews.m3u8
-
-#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOAxXtNbey7BeyUF7JvU2oitIktGzI29nQQqE7-VbRA&s",ช่อง 民视
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxTP2ArZ0LmRtSEOvoNnwIzgRwCcxptVJD80QxNBDSQ&s=10",ช่อง KTSF26洛杉磯三藩市
 http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
