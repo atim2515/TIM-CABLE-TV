@@ -1660,6 +1660,9 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLyEB39q-tQOvL6z6h7_lipd5UcGkEBQdkw&s",ช่อง TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMW6NXm2CaBMJMuSDwm3BD13ZuNe14yoCfcSL_hhsqQ&s=10",ช่อง TVBS新聞台
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง 中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 
@@ -1672,11 +1675,29 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
 http://74.91.26.218:82/live/ftvnews.m3u8
 
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOAxXtNbey7BeyUF7JvU2oitIktGzI29nQQqE7-VbRA&s",ช่อง 民视
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxTP2ArZ0LmRtSEOvoNnwIzgRwCcxptVJD80QxNBDSQ&s=10",ช่อง KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRvQBl_UUPjEmYL3emiBjgbJkmW9335UY8dxBzqcdgQ&s=10",ช่อง 中旺電視
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRBnWWqrHsF5_quP3LCtc8VNvFJNFWjV41zK0O8yMjw&s=10",ช่อง 美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TjcDWBNP96640AOx__V2i_aQwf4ghVAzA3m8P5Eipw&s=10",ช่อง 东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzq2DsYD3jP2EXctSkKtS-32GyIuadTAHJ7IaCibM19UBN1cJY1Sp6dGM&s=10",ช่อง 五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaR5x5VdWj-eqSabNGLzIrNsIoGWM4OLDac5nW7tKnbg&s=10",ช่อง 大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjwhZgSoKDp3wxFa9wdcIGrzm7iq0xaNA7sw0g2XQpA&s=10",ช่อง 人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
