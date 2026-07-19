@@ -1388,9 +1388,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvtY4HN7dbK1g50frMNY7owIyJ-14a5hmm5M6BcqG-w&s=10",ช่อง KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",ช่อง Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -1418,23 +1415,11 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png",ช่อง EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Andong
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Chuncheon
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Chungbuk
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Daejeon
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Jeju
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Mokpo
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Yeosu
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
