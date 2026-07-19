@@ -150,6 +150,12 @@ https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1784489662&uta=ZhtPLkI
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/b8nsrNArU6cmDv0tpe7aqMT9Xg6zsczq15WLT1VvQXzCl6zkEzAdxQ438YMyQoWr1B2fzGMv6CGBf8X7uwhOew",ช่อง Monomax 1
+http://117.18.127.253:8080/live/sakdaa/0442260/255809.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/b8nsrNArU6cmDv0tpe7aqMT9Xg6zsczq15WLT1VvQXzCl6zkEzAdxQ438YMyQoWr1B2fzGMv6CGBf8X7uwhOew",ช่อง Monomax 2
+http://117.18.127.253:8080/live/sakdaa/0442260/255810.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
 
@@ -1623,6 +1629,9 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TOcyrgT6x8hO7L5pMTCZymCqI0885inbHh7Z2EY7WaVfxya8P0zgJD0&s=10",ช่อง 耀才财经频道
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/typd/
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 
@@ -1752,9 +1761,6 @@ http://103.137.83.62:9090/play/18/index.m3u8
 
 #EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3RoaWioY61b4wOhw4IMhZm4KerhXlvlxibX7TqDZPQ&s=10",ช่อง ROCK Entertainment
 http://103.137.83.62:9090/play/19/index.m3u8
-
-#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2vs_cNH1sQ1JqjRJTACMTMcV5XOy2mRRWiNSslr4Vg&s=10",ช่อง Crime + Investigation
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 
 #EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WZzqpSa_QDrm7mEM5zlu7K3uUftF1sf5rZA0paYcEA&s=10",ช่อง Nickelodeon
 http://103.137.83.62:9090/play/28/index.m3u8
@@ -2171,6 +2177,9 @@ http://103.137.83.62:9090/play/19/index.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/typd/
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png",ช่อง And TV HD
 http://103.159.180.34:5001/live/472.m3u8
