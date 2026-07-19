@@ -1942,47 +1942,38 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",ช่อง VTV1
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_0_JNfXmBiTRy33OTM_JnjvDdGxwmdskft8hmNwN_w&s=10",ช่อง MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",ช่อง VTV3
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEn5W_lXgCM4lu44jMpEcm3KOfLPfD_tu9XPYR0_WalQ&s=10",ช่อง MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",ช่อง VTV5
-https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_0_JNfXmBiTRy33OTM_JnjvDdGxwmdskft8hmNwN_w&s=10",ช่อง MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/250px-Vtv5tnb_logo.svg.png",ช่อง VTV5 Tây Nam Bộ
-https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IfWjv19yQtWQ8Cb0gtIsNMhI60bZgyb9n9pLbsoNgg&s=10",ช่อง MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uAfrRm-eKzqHta1cM_AHKWU9isQheE0e2g&s",ช่อง VTV5 Tây Nguyên
-https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGoRSFvsaBB-9R0zHOD_QcTYmItbNabkYmquUYIX9PLA&s=10",ช่อง MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Logo_SCTV1.png/revision/latest?cb=20191009032130",ช่อง SCTV1
-https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7f9THWyJ33LDEL-1eOvkSVWqL4ow28bD3l_YmrhLzDyQRrVFpd823dyNL&s=10",ช่อง 5 Plus
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6vYBV96R6UODy47J-mQ-kHHC4M5ddF-GTw&s",ช่อง SCTV2
-https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjNBJsqGlaMzBfk9RJ_K55RPI0oCcWqOMhZMcCezOoA&s=10",ช่อง Channel K
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/SCTV3_logo_2016.png/revision/latest/scale-to-width-down/200?cb=20240917041415&path-prefix=vi",ช่อง SCTV3
-https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",ช่อง Channel 9
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/SCTV4_logo_06-05-2017.png/revision/latest?cb=20240917042414&path-prefix=vi",ช่อง SCTV4
-https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTgNkhB7OIGTV6cQqpyycBlBnqkAXpOifj1X9ZTtC6w&s",ช่อง DVB TV
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVlxsEFytNQs9C9SNrTkQYAKGfqpfOCwzkw&s",ช่อง SCTV6
-https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOQGEIR3XWYmpTgxXdFQcv7fKp7qQcb0Em179KE7dWA&s=10",ช่อง FORTUNE TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROY3nrxH-b6bmgyQjkGU-1lpu03zAseGCWyA&s",ช่อง SCTV7
-https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoVQyjlZ09JOXFegkbqePd122v6CFNw5BdQ&s",ช่อง SCTV8
-https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtodJ0Ik2CkmPAPdB8PpW_j4CDJ2_xT3xRw&s",ช่อง SCTV10
-https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_ident_2012.png/revision/latest?cb=20240529024045&path-prefix=vi",ช่อง SCTV Phim Tong Hop
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86gATs34-p-_Jf3tMN8Cm-NyBnUmKQoAfpXlI9kxmutWSGjYieXZoYgM&s=10",ช่อง Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Vietnam_Today_ident.png/revision/latest/scale-to-width-down/1200?cb=20251101225128&path-prefix=vi",ช่อง Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
@@ -1998,6 +1989,18 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",ช่อง Cần Thơ TV1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",ช่อง Cần Thơ TV3
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://yt3.googleusercontent.com/jAfpzJ_U-gMW1SQxCJmCzpTppm9oTys6FiBDkiKENoZh8JeYF0d0w2s-mWqCE1haZolkOJR5=s900-c-k-c0x00ffffff-no-rj",ช่อง Nghệ An TV
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://yt3.googleusercontent.com/kLNpMKr1xzr7YGsK8yuxBrF23ZD-RSn3JKEazH6ff7ZMCMoBkMPb_wrsGFWr3XMZIffTzl2OSg=s900-c-k-c0x00ffffff-no-rj",ช่อง Lào Cai TV
+https://live.baolaocai.vn/channel2/stream.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://yt3.googleusercontent.com/rqTojoCP3HAOez-y1-CVrjsHvfmR__MVaHx4VmhL628RrDXh2XqzFZjmofAm7Uu5MtF9oP76LA=s900-c-k-c0x00ffffff-no-rj",ช่อง Đắk Lắk TV
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMDU4MGNfyRTmtG_IPi69Cr7zMIKqorUR6w&s",ช่อง Cao Bằng TV
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
@@ -2045,7 +2048,10 @@ https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvb6_87hkE-En5FOEDpxlcdhpUDHnIOES7Qg&s",ช่อง QPVN
-https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+https://qpvn.vn/live/qpvn/master.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBV-G508hRBCAd84Aeztj8PFsuP2dC_f9k1xjr0i0-g&s=10",ช่อง Quảng Ngãi TV1
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/HTV4_logo_2017.png/revision/latest?cb=20230301095054&path-prefix=vi",ช่อง HTV4
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
@@ -2055,6 +2061,9 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/RgEOYY7utX-DONGNAI2-THUMBNAIL-KENHVTVgo-500x281.webp",ช่อง Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeahkFYRLl1sUVCfnO_URuP80aEIhWj2sjoFtelFpEhw&s=10",ช่อง TVB Vietnam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",ช่อง Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
