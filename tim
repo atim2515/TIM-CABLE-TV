@@ -1388,6 +1388,9 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvtY4HN7dbK1g50frMNY7owIyJ-14a5hmm5M6BcqG-w&s=10",ช่อง KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",ช่อง Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -1415,11 +1418,32 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png",ช่อง EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Andong
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Chuncheon
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Chungbuk
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Daejeon
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Jeju
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Mokpo
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgG2sH9KDN1uxHrjctK07YGKvtT58kN39y6g&s",ช่อง TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://cdn.cloudbf.com/thumb/format/mini_xsize/files/65/img/2024/01/29/202401291640220192465.jpg.webp",ช่อง Tomato
+http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -1438,10 +1462,6 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0ehTE8TkQ1jSKdSj4_4n9ByitQHiB3L9qg&s",ช่อง TV Chosun
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HGRJR77OSG6QPNUDEWBVWCH5U.jpg",ช่อง TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
@@ -1470,9 +1490,6 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/wZ_BWzFTnEg/maxresdefault.jpg",ช่อง RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
-https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
@@ -1530,6 +1547,9 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lotte_Logo_%282017%29.svg/1280px-Lotte_Logo_%282017%29.svg.png",ช่อง Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/mqdefault.jpg",ช่อง KBS LIVECAM DOKDO
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
 http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
@@ -1934,9 +1954,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b3840
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQugHdtirzB9RqLtU2SFtMXs4YNphGX7bRlA&s",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
-http://cdn6.163189.xyz/163189/8tv
-
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
@@ -2258,14 +2275,11 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
-
-#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
-
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ช่อง ESPN
+http://91.218.50.136:80/negrobussula/032998177444/2105
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s",ช่อง Premier sports
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
