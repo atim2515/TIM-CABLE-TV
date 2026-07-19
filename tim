@@ -1734,6 +1734,31 @@ http://192.151.150.154/live/chchd.m3u8
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png/revision/latest?cb=20230916095723&path-prefix=vi",ช่อง CHC家庭影院
 http://192.151.150.154/live/chcjt.m3u8
 
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGLiu156ZuHP7czTF-1-CL377WR2IJa3j_7i1oi0CnQ&s=10",ช่อง CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png",ช่อง CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://play-lh.googleusercontent.com/wf6PUcth6iR-8Ftg2gO7ySCqCUSjPjQmdIdiIdQDm2bzXJkznuzeENjweh3uJvtipVyRcGKotHndOuoFLTtiOA",ช่อง meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdey_Ek3Xc9okKopf2G0BDtSXqalsOUSTwTTJw-KFIA&s=10",ช่อง AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://103.137.83.62:9090/play/21/index.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง ROCK Action
+http://103.137.83.62:9090/play/18/index.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3RoaWioY61b4wOhw4IMhZm4KerhXlvlxibX7TqDZPQ&s=10",ช่อง ROCK Entertainment
+http://103.137.83.62:9090/play/19/index.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2vs_cNH1sQ1JqjRJTACMTMcV5XOy2mRRWiNSslr4Vg&s=10",ช่อง Crime + Investigation
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WZzqpSa_QDrm7mEM5zlu7K3uUftF1sf5rZA0paYcEA&s=10",ช่อง Nickelodeon
+http://103.137.83.62:9090/play/28/index.m3u8
+
 #EXTINF:-1 group-title="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",ช่อง CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
@@ -1939,6 +1964,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b3840
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQugHdtirzB9RqLtU2SFtMXs4YNphGX7bRlA&s",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XrcoYNjsyJEZCPKnpWZAc1vEEKjXx3HyzAEMsck-tIsbkz7fzM6NHhg&s=10",ช่อง Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NfoZCWzuzlc88kJRTy-NA7HDMQGTu--yWMOK0SejCBMbTk65EQnuqm9A&s=10",ช่อง Susun TV
+#EXTVLCOPT:http-referrer=https://susuntv.bamboo-cloud.com/
+https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
+
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
@@ -1957,6 +1989,9 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGoRSFvsaBB-9R0zHOD_QcTYmItbNabkYmquUYIX9PLA&s=10",ช่อง MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
+#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86gATs34-p-_Jf3tMN8Cm-NyBnUmKQoAfpXlI9kxmutWSGjYieXZoYgM&s=10",ช่อง Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+
 #EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7f9THWyJ33LDEL-1eOvkSVWqL4ow28bD3l_YmrhLzDyQRrVFpd823dyNL&s=10",ช่อง 5 Plus
 https://mmtvs.exliatycl.online/5plus/stream.m3u8
 
@@ -1971,9 +2006,6 @@ https://live-stream.dvb.no/hls/stream_src/index.m3u8
 
 #EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOQGEIR3XWYmpTgxXdFQcv7fKp7qQcb0Em179KE7dWA&s=10",ช่อง FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
-
-#EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86gATs34-p-_Jf3tMN8Cm-NyBnUmKQoAfpXlI9kxmutWSGjYieXZoYgM&s=10",ช่อง Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Vietnam_Today_ident.png/revision/latest/scale-to-width-down/1200?cb=20251101225128&path-prefix=vi",ช่อง Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
@@ -2014,14 +2046,8 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmxkEtF-P9EHwDg0VAxpdt41rKs9VTSFvKw&s",ช่อง Điện Biên TV
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TH%C4%90T-Logo.png",ช่อง Đồng Tháp TV1
-https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
-
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TH%C4%90T-Logo.png",ช่อง Đồng Tháp TV2
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlStDGUOHBvvZcgbINis1RMcIxZABi2ytfFA&s",ช่อง Hà Tĩnh TV
-https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HanoiTV1_HD_2016-2026.png/revision/latest?cb=20241227073715&path-prefix=vi",ช่อง HanoiTV1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
@@ -2041,9 +2067,6 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://play-lh.googleusercontent.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQ",ช่อง VBS TV
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEM3gqgcTVfQ1JoGwhLKD8AX-1Kleo-_BSg&s",ช่อง ANTV
-https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
-
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_640_360.png",ช่อง Cà Mau TV
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
@@ -2053,9 +2076,6 @@ https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBV-G508hRBCAd84Aeztj8PFsuP2dC_f9k1xjr0i0-g&s=10",ช่อง Quảng Ngãi TV1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/HTV4_logo_2017.png/revision/latest?cb=20230301095054&path-prefix=vi",ช่อง HTV4
-https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
-
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://brandcom.vn/wp-content/uploads/2024/07/logo-ke%CC%82nh-truye%CC%82%CC%80n-hi%CC%80nh-do%CC%82%CC%80ng-nai-1.jpg",ช่อง Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 
@@ -2064,9 +2084,6 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeahkFYRLl1sUVCfnO_URuP80aEIhWj2sjoFtelFpEhw&s=10",ช่อง TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
-
-#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",ช่อง Da Vinci Asia Vietnam
-https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 #EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlj8n8n2sdRzqZOMf4cVHu7A3-p3vD9gj1Q&s",ช่อง Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
@@ -2145,6 +2162,12 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง ROCK Action
+http://103.137.83.62:9090/play/18/index.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3RoaWioY61b4wOhw4IMhZm4KerhXlvlxibX7TqDZPQ&s=10",ช่อง ROCK Entertainment
+http://103.137.83.62:9090/play/19/index.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
