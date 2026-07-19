@@ -150,12 +150,6 @@ https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1784489662&uta=ZhtPLkI
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/b8nsrNArU6cmDv0tpe7aqMT9Xg6zsczq15WLT1VvQXzCl6zkEzAdxQ438YMyQoWr1B2fzGMv6CGBf8X7uwhOew",ช่อง Monomax 1
-http://117.18.127.253:8080/live/sakdaa/0442260/255809.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/b8nsrNArU6cmDv0tpe7aqMT9Xg6zsczq15WLT1VvQXzCl6zkEzAdxQ438YMyQoWr1B2fzGMv6CGBf8X7uwhOew",ช่อง Monomax 2
-http://117.18.127.253:8080/live/sakdaa/0442260/255810.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
 
@@ -465,6 +459,9 @@ http://40.160.24.52/BRAVO/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-03TpZ5QompR3HIjLQlbB-0A0QH2K27qAqDFd3b6nA&s=10",ช่อง IFC
 http://40.160.24.53/IFC/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",ช่อง Sony Movies
 http://40.160.24.55/SONY_MOVIES/index.m3u8
 
@@ -510,11 +507,14 @@ http://40.160.24.52/DECADES/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Antenna_TV_2022.svg/250px-Antenna_TV_2022.svg.png",ช่อง Antenna TV
 http://40.160.24.52/ANTENNA_TV/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5CzmY4Xei9MXAyAV1XTSiUiyaxNrtSVzdPJetYatjw&s=10",ช่อง DESTINATION AMERICA
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsS5I0QvJmPaOEnhzAup_9_sXyqXpwX75xv_h-gfH4Q&s=10",ช่อง COOKING CHANNEL
-http://rocketfx.uk:8080/live/henry/henry/ab049e11-0cb7-473f-a0a5-f1f673be6009.ts
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
 http://40.160.24.52/AXS_TV/index.m3u8
@@ -2169,6 +2169,9 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง ROCK Action
 http://103.137.83.62:9090/play/18/index.m3u8
 
@@ -2177,6 +2180,21 @@ http://103.137.83.62:9090/play/19/index.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIK2jSPDB0na2IBSBtmG7vI5d7rqXK3JJOYIiHNfVcQ&s=10",ช่อง Kino Premiere 1
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3607?Billybob.is.the.best!
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIK2jSPDB0na2IBSBtmG7vI5d7rqXK3JJOYIiHNfVcQ&s=10",ช่อง Kino Premiere 3
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3605?Billybob.is.the.best!
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIK2jSPDB0na2IBSBtmG7vI5d7rqXK3JJOYIiHNfVcQ&s=10",ช่อง Kino Premiere 4
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3604?Billybob.is.the.best!
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIK2jSPDB0na2IBSBtmG7vI5d7rqXK3JJOYIiHNfVcQ&s=10",ช่อง Kino Action
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3601?Billybob.is.the.best!
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIK2jSPDB0na2IBSBtmG7vI5d7rqXK3JJOYIiHNfVcQ&s=10",ช่อง Kino Western
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3602?Billybob.is.the.best!
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
 https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/typd/
