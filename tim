@@ -298,6 +298,9 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
 http://180.180.243.239/streams/3/hls
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง ETV
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-thai-film.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://40.160.24.53/MTV/index.m3u8
 
@@ -2446,11 +2449,11 @@ http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Русская Ночь
 http://ru.iptv.monster/play/132/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง French Lover
-http://31.148.48.15/French_Lover/index.m3u8
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Eromania 4K
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Brazzers TV Europe
-http://31.148.48.15/Brazzers_TV_Europe/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/910/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Asshole Fever
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/12169/manifest.m3u8
