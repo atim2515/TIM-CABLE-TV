@@ -288,6 +288,39 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
 http://180.180.243.239/streams/3/hls
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://bestcommt2.github.io/m3u8/monomax2.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax13.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://restream-live.realiptv.to/1234567/7654321/648976
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaTfaV0CUFyl_pu_JWbrW170
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
+https://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://40.160.24.53/MTV/index.m3u8
 
@@ -299,6 +332,9 @@ http://40.160.24.53/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",ช่อง MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYlNA20KlXkokT4kOEm4HFfvDpsd2ZkruQpi-SbiVkQ&s=10",ช่อง OWN
+http://4.30.180.36:8420/own/index.m3u8?token=test
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_gA251GPmj52DJ8DXsPVFPZn4kinTuccOVW1RGNO&s",ช่อง Great Entertainment Television
 http://40.160.24.52/GetTV/index.m3u8
@@ -2397,17 +2433,14 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Hustler HD
-http://88b9da48.kazmazpaz.ru:80/iptv/QUG88KPCD53DU7RT856RPCAE/244/manifest.m3u8
-
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Brazzers TV Europe
-http://88b9da48.kazmazpaz.ru:80/iptv/QUG88KPCD53DU7RT856RPCAE/910/manifest.m3u8
-
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Playboy TV
 http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/527/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Reality TV
 http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Gold HD
+http://ru.iptv.monster/play/6880/manifest.m3u8?token=623939143BE8A4B
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Redlight HD
 http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
@@ -2415,14 +2448,59 @@ http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง ОХ-АХ HD
 http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Vivid Red HD
-http://88b9da48.kazmazpaz.ru:80/iptv/QUG88KPCD53DU7RT856RPCAE/2162/manifest.m3u8
-
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Eroxxx HD
 http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/5015/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง OLERO Babes
 http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Центральное ТВ
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง DITV XXX
+http://ru.iptv.monster/play/2065/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Eromania 4K
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง TVPlay Наше XXX
+http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Русская Ночь
+http://ru.iptv.monster/play/132/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง French Lover
+http://31.148.48.15/French_Lover/index.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Brazzers TV Europe
+http://31.148.48.15/Brazzers_TV_Europe/index.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Asshole Fever
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/12169/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง THT International
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง ПЕPBЫЙ FHD
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Hustler HD
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/244/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Blue Hustler
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/1064/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Vivid Red HD
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2162/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Exxxotica HD
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/9346/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Dorcel TV HD
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/245/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Private TV
+http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/243/manifest.m3u8
 
 #EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง 7th Heaven
 https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
