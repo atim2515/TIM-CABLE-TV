@@ -105,6 +105,9 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง THAI NEWS
 https://live.thaitvstream.com/play/thainews/index.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
 
@@ -152,6 +155,9 @@ https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
+https://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
@@ -287,39 +293,6 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
 http://180.180.243.239/streams/3/hls
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://bestcommt2.github.io/m3u8/monomax2.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax13.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-http://202.169.224.202:8800/udp/239.9.1.5:1234
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://restream-live.realiptv.to/1234567/7654321/648976
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaTfaV0CUFyl_pu_JWbrW170
-
-#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง t
-https://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://40.160.24.53/MTV/index.m3u8
@@ -2328,6 +2301,9 @@ https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HpPw7fiuuSeKnBCqgKBkj45yN-Vds1bpE-xuQ0X53A&s=10",ช่อง AFN
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+
 #EXTINF:-1 group-title="Food Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CqgF4byaNQBz-sCnvppgtikdTxg7BjLAPQ&s",ช่อง Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
@@ -2460,9 +2436,6 @@ http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง DITV XXX
 http://ru.iptv.monster/play/2065/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Eromania 4K
-http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
-
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
 
@@ -2486,9 +2459,6 @@ http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Hustler HD
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/244/manifest.m3u8
-
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Blue Hustler
-http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/1064/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Vivid Red HD
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2162/manifest.m3u8
