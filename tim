@@ -294,6 +294,14 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
 http://180.180.243.239/streams/3/hls
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0
+https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuuJzmh2cBtbYLyXtBElSjg5eaq031SVm0g&s",ช่อง E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://40.160.24.53/MTV/index.m3u8
 
@@ -1988,12 +1996,6 @@ https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
 
 #EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง RTB SUKMAINDERA BRUNAI
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง R
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-
-#EXTINF:-1 group-title="Malaysia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qELvLinwPPo7JIRkmmmm4AzqSinE6X5GNw&s",ช่อง R
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 group-title="MyanMar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_0_JNfXmBiTRy33OTM_JnjvDdGxwmdskft8hmNwN_w&s=10",ช่อง MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
