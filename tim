@@ -2527,6 +2527,12 @@ https://www.trueplookpanya.com/tv/
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
+https://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
