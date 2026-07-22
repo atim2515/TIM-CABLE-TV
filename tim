@@ -157,6 +157,15 @@ https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0
 https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_CLH38PnECfArx_fE_7R2nTLdFSB_TvMKFUeouvqZQ&s=10",ช่อง Monomax 1
+http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
 
@@ -2379,6 +2388,9 @@ http://49.0.64.96:8007/GOLF
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResjWPBwdk1ImzXH46z2sK0XXf39i8BnDNVw&s",ช่อง NBA
 http://49.0.64.96:8007/NBA
+
+#EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYRhOh_35IX_1ffTvHcnmBtc3gnUmDBrBDeg5AZCQ9A&s=10",ช่อง WWE Network
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:AB:E8:88&stream=1121785&extension=ts
 
 #EXTINF:-1 group-title="Sports Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClsq6NIa7Rnsbk7xRBZRDEI6Q9O2WrhUbCg&s",ช่อง UFC
 https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
