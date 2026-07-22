@@ -4,76 +4,76 @@
 http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",ช่อง 2
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/47.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",ช่อง 3
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/49.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",ช่อง 4
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ช่อง 5
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/63.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",ช่อง 6
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/64.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",ช่อง 7
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/66.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",ช่อง 8
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/75.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ช่อง 9
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs09#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/77.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",ช่อง 10
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/78.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",ช่อง 11
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
+http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ช่อง 12
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
+https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",ช่อง 13
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs13#.m3u8
+https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",ช่อง 14
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
+https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ช่อง 15
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
+https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ช่อง 16
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs16#.m3u8
+https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",ช่อง 17
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs17#.m3u8
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",ช่อง 18
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
+https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",ช่อง 19
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
+https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",ช่อง 20
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
+https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png",ช่อง 21
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
+https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",ช่อง 22
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
+https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",ช่อง 23
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
+https://hls.iptv-th.workers.dev/live/151/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",ช่อง 24
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
+https://hls.iptv-th.workers.dev/live/159/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 25
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
+https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
+https://hls.iptv-th.workers.dev/live/167/playlist.m3u8
