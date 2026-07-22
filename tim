@@ -160,11 +160,53 @@ https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_CLH38PnECfArx_fE_7R2nTLdFSB_TvMKFUeouvqZQ&s=10",ช่อง Monomax 1
 http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 5
+https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
 https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
-https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/110/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/128/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
@@ -2359,9 +2401,6 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-nsEmZbxYyaNcAI3hXB0EwRClwFgiA9u7i8LL4c-Bd_lmzN0oaDPxG-vx&s=10",ช่อง DISCOVERY
 https://aes.m3u8simplu.workers.dev:443/discovery/index.m3u8
 
-#EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFeXa8KfhSIYVKcgmPVdsbsZYPsSSYVVZCMDUW4j1Fg&s",ช่อง ANIMAL PLANET
-https://aes.m3u8simplu.workers.dev:443/animalplanet/index.m3u8
-
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
@@ -2454,9 +2493,6 @@ http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/527/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Reality TV
 http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Gold
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95026/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Redlight HD
 http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
