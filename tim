@@ -526,6 +526,9 @@ http://40.160.24.52/ANTENNA_TV/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5CzmY4Xei9MXAyAV1XTSiUiyaxNrtSVzdPJetYatjw&s=10",ช่อง DESTINATION AMERICA
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRHWChYVtB-FvzqyoAWoPwM3iSQdngsilGNM7_m38J8GAP1qwSxjm_io&s=10",ช่อง HGTV
+https://aes.m3u8simplu.workers.dev:443/hgtv/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 
@@ -2185,8 +2188,17 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0qjpA2Y456EYo8uQ-LDRwVDhoeNOzcr7A9pYCiTlTQ&s=10",ช่อง HBO
+https://aes.m3u8simplu.workers.dev:443/hbo/index.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOP_xJWBPB-p-sOFV_Z-zUrewCvB1DwOWbM34JwSiBQ&s=10",ช่อง HBO 2
+https://aes.m3u8simplu.workers.dev:443/hbo2/index.m3u8
+
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+https://aes.m3u8simplu.workers.dev:443/cinemax/index.m3u8
+
+#EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZGtDkU7PZMy9OBQI6CuHZvuOZvmvenBXyEUQi1MVBw&s",ช่อง AMC
+https://aes.m3u8simplu.workers.dev:443/amc/index.m3u8
 
 #EXTINF:-1 group-title="Movies Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง ROCK Action
 http://103.137.83.62:9090/play/18/index.m3u8
@@ -2335,6 +2347,12 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",ช่อง Animal
 http://49.0.64.96:8007/Animal
 
+#EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-nsEmZbxYyaNcAI3hXB0EwRClwFgiA9u7i8LL4c-Bd_lmzN0oaDPxG-vx&s=10",ช่อง DISCOVERY
+https://aes.m3u8simplu.workers.dev:443/discovery/index.m3u8
+
+#EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFeXa8KfhSIYVKcgmPVdsbsZYPsSSYVVZCMDUW4j1Fg&s",ช่อง ANIMAL PLANET
+https://aes.m3u8simplu.workers.dev:443/animalplanet/index.m3u8
+
 #EXTINF:-1 group-title="Documentary Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
@@ -2407,6 +2425,9 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV0vxC6lZhJcOZ6_WPhZAK_2g-cP-k0d1Hg&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShu0qk3qn8Mo5DuXnmCR1B12zkJKMOCHJ4oBtavSUmbg&s",ช่อง EURONEWS
+https://aes.m3u8simplu.workers.dev:443/euronews/index.m3u8
+
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",ช่อง RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
@@ -2421,6 +2442,9 @@ http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/527/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Reality TV
 http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Gold
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95026/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Redlight HD
 http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
