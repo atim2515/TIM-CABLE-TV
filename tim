@@ -40,7 +40,7 @@ https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809
 https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",ช่อง PPTV HD
-https://www.adintrend.tv/hd/ch25?t=live
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
 https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -105,8 +105,17 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง THAI NEWS
 https://live.thaitvstream.com/play/thainews/index.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0qjpA2Y456EYo8uQ-LDRwVDhoeNOzcr7A9pYCiTlTQ&s=10",ช่อง HBO
+http://45.144.165.187:8080/live/playidlive/12345/77.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YKzJfRmDCd_NQcOOfRtiwYJphp4AWIvev9JBFfeOHQ&s=10",ช่อง Cinemax
+http://45.144.165.187:8080/live/playidlive/12345/78.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",ช่อง Warner TV
 https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUMJAyBQDVQkjVDnodkH7okOoWxhH2Sk0LdrmeXwOUg&s",ช่อง Rock Entertainment
+http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
 https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
@@ -2575,6 +2584,9 @@ http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OgJKX7bmSmCvbB_xw5AHdiEEd9aVGMd1cUJOK4qVOg&s=10",ช่อง True Film 2
+http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
+
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
 https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
 
@@ -2590,6 +2602,9 @@ https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdey_Ek3Xc9okKopf2G0BDtSXqalsOUSTwTTJw-KFIA&s=10",ช่อง AXN
+http://45.144.165.187:8080/live/playidlive/12345/75.m3u8
+
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",ช่อง True X-ZYTE
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
@@ -2598,6 +2613,9 @@ https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLahsR3RDXF7tauTzJ4UtDtqGGQ_siWLYmiWJXPcyldg&s=10",ช่อง True Explore Wild
 https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAPWkreNdjTCXP0aVpSoX_2-bzMaWiY12ktTPztCk7Q&s=10",ช่อง True Sports 3
+https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 5
 https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
@@ -2642,7 +2660,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",ช่อง PPTV HD
-https://www.adintrend.tv/hd/ch25?t=live
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
 https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
