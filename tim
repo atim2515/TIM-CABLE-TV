@@ -2569,6 +2569,9 @@ https://www.trueplookpanya.com/tv/
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp80XptLbOutI6B0Mix8KKE97nqYb5VKTpBCFrn8BHkA&s",ช่อง True Academy Fantasia
+http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
+
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
