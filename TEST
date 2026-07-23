@@ -185,3 +185,6 @@ https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 10
 https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 10
+http://45.144.165.187:8080/live/playidlive/12345/23072.m3u8
