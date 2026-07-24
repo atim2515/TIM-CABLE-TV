@@ -648,8 +648,17 @@ http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1280px-Starz_Cinema_Logo_2022.svg.png",ช่อง STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRNHJVONW3CvG44NYh_xo4WqTx_6ziM19MZ_L541wuY9RzgirbDIYjN0&s=10",ช่อง STARZ ENCORE
+https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/500px-Showtime_Family_Zone.svg.png?_=20160604164339",ช่อง SHOWTIME FAMILY
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBV-SjX1Skv2g3KuZyVwRGvikjZiqgjWTPajTTVqcNQ&s=10",ช่อง THE MOVIE CHANNEL
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
+
+#EXTINF:-1 group-title="US TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/10/the-movie-channel-xtra.png",ช่อง THE MOVIE CHANNEL XTRA
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA9lEPckEeqfzNhW3qhk2hh6Yi-WfG8pxwh0bg8Lu_7j8XpY4EtT28TZk&s=10",ช่อง Start TV
 http://40.160.24.55/START_TV/index.m3u8
@@ -822,6 +831,10 @@ http://40.160.24.55/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaF8i-xZVM14GhG4Cxb7h9b1thgQI-Qu1jA&s",ช่อง Nicktoons
 http://40.160.24.55/NICKTOONS/index.m3u8
 
+#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRDaQHOaw9warEuhHZJ3rcZnVgefD6AnFAjvPSmSzQ&s=10",ช่อง DreamWorks Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://103.137.83.62:9090/play/30/index.m3u8
+
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaQu-4kosqARYElslVDybxcj6I02aWsdzfzgY1bM9iA&s=10",ช่อง CBS Sports Network USA
 http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 
@@ -950,10 +963,6 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NWADIfeq1QuU6sSMGzaotrAivo2DrsUTNjwI2OQoS2rLZqhjERJLkRwP&s=10",ช่อง AKC TV Puppies
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
-
-#EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRDaQHOaw9warEuhHZJ3rcZnVgefD6AnFAjvPSmSzQ&s=10",ช่อง DreamWorks Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://103.137.83.62:9090/play/30/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://yt3.googleusercontent.com/FkLgJDLumMlAASnOvnlmUWF3yxhEzORxF8h5u9sXsvH223s0KzokQwD29CeO3OwA8JIyadYK=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Beach TV Florida & Alabama
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
