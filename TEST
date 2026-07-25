@@ -232,32 +232,4 @@ http://45.144.165.187:8080/live/playidlive/12345/100.m3u8
 http://45.144.165.187:8080/live/playidlive/12345/101.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95026/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/26472/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/38940/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/23879/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/47722/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/27993/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/62294/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/94724/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/93583/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง x
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-
+http://141.95.55.143/CH3517/index.m3u8
