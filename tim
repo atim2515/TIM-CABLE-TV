@@ -52,13 +52,16 @@ https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhon
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOiqeCS54EBmHA4_V_KXbu-n4OBIt15ya6twIzExPTg&s",ช่อง MONOMAX SPORTS TV
-https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+https://7fighters.samorn-team.workers.dev/134
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmlMDJP6lQxGVIMMlXB3DCvWfrhj1fbsIbw&s",ช่อง GMM 25
 https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ช่อง one31
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0ELxU0ZbKe-xULQ_sttCvzDsUnC5TPTZIc1dz6XvxqmvETE3ftqG9jhz&s=10",ช่อง JKN
+https://7fighters.samorn-team.workers.dev/137
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png",ช่อง Channel 8
 https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
@@ -151,7 +154,7 @@ http://45.144.165.187:8080/live/playidlive/12345/23072.m3u8
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OgJKX7bmSmCvbB_xw5AHdiEEd9aVGMd1cUJOK4qVOg&s=10",ช่อง True Film 2
-http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
+https://7fighters.samorn-team.workers.dev/102
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
 https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
@@ -258,6 +261,9 @@ https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
 https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง True Premier Football 3
+https://7fighters.samorn-team.workers.dev/124
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",ช่อง True Tennis
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
 
@@ -292,7 +298,7 @@ https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
 http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
-https://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1
+https://7fighters.samorn-team.workers.dev/111
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLahsR3RDXF7tauTzJ4UtDtqGGQ_siWLYmiWJXPcyldg&s=10",ช่อง True Explore Wild
 https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
@@ -1293,7 +1299,7 @@ https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8 
+https://akariko-bck1.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",ช่อง KNTV
 https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
@@ -1332,7 +1338,7 @@ https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง JCOM BS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
+https://akariko-bck1.sankuria.sbs/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
@@ -1359,7 +1365,7 @@ https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",ช่อง Toei Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8 
+https://akariko-bck1.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?mode=hls 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",ช่อง Home Drama Channel
 http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying 
@@ -1380,7 +1386,7 @@ http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying
 http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",ช่อง Channel Ginga
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8 
+https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg520t10qVmEtE9tmeiql5tubwhd5FStzqYLpwwxI4w&s=10",ช่อง Super Drama TV
 http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
@@ -1812,7 +1818,7 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9RZ1YzyH4zWN72lWzm3fGCNORQ3ARLd0_g&s",ช่อง Bread-TV.com
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://zuiai.tv/zb_users/upload/2025/6/2025062982034753.jpg",ช่อง 香港C+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZAIweUG_tT7jmh080U_UNLXwEPGBRM0kQzyAdV__K1u0TMsXDibTptk&s=10",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TOcyrgT6x8hO7L5pMTCZymCqI0885inbHh7Z2EY7WaVfxya8P0zgJD0&s=10",ช่อง 耀才财经频道
@@ -2888,6 +2894,9 @@ https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
 https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",ช่อง True Premier Football 3
+https://7fighters.samorn-team.workers.dev/124
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",ช่อง True Tennis
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
