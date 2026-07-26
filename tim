@@ -241,13 +241,16 @@ https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1784834014&uta=lCj8U6Bcy
 https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1784834229&uta=6uEwjjpEMBXb1fbng_Kv7A
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
-https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+https://7fighters.samorn-team.workers.dev/175
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_CLH38PnECfArx_fE_7R2nTLdFSB_TvMKFUeouvqZQ&s=10",ช่อง Monomax 1
 http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XFuI764IuTWIBnEscNuVroWq05GTs2GBLrG6gwy5IQ&s=10",ช่อง True Sports 1
 https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-0b1HaJYQycgktx5Y81RuFI1P63F3Ih-N1pBTkhddQ&s",ช่อง True Sports 2
+https://7fighters.samorn-team.workers.dev/147
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAPWkreNdjTCXP0aVpSoX_2-bzMaWiY12ktTPztCk7Q&s=10",ช่อง True Sports 3
 https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
@@ -317,6 +320,9 @@ http://45.144.165.187:8080/live/playidlive/12345/48.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15v2QLBFV4mWP-91nERKcXXcxwvgxk1ykICCr78-XGQ&s=10",ช่อง สำรวจโลก
 https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_H2tgb-FC3oRgNkeWByd-rLZhOOHC2hUc9jTwphJunA&s=10",ช่อง Mysci
+https://7fighters.samorn-team.workers.dev/211
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",ช่อง AMAZING
 http://49.0.64.96:8007/AMAZING
@@ -2924,6 +2930,9 @@ https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
 
 #EXTINF:-1 group-title="Good TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15v2QLBFV4mWP-91nERKcXXcxwvgxk1ykICCr78-XGQ&s=10",ช่อง สำรวจโลก
 https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+
+#EXTINF:-1 group-title="Good TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_H2tgb-FC3oRgNkeWByd-rLZhOOHC2hUc9jTwphJunA&s=10",ช่อง Mysci
+https://7fighters.samorn-team.workers.dev/211
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",ช่อง 3 HD
 https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
