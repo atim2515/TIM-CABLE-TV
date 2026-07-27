@@ -234,6 +234,9 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYC40B8ABbfe65TDocCBRq6Fq5SSOvgj01w&s",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png",ช่อง LD MEDIA
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGuC-r_KXBnlB_a9kO-XJ1w9XSZym2UuwESVQbdtIAQ&s=10",ช่อง TLC
 https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
 
