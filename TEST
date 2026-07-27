@@ -78,3 +78,9 @@ https://7fighters.samorn-team.workers.dev/385
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
 https://7fighters.samorn-team.workers.dev/403
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
