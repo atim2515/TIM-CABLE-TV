@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง c
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1001/manifest.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง d
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6000/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 2
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1002/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6001/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 3
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1003/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6002/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 4
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1004/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6003/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 5
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1005/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6004/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 6
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1006/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6005/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 7
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1007/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6006/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 8
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1008/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6007/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 9
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1009/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6008/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 10
-http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/1010/manifest.m3u8
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6009/manifest.m3u8
