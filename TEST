@@ -1,86 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง PENTHOUSE PASSION
+http://141.95.55.143/CH3517/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 1
-https://7fighters.samorn-team.workers.dev/269
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง PENTHOUSE GOLD
+http://141.95.55.143/CH3479/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 2
-https://7fighters.samorn-team.workers.dev/270
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง BABES TV
+http://141.95.55.143/CH1189/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 3
-https://7fighters.samorn-team.workers.dev/271
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 4
-https://7fighters.samorn-team.workers.dev/272
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 5
-https://7fighters.samorn-team.workers.dev/273
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 6
-https://7fighters.samorn-team.workers.dev/274
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 7
-https://7fighters.samorn-team.workers.dev/275
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 8
-https://7fighters.samorn-team.workers.dev/276
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 9
-https://7fighters.samorn-team.workers.dev/292
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง animal
-https://7fighters.samorn-team.workers.dev/329
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง thainess
-https://7fighters.samorn-team.workers.dev/332
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 12
-https://7fighters.samorn-team.workers.dev/335
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 13
-https://7fighters.samorn-team.workers.dev/343
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 14
-https://7fighters.samorn-team.workers.dev/352
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 15
-https://7fighters.samorn-team.workers.dev/355
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 16
-https://7fighters.samorn-team.workers.dev/358
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 17
-https://7fighters.samorn-team.workers.dev/361
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 18
-https://7fighters.samorn-team.workers.dev/364
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 19
-https://7fighters.samorn-team.workers.dev/367
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 20
-https://7fighters.samorn-team.workers.dev/370
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 21
-https://7fighters.samorn-team.workers.dev/373
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 22
-https://7fighters.samorn-team.workers.dev/376
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 23
-https://7fighters.samorn-team.workers.dev/379
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 24
-https://7fighters.samorn-team.workers.dev/382
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 25
-https://7fighters.samorn-team.workers.dev/385
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
-https://7fighters.samorn-team.workers.dev/403
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95026/hls/pl.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 26
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96460/hls/pl.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Barely legal
+http://94.228.166.20:8000/play/a02r/index.m3u8
