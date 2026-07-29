@@ -3,5 +3,14 @@
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
+http://173.208.212.130:8181/720p/gfjs.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
