@@ -1,30 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง หี
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVBPearl
-http://r.jdshipin.com/jUx8K
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVBPearl
-http://r.jdshipin.com/ZQ4kN
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Channel[V]
-http://r.jdshipin.com/GeWKr?id=mzt720
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://r.jdshipin.com/qClQf
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://61.221.215.25:8800/hls/39/index.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://61.221.215.25:8800/hls/55/index.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://45.192.97.170:8880/play/1329.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://61.221.215.25:8800/hls/56/index.m3u8
-
-
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 2
+https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
