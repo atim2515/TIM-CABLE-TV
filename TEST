@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ควย
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง หี
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVBPearl
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+http://r.jdshipin.com/jUx8K
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVBPearl
-http://xhyx.gz.cn:1698/hls/35/index.m3u8
+http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Channel[V]
-https://t.freetv.fun/live/viutv.php
+http://r.jdshipin.com/GeWKr?id=mzt720
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=22
+http://r.jdshipin.com/qClQf
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
+http://61.221.215.25:8800/hls/39/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=20
+http://61.221.215.25:8800/hls/55/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=19
+http://45.192.97.170:8880/play/1329.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง TVB星河
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=18
+http://61.221.215.25:8800/hls/56/index.m3u8
 
 
