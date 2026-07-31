@@ -1834,7 +1834,7 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
-http://r.jdshipin.com/jUx8K
+http://r.jdshipin.com/GeWKr?id=mzt720
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade 4K
 https://o11.163189.xyz/stream/tvb/fct4k/
@@ -2004,6 +2004,9 @@ http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",ช่อง CCTV-5
 http://69.30.245.50/live/cctv5.m3u8
 
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCg8XU4JAQWw0rmDEsAtJDHGhDLuXznxEEBpVbWyw1AQ&s=10",ช่อง CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",ช่อง CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 
@@ -2045,6 +2048,9 @@ http://173.208.212.130:8181/720p/fyjc.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IHZigc3lQ611OavUASjRk2ejcc2YGRS8C93lnmXvKw&s",ช่อง 兵器科技
 http://173.208.212.130:8181/720p/gfjs.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOrHWqEyyQ6YjsejxPB7Vn5NWpAPtSp1dcwjLmYUN5w&s",ช่อง 第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",ช่อง CHC动作电影
 http://192.151.150.154/live/chcdz.m3u8
