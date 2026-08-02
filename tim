@@ -1878,6 +1878,9 @@ https://cdn.123.rr.kg/163189/now
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://cdn.prod.website-files.com/63c60a65b11cea030c5b3137/63c647cb3f09c3adfc80d0ed_logo-icable.png",ช่อง 有綫新聞
 http://rihou.cc:555/tv/[Pd]有线新闻
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa63fIczDSh-6wnl0_cYyJkBL65UXHD_frc18BPuak&s",ช่อง HOY 76
+https://cdn11.163189.xyz/163189/hoy76
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNg1sTQaOdXlExcetubTMLFhzLMUlVgRF5sZyf9jvwJw&s=10",ช่อง HOY 77
 https://cdn6.cc.cd/163189/hoy
 
@@ -3354,6 +3357,12 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
+
+#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://daisukijdramaplus.com/wp-content/uploads/2026/04/image-3-724x1024.png",ช่อง Black Showman – แบล็ก โชว์แมน กับคดีฆาตกรรมในเมืองไร้ชื่อ
+https://ok.ru/video/15517029239541
+
+#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://daisukijdramaplus.com/wp-content/uploads/2025/11/cover-1-1024x576.jpg",ช่อง Yonimo Kimyona Monogatari เรื่องเล่าพิศวง SP
+https://ok.ru/video/10645787773685
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
