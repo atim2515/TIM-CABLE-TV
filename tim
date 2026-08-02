@@ -3370,17 +3370,17 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
 
-#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://hd432.com/wp-content/uploads/2026/07/The_Debt_Collector__2026.jpg",ช่อง คนเดือดทวงแค้น
-https://77-hd.com/the-debt-collector-2026/
-
-#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://77-hd.com/wp-content/uploads/2026/01/oiOxy2JtR23URJJEp6ryrMd8VH6-1.jpg",ช่อง สัปเหร่อ 2
-https://77-hd.com/the-undertaker-2-afterlife-2026/
-
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--lg.webp",ช่อง 106.5 GreenWave
 https://radio-thailand.com/greenwave
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg",ช่อง EFM 94.0
+https://www.radio-thai.com/efm
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/662/great-93.ba949606.png",ช่อง GREAT 93
+https://www.radio-thai.com/great-93
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
 http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
