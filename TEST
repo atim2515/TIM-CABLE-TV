@@ -37,10 +37,10 @@ https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://cdn3.indevs.in/stream/live/typd/
+http://sansatplus.net:88/02006318076762/VIGBAMLG91POUYJ/159608
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://cdn6.cc.cd/163189/tvb1
+	https://cdn11.163189.xyz/163189/hoy76
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
 https://cdn6.cc.cd/163189/tvbd
