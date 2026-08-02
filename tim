@@ -1308,25 +1308,25 @@ http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",ช่อง NTV Plus
-https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง TBS
 http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",ช่อง TBS Channel 1
-https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",ช่อง TBS Channel 2
-https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง Fuji TV
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif",ช่อง Fuji TV One
-https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs308.gif",ช่อง Fuji TV Two
-https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCwGGo9Fq8gnptIaFWA0uOj_rMobBBN54QQ&s",ช่อง Fuji TV NEXT
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying 
@@ -1338,10 +1338,10 @@ https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc8
 http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",ช่อง TV Asahi Channel 1
-https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",ช่อง TV Asahi Channel 2
-http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง TV Tokyo
 http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying 
@@ -1374,7 +1374,7 @@ http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",ช่อง Tokyo MX2
-https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
@@ -1383,28 +1383,31 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif",ช่อง Tetsudo Channel
-https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",ช่อง Mondo TV
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",ช่อง Me-Tele Next
-https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCfIpzgJBI8FMje9SSkuxHjvfJn-vqoxvJg&s",ช่อง Dance Channel
-http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/dance_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
 https://akariko-bck1.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",ช่อง KNTV
-https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68EDbfW7W83sPL5zQ3dr3zBnqAsWo1OFCwQ&s",ช่อง KBS
-https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/tkMtZf7GKiIm0aZiXQRe6qlJFjxGEvLWMgr8AJsYya74spnmxah23GTMMpk7O_aNOuOIv92Oiw=s900-c-k-c0x00ffffff-no-rj",ช่อง KBS World
-https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-151-400x400.png",ช่อง BS Asahi 4K
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",ช่อง BS Asahi
 http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying
@@ -1412,8 +1415,14 @@ http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",ช่อง BS Fuji TV
 http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying
 
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png",ช่อง BS Nippon TV 4K
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",ช่อง BS Nippon TV
 http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png",ช่อง BS TBS 4K
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",ช่อง BS TBS
 http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying
@@ -1422,16 +1431,16 @@ http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying
 http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItxUzXHEp2vhlmV5fD3gMbhLmZMSljUhl68U2Pwnc3Q&s=10",ช่อง BS Yoshimoto
-https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",ช่อง BS 10
-https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/bs10/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",ช่อง BS 11
-https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/bs11/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",ช่อง BS 12
-https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง JCOM BS
 https://akariko-bck1.sankuria.sbs/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
@@ -1443,7 +1452,7 @@ http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
 http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",ช่อง The Cinema
-https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
 http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
@@ -1455,7 +1464,7 @@ http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
 http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",ช่อง WOWOW Plus
-https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",ช่อง Family Gekijo
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying 
@@ -1470,7 +1479,7 @@ http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",ช่อง Neco Channel
-https://haru.charandom.blog/stream/jp/neco_ch/strEAM-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",ช่อง Jidaigeki Senmon
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying 
@@ -1485,28 +1494,31 @@ http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying
 https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg520t10qVmEtE9tmeiql5tubwhd5FStzqYLpwwxI4w&s=10",ช่อง Super Drama TV
-http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",ช่อง Dlife
-https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",ช่อง Action Channel
-https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",ช่อง Mystery Channel
-https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lYxT0D1YGAcTZ-wG9XSBZn_sPkuaUABIjA&s",ช่อง V Paradise
-https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/Sptvlogo.jpg",ช่อง Nouvelle Paradise
+https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",ช่อง Pigoo
-https://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",ช่อง Music On! TV
-https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",ช่อง Music Japan TV
 http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying 
@@ -1518,10 +1530,10 @@ http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",ช่อง Music Air
-https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
-https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",ช่อง Discovery Channel Japan
 http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying 
@@ -1542,7 +1554,7 @@ http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
 http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",ช่อง AT-X
-https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",ช่อง Cartoon Network Japan
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying 
@@ -1569,7 +1581,7 @@ http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
 http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif",ช่อง Sport live plus
-https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",ช่อง Sky A
 http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying 
@@ -1578,7 +1590,7 @@ http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",ช่อง Fighting TV Samurai
-https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",ช่อง Golf Network
 http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying 
@@ -1590,7 +1602,7 @@ http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
 http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",ช่อง Shogi Channel
-https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",ช่อง CNNj
 http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying 
@@ -1599,13 +1611,13 @@ http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying
 http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",ช่อง NTV News24
-https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",ช่อง TBS News
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",ช่อง Weather News
-https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJgXxf12A7Ik8BxFWu1ed1T9IQW9TaYTyqw&s",ช่อง CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
@@ -3358,11 +3370,11 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
 
-#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://daisukijdramaplus.com/wp-content/uploads/2026/04/image-3-724x1024.png",ช่อง Black Showman – แบล็ก โชว์แมน กับคดีฆาตกรรมในเมืองไร้ชื่อ
-https://ok.ru/video/15517029239541
+#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://hd432.com/wp-content/uploads/2026/07/The_Debt_Collector__2026.jpg",ช่อง คนเดือดทวงแค้น
+https://hd432.com/the-debt-collector-2026-%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b7%e0%b8%ad%e0%b8%94%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b9%81%e0%b8%84%e0%b9%89%e0%b8%99/
 
-#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://daisukijdramaplus.com/wp-content/uploads/2025/11/cover-1-1024x576.jpg",ช่อง Yonimo Kimyona Monogatari เรื่องเล่าพิศวง SP
-https://ok.ru/video/10645787773685
+#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://hd432.com/wp-content/uploads/2026/07/King_Kaew__2026.jpg",ช่อง กิ่งแก้ว
+https://hd432.com/king-kaew-2026-%e0%b8%81%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%a7/
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
@@ -3468,3 +3480,9 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15992/29384/conversions/UfBAIRwc7HjkHPUzctmv2MZMJxLeg0-metaMTAxIHNtb290aCBqYXp6LmpwZw==--lg.webp",ช่อง 101 Smooth Jazz Radio
 https://radio-thailand.com/101-smooth-jazz-radio
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/40004.v7.png",ช่อง Love 80's - DAB
+https://onlineradiobox.com/uk/love80sdab/?cs=uk.love80sdab&played=1
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/90806.v10.png",ช่อง The Elvis Radio Show UK
+https://onlineradiobox.com/uk/theelvisradioshow/?cs=uk.theelvisradioshow&played=1
