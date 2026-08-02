@@ -3376,11 +3376,8 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--lg.webp",ช่อง 106.5 GreenWave
 https://radio-thailand.com/greenwave
 
-#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg",ช่อง EFM 94.0
-https://www.radio-thai.com/efm
-
-#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/662/great-93.ba949606.png",ช่อง GREAT 93
-https://www.radio-thai.com/great-93
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--lg.webp",ช่อง EFM 94
+https://radio-thailand.com/efm-940
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
 http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
@@ -3423,6 +3420,9 @@ http://fmonair.com:7890/;
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cdsw45cqvjte.jpg",ช่อง 90.5 Smart News
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z2b4
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/17297/36010/conversions/m18BB3wMgy5y4J7ZVuS5ELnKnlBTPa-metaSlMxMDAuanBn--lg.webp",ช่อง จส100
+https://radio-thailand.com/js100
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ptshgz8bvtsk.jpeg",ช่อง สวพ fm 91
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20334
