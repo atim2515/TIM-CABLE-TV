@@ -1308,7 +1308,7 @@ http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",ช่อง NTV Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/ntv/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/ntv_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง TBS
 http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying 
@@ -3371,13 +3371,16 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://69.30.245.50/live/cctv4.m3u8
 
 #EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://hd432.com/wp-content/uploads/2026/07/The_Debt_Collector__2026.jpg",ช่อง คนเดือดทวงแค้น
-https://hd432.com/the-debt-collector-2026-%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b7%e0%b8%ad%e0%b8%94%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b9%81%e0%b8%84%e0%b9%89%e0%b8%99/
+https://77-hd.com/the-debt-collector-2026/
 
-#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://hd432.com/wp-content/uploads/2026/07/King_Kaew__2026.jpg",ช่อง กิ่งแก้ว
-https://hd432.com/king-kaew-2026-%e0%b8%81%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%a7/
+#EXTINF:-1 group-title="Movies and Series TV" tvg-logo="https://77-hd.com/wp-content/uploads/2026/01/oiOxy2JtR23URJJEp6ryrMd8VH6-1.jpg",ช่อง สัปเหร่อ 2
+https://77-hd.com/the-undertaker-2-afterlife-2026/
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--lg.webp",ช่อง 106.5 GreenWave
+https://radio-thailand.com/greenwave
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
 http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
@@ -3469,6 +3472,12 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v23354
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png",ช่อง FLEX 102.5 FM
 https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
 
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/260/fm91-pattaya-mun-d.3630640c.png",ช่อง FM 91 พัทยามันดี
+https://radio-thailand.com/pattayamundee
+
+#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://cdn-profiles.tunein.com/s290197/images/logog.png?t=1653514908000",ช่อง RadioBTR
+https://radio-thailand.com/radiobtr
+
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",ช่อง Eingdoi Radio เพลงลูกทุ่ง
 https://radio14.plathong.net/7126/;stream.mp3
 
@@ -3480,9 +3489,3 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 
 #EXTINF:-1 group-title="Radio Channel" tvg-logo="https://radio-thailand.com/storage/radios/15992/29384/conversions/UfBAIRwc7HjkHPUzctmv2MZMJxLeg0-metaMTAxIHNtb290aCBqYXp6LmpwZw==--lg.webp",ช่อง 101 Smooth Jazz Radio
 https://radio-thailand.com/101-smooth-jazz-radio
-
-#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/40004.v7.png",ช่อง Love 80's - DAB
-https://onlineradiobox.com/uk/love80sdab/?cs=uk.love80sdab&played=1
-
-#EXTINF:-1 group-title="Radio Channel" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/90806.v10.png",ช่อง The Elvis Radio Show UK
-https://onlineradiobox.com/uk/theelvisradioshow/?cs=uk.theelvisradioshow&played=1
