@@ -4,28 +4,28 @@
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 风云剧场
-https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง tvbc
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง เหี้ย
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/35/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง สัด
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/36/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ย
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ย
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ด
+http://190.124.20.69/ConcertChannel/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-https://hls.iptv-th.workers.dev/live/45/playlist.m3u8
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ส
+http://190.93.224.42/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
 https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
@@ -37,7 +37,7 @@ https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 1
-	http://sansatplus.net:88/02006318076762/VIGBAMLG91POUYJ/159616
+http://sansatplus.net:88/02006318076762/VIGBAMLG91POUYJ/159616
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 2
 https://cdn11.163189.xyz/163189/hoy76
