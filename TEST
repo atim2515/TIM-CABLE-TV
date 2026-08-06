@@ -13,7 +13,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1#.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2#.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง สัด
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1#.m3u8
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ย
 https://7fighters.samorn-team.workers.dev/110
