@@ -270,6 +270,9 @@ https://7fighters.samorn-team.workers.dev/91
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/960px-Nick_Jr._logo_2023.svg.png?_=20250701043845",ช่อง Nick Jr.
 https://7fighters.samorn-team.workers.dev/292
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/960px-Tooniverse_logo_2019.svg.png",ช่อง Tooniverse
+http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse#.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",ช่อง Boomerang
 https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1785880429&uta=2jGXi9Ju4PhSNdp2cOuRAQ
 
@@ -277,7 +280,7 @@ https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1785880429&uta=2jGXi9Ju4
 https://lb-live-m.sky-cdn.com/mv/mangomojito.m3u8?expires=1785880488&uta=C_1zRkUSHBley-KSvLp1Sg
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
-https://7fighters.samorn-team.workers.dev/175
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_CLH38PnECfArx_fE_7R2nTLdFSB_TvMKFUeouvqZQ&s=10",ช่อง Monomax 1
 http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts
@@ -377,6 +380,27 @@ http://49.0.64.96:8007/AMAZING
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",ช่อง Animal
 http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2-DxoriOs5tT8WVUNu9rAoqifVo580GOVQ&s",ช่อง That's 70's
+https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vonIk9JRauQZAN6huuqLRtoMCR77jeMI3Q&s",ช่อง That's 80's
+https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawaN4YJyMZLwajqxH_r1be2sAcbPliRV8yw&s",ช่อง That's 90s00s
+https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZTmoeUStMq7pnvhkKjhYC5ddTjuH1DoL6A&s",ช่อง Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKUx-I8vgecnSFr5qAUAQbt4OQqx6Ady76SA&s",ช่อง XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjH0w4XS_jzVQlr5820i8sh7VMOeBmzQgrw&s",ช่อง XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uHSwlvHm8SGQh3Lo2cgDgRnNjskzM3GM_IihVYwwTg&s",ช่อง Mono29 Music Station
 https://7fighters.samorn-team.workers.dev/343
@@ -580,7 +604,7 @@ http://40.160.24.52/BET_SOUL/index.m3u8
 http://40.160.24.52/ASPIRE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0got7aeNk2teojgoR78ZR7aJutWfuKkhG868fIKEVA&s=10",ช่อง Telemundo
-http://45.181.87.106/TELEMUNDOHD/index.m3u8
+http://168.196.127.137:6001/play/a05t/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/INSP_2022.svg/1280px-INSP_2022.svg.png",ช่อง INSP
 http://40.160.24.53/INSP/index.m3u8
@@ -1739,6 +1763,12 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgG2sH9KDN1uxHrjctK07YGKvtT58kN39y6g&s",ช่อง TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://images.seeklogo.com/logo-png/40/1/kbs-1-logo-png_seeklogo-403416.png",ช่อง KBS 1
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1#.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg8e2uLU3zghTKWozwiQFXgFMOs8eeeM2x-r3GcUi_-Q&s",ช่อง KBS 2
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2#.m3u8
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cdn.cloudbf.com/thumb/format/mini_xsize/files/65/img/2024/01/29/202401291640220192465.jpg.webp",ช่อง Tomato
 http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 
@@ -1808,6 +1838,9 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/L9bvCgSJXnc/hq720.jpg?v=69bd4eab&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQeQ1fV8KHHbhxa_1sFBKSU3OCuw",ช่อง GCN24 Korean
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/960px-Tooniverse_logo_2019.svg.png",ช่อง Tooniverse
+http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse#.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2CtW_RjUCn_iYQFhLIyh6DqZJOgFdOnn1w&s",ช่อง CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -2585,6 +2618,9 @@ https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjH0w4XS_jzVQlr5820i8sh7VMOeBmzQgrw&s",ช่อง XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+
+#EXTINF:-1 group-title="Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUwN0aCVB7XaA_r08bhwQadTUh7j7oXcJzA4jzYjuKs67pWlR24x79SiC&s=10",ช่อง MUSIC CHOICE 60S
 http://rocketfx.uk:8080/live/henry/henry/4b79b41b-56cb-4fec-aafd-a961b1c51aa5.ts
