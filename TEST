@@ -4,58 +4,64 @@
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 风云剧场
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157332
+http://40.160.24.55/TRAVEL_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง tvbc
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157331
+http://40.160.24.55/TNT_WEST/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง เหี้ย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157333
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Starz Comedy
+http://40.160.24.55/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง สัด
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157334
+http://40.160.24.55/Sportsman_Channel/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157339
+http://40.160.24.55/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157340
+http://40.160.24.55/STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ด
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157341
+http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ส
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157342
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 1
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181468.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157343
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 2
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181469.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157344
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 3
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181470.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157347
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181471.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 1
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157349
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง MaxCro Select 1
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/25389.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 2
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157350
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/25388.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 3
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157351
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/48306.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157352
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/48307.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157353
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/48308.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157354
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/48309.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157355
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/48310.m3u8
 
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง ลมเสีย
-http://31.43.191.125:8880/vip6671769357668/9c933f68998a/157356
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Top Classic 1
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181476.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181477.m3u8
+
+#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง Movies 4
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1181478.m3u8
