@@ -1910,10 +1910,16 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFzJTmwdCRXb4y6sIITN8HYBiG_Bmm5BP5tRvVTlEQw&s=10",ช่อง 바둑TV-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ENA_logo.svg/500px-ENA_logo.svg.png",ช่อง ENA-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=ena
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsCQAUjJZxPMWt3WTQLxgIChP2kP8As17in3wRv7HQA&s=10",ช่อง iHQ-테스트
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Echannel_logo_2023.svg/960px-Echannel_logo_2023.svg.png",ช่อง Channel E-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Comedy_TV_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20241208005957",ช่อง Comedy TV
 http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c22cNxwtiRJjwyKyIgUvJcuW3y8cn_pgENp8Fe0CTQ&s=10",ช่อง JTBC
@@ -1989,14 +1995,20 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7QwRgbzeIaqbUgK1bagfYN7Waq7Wc2zgCpITYKHrI4OKESEDlycsn0TM&s=10",ช่อง MBC스포츠-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbB0nJX3dGx00YwdMVoCeP7pmTRkFZDGCOW1crSmnA&s",ช่อง ENA SPORTS
+http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-P7ggEjlw6Hr8es30DjZEBLzU35mYiH_wALWESoBF0A&s",ช่อง 빌리어즈TV-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55urMklB3BsjK-kM_361B0DXenbUq-qNqcOM0utBVLA&s=10",ช่อง SPOTV-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png",ช่อง SPOTV 2-테스트
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz4PB5eqE-J-zOAxIAYVu2w1A_jszo3XWH_uwQzjopg&s=10",ช่อง SPOTV 2-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBua1gnUXw-4mRz8SiXKJ38aAKhePpeGC9UvgFZsUQVw&s=10",ช่อง 스카이스포츠-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FM4qYMGZTUQR_KjEVc-ynQJ4pa6jW_kvIWr7-KMCTmBo5QvDMqDhfKLT&s=10",ช่อง Spotv Golf And Health-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.namu.wiki/i/lOGR8oqG3w639p0WF3CAS2OFGpA1VuwLX15bIjO3ZrleWzUX-fFhBokAfznZocdAGgYp7HxeEeAXOhEb_SLKVQ.webp",ช่อง 도시어부
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
