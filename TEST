@@ -4,7 +4,7 @@
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6249/manifest.m3u8
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง 风云剧场
-http://40.160.24.55/TRAVEL_CHANNEL/index.m3u8
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-thai-film.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
 
 #EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",ช่อง tvbc
 http://40.160.24.55/TNT_WEST/index.m3u8
