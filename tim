@@ -1808,6 +1808,12 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7pFJv9Ojsm3vO87RJn9LXA1Hp4YhrEcpavo9_51dsA&s",ช่อง OCN-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBVs5leJlCrNoIKDqChUIYiPs5z_fbps-AHcAPt_K&s=10",ช่อง OCN Movies-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBVs5leJlCrNoIKDqChUIYiPs5z_fbps-AHcAPt_K&s=10",ช่อง OCN Movies 2-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",ช่อง Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -1834,6 +1840,9 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png",ช่อง EBS+ 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNsCTP5X-MfmPs8-MEIMRPHGzokvn7WkhiriybsUheohiQ_Umy3J8ZGMVE&s=10",ช่อง MBC ON-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_on
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC Daejeon
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
@@ -1901,6 +1910,12 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ENA_logo.svg/500px-ENA_logo.svg.png",ช่อง ENA-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=ena
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsCQAUjJZxPMWt3WTQLxgIChP2kP8As17in3wRv7HQA&s=10",ช่อง iHQ-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c22cNxwtiRJjwyKyIgUvJcuW3y8cn_pgENp8Fe0CTQ&s=10",ช่อง JTBC
 https://tving-live-o2-skcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MjczNzE2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=TmH9oWxISZbp3Eq3VFQmYpN8PMS9Q2rdFj34EyYViB3hLVeQx4qqtd358MYgeh-FJjgT9fn8lPgU6W1vb4TI75qAR6racOYgmMEHQppYPwuYl-hSTdllmTvW-~oV~fCwIdLsFrJ6HuJGJcEvsBdt-LvcIpPnB-I8xpQ-h40ciiri8s3mhNvbtXtQOV4JzOUer7~HX~yRvlDf3Bkp~1Cg8pG7TA4GCJT54FnF3Nd15jz6H1QKa5EGWUAvMVzLrIVzHibTxBEZAQl~Q3ESiiUy48I-QOkW0JmuNArnn5qdUL~ensyx9iooQfpILtdHRVqlevdbOZy2~ZhvnE4CQSeQ1A__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
@@ -1955,6 +1970,33 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITqwLMG45eRjeHhyMkwn-bjIivYvbtiFePJQrhiQt1A&s",ช่อง TVN Sports-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YP9ss2QjkCjAyr7S6fgizb0P9LWzWKna1I0xzVu9W1wuf85FXo3w_ws&s=10",ช่อง SBS스포츠-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC6_XeG14fmakW2pkcYmgKdYkgi4lJdyf3Ujyadip7g&s=10",ช่อง SBS골프-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0_WebGC-O5CHxNuEOCp5tTS7F2c3XQAy5a2WrbY24jNSRxQJa9LAFS8x&s=10",ช่อง J 골프-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgsBVKk-9LffwbW52rLmkk7vonvkqcEXquBtEFnFaXkDWFD4qCu9JHtk0&s=10",ช่อง KBS N 스포츠-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7QwRgbzeIaqbUgK1bagfYN7Waq7Wc2zgCpITYKHrI4OKESEDlycsn0TM&s=10",ช่อง MBC스포츠-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55urMklB3BsjK-kM_361B0DXenbUq-qNqcOM0utBVLA&s=10",ช่อง SPOTV-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://images.seeklogo.com/logo-png/41/1/spo-tv-2-logo-png_seeklogo-410832.png",ช่อง SPOTV 2-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBua1gnUXw-4mRz8SiXKJ38aAKhePpeGC9UvgFZsUQVw&s=10",ช่อง 스카이스포츠-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.namu.wiki/i/lOGR8oqG3w639p0WF3CAS2OFGpA1VuwLX15bIjO3ZrleWzUX-fFhBokAfznZocdAGgYp7HxeEeAXOhEb_SLKVQ.webp",ช่อง 도시어부
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
