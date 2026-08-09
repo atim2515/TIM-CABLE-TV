@@ -1364,6 +1364,9 @@ https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2CjIc9yDKZ1AkNvpUvXyuPBYk9NTSsGJoIL6Bz4dhA&s=10",ช่อง NHK
+http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world
+
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying 
 
@@ -1892,12 +1895,6 @@ http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8lxkkpehEh9xtK74CoRC3vQa6E2aTbSUBIxuhLW4Yg&s=10",ช่อง SBS
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyP4AyzU5NItNtoqrFQfKBqtBVwhq909cBZoU-1IUg3g&s=10",ช่อง SBS PLUS-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/SBS_News_logo.png",ช่อง SBS 뉴스
-https://tving-live-o2-xcdn.tving.com/o2/v1/019b974ed45e153d78651307e41e33/019b97555b3a153d78651307e41e38/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzY4OTgsInBhdGgiOiIvbzIifQ.FpVHOKafGU62KW0xYWmzCeIL5lCM_sQZMGe2zLtNfT8
-
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
@@ -1915,6 +1912,12 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyP4AyzU5NItNtoqrFQfKBqtBVwhq909cBZoU-1IUg3g&s=10",ช่อง SBS PLUS-테스트
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/SBS_News_logo.png",ช่อง SBS 뉴스
+https://tving-live-o2-xcdn.tving.com/o2/v1/019b974ed45e153d78651307e41e33/019b97555b3a153d78651307e41e38/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzY4OTgsInBhdGgiOiIvbzIifQ.FpVHOKafGU62KW0xYWmzCeIL5lCM_sQZMGe2zLtNfT8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFzJTmwdCRXb4y6sIITN8HYBiG_Bmm5BP5tRvVTlEQw&s=10",ช่อง 바둑TV-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv
@@ -1936,9 +1939,6 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTdq-ecPsAkR1NwJJFo-SyosKKe0fzIdYaAHgSxjif&s",ช่อง JTBC2
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6c233d781eb80e796d9bd9cb7/019dd8d54768153d7865157cdbfbd3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzY5MjYsInBhdGgiOiIvbzIifQ.I1cHl9jxr7SSUDPMvt-71UQSYAG2c7UICftFek-PS_k
-
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Jtbc3sports.png",ช่อง JTBC 3
-http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/586a7688251193.5e53ce5ca011a.jpg",ช่อง JTBC4
 https://tving-live-o2-xcdn.tving.com/o2/v1/019dd2ee3a6f1eb80e7925af014fb7/019dd8e4b0c6153d7865157cdbfbdb/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzY5NDIsInBhdGgiOiIvbzIifQ.Fv9v7cDJrr8SQjB65I7Gq0GUF9YlOoV95RrpzexS7yA
@@ -1986,7 +1986,7 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/wZ_BWzFTnEg/maxresdefault.jpg",ช่อง RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01qQiGi5ozNoeCR7gp1je2AJfFqbtYW9p7sWj66Y8DA&s=10",ช่อง NHK World-테스트
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2CjIc9yDKZ1AkNvpUvXyuPBYk9NTSsGJoIL6Bz4dhA&s=10",ช่อง NHK World-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
@@ -2007,8 +2007,11 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YP9ss2QjkCjAyr7S6fgizb0P9LWzWKna1I0xzVu9W1wuf85FXo3w_ws&s=10",ช่อง SBS스포츠-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC6_XeG14fmakW2pkcYmgKdYkgi4lJdyf3Ujyadip7g&s=10",ช่อง SBS골프-테스트
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC6_XeG14fmakW2pkcYmgKdYkgi4lJdyf3Ujyadip7g&s=10",ช่อง SBS Golf
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC6_XeG14fmakW2pkcYmgKdYkgi4lJdyf3Ujyadip7g&s=10",ช่อง SBS Golf 2
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/eGFqh1jpPSdR8OBASRS7Tb4-7tMBwA36TougyENPS1Z0B2z8EP6u8Bz7GTE3JCRiAPw9a__i=s900-c-k-c0x00ffffff-no-rj",ช่อง JTBC GOLF
 http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
@@ -2061,7 +2064,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQev8WkWntN8azUca0BkcK20ZusIDjEIwpNr5VBDsrfCQ&s",ช่อง 히스토리
 https://tving-live-o2-skcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MzA0OTMwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=NwXEyAPhsgN9Yz7OHJSsMH15W~~YkvI4RyDHz4FtlbhjVly8Pel9O5InViNunXBuEK4WTDTdiM7GRO5UJ-bClYJ7b78XVgOtB~qJV2ESITgGH7Ddm8Hf4nCU-owm2go9Fj9CELoBsUvCZHpAG2o5bDL9KlAqNhQgyUME9pEh~PGn0gN12yA5o7eSMWJ9gSCs0GAExGxVyYaGLj97m0YxTu-gN-xLxeBiVqBziW-FWCYkWDJJQySNc5nnhgEnG1CVPXEVV4Z3EmcTg02iiMs5~i1z22En83EIF66TGIzqwVspY0LWCqtuonp9BSoU6tdflc3ai0g3cH2gcx96~ATHtg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
-#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/330px-National_Geographic_Wild_logo.svg.png",ช่อง Nat Geo Wild-테스트
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xKfkhm0rHP0A7iSk3rQKqxFc0paRF7eCFmGm0j2r&s=10",ช่อง Smithsonian Channel
 http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7gDK7-klM1F0eW0KNXKGd-K9OUGk-rKmAQ&s",ช่อง National Assembly TV
