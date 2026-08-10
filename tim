@@ -1887,7 +1887,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1#.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2#.m3u8
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4_%EB%A1%9C%EA%B3%A0.png",ช่อง 연합뉴스
-https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMDQ4NDgsInBhdGgiOiIvbzIifQ.toM3ZCkJmwYpoG53FJu9itAia0qPmpYdinlqms9RyLA
+https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODY0MDIzNjIsInBhdGgiOiIvbzIifQ.7utZxOBIM_xCJ4KHxvnSDI7ezauTvDuqxHlmVrgWrCA
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cdn.cloudbf.com/thumb/format/mini_xsize/files/65/img/2024/01/29/202401291640220192465.jpg.webp",ช่อง Tomato
 http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
@@ -2062,7 +2062,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzc2MjgsInBhdGgiOiIvbzIifQ.pVwMdtDSIakzjNvurrZE0ckYVOGF2AztXG2JajSm070
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQev8WkWntN8azUca0BkcK20ZusIDjEIwpNr5VBDsrfCQ&s",ช่อง 히스토리
-https://tving-live-o2-skcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MzA0OTMwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=NwXEyAPhsgN9Yz7OHJSsMH15W~~YkvI4RyDHz4FtlbhjVly8Pel9O5InViNunXBuEK4WTDTdiM7GRO5UJ-bClYJ7b78XVgOtB~qJV2ESITgGH7Ddm8Hf4nCU-owm2go9Fj9CELoBsUvCZHpAG2o5bDL9KlAqNhQgyUME9pEh~PGn0gN12yA5o7eSMWJ9gSCs0GAExGxVyYaGLj97m0YxTu-gN-xLxeBiVqBziW-FWCYkWDJJQySNc5nnhgEnG1CVPXEVV4Z3EmcTg02iiMs5~i1z22En83EIF66TGIzqwVspY0LWCqtuonp9BSoU6tdflc3ai0g3cH2gcx96~ATHtg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+http://124.222.153.240/kakaotv/get_channel.php?channel=history
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xKfkhm0rHP0A7iSk3rQKqxFc0paRF7eCFmGm0j2r&s=10",ช่อง Smithsonian Channel
 http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
@@ -2366,6 +2366,15 @@ http://173.208.212.130:8181/720p/gfjs.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOrHWqEyyQ6YjsejxPB7Vn5NWpAPtSp1dcwjLmYUN5w&s",ช่อง 第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYGsMEGnlgIbsmHR360uVgNIXOoUaYubWeePBln_B4w&s",ช่อง 延边卫视频道
+https://srs.iyb983.cn/video/CYS/index.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBHuxPcTmRCA3VNcyLHlp0UPNN9sFY97fRE8WBkEtOg&s",ช่อง YBTV-1 朝鲜语综合频道
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/YBTV-2_Yanbian.png/revision/latest?cb=20240326061134&path-prefix=vi",ช่อง YBTV-2 汉语综合频道
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",ช่อง CHC动作电影
 http://192.151.150.154/live/chcdz.m3u8
