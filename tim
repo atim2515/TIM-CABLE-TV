@@ -1953,6 +1953,9 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019db8e33fa3153d7865047a0cd4/019dd8d8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOY2K9RhdtDw7QtbeeqzNa-bNSS-Cjjhy6TpE9bKzu02uI_Y8GkE74Uo&s=10",ช่อง Event TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=history
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/1280px-YTN_logo_2014.svg.png",ช่อง YTN
 https://tving-live-o2-skcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db8091f9d153d7865047a0cd0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MzM2OTczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=KEh0SwMXux1cGeOwIljM-W90Ojr1rDGWn0VF9VoAXa2c1XZJUx-V0WMVrPt1LdkZ1BDCdA8I29k4kPZsQqMDoCGug-nNJTv~eRPnveNgu5uBeHF5InMvPao2Df17VzD01uw~feWgzXfssdsobqb1tgWURW8YQvbeRPws2IYNkhv81U6~FhJ-YJv2lhEZtHZzSxn1jCVdCmJon82FPcpLOj9lgMwEjKs33OSqnvIJLkfmSG9hPpQHH6CUeVsR~LAbpNhbsiBYzpDBh1laCYLj8lZeIBiAJeV9W0AUt61WP6HDT2HAhhOJ~xMhZydqtQLwn40aCWpqpAp3QIC9UBg8iQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
@@ -2062,7 +2065,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzc2MjgsInBhdGgiOiIvbzIifQ.pVwMdtDSIakzjNvurrZE0ckYVOGF2AztXG2JajSm070
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQev8WkWntN8azUca0BkcK20ZusIDjEIwpNr5VBDsrfCQ&s",ช่อง 히스토리
-http://124.222.153.240/kakaotv/get_channel.php?channel=history
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzNzA5NTEsInBhdGgiOiIvbzIifQ.z_TRU4M1jqCQcgNAc4wd394loWdhEn5r4quGi-BcInY
 
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xKfkhm0rHP0A7iSk3rQKqxFc0paRF7eCFmGm0j2r&s=10",ช่อง Smithsonian Channel
 http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
