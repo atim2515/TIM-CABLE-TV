@@ -177,6 +177,9 @@ https://7fighters.samorn-team.workers.dev/32
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง Rock Action
 https://7fighters.samorn-team.workers.dev/33
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfymp0PNvn_9PewyECtBKHdLWJRdPwOTFz8XDcWHI4g&s=10",ช่อง HITS
+http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
 https://7fighters.samorn-team.workers.dev/101
 
@@ -2217,6 +2220,9 @@ https://fast.hidns.vip/163189/rthk31
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87SfRsi_HwE7iKy7wegsb6zHv-Wrw7IBDdw&s",ช่อง RTHK 32
 https://fast.hidns.vip/163189/rthk32
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdc4g7tm44jc9x10p_nu6YdXjAuCnQRkDl8heFGMO_w&s",ช่อง RTHK 33
+https://cdn.qd.je/163189.php?id=rthk33
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAjHhfTGLk5uk5YuRcxe-e2mYrfeTUOR3vFbtNWsS0w&s=10",ช่อง 凤凰資詢
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 
@@ -2244,6 +2250,9 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUPs0uWtXmH6rniPKN_824P3NiPluXUhJsg&s",ช่อง 澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpUjBKufOJtIZNQKj0IzjqYgEm47LM_YcRBK47Tt9GWA&s=10",ช่อง Lotus TV Macau
+https://cdn.qd.je/163189.php?id=amlh
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9RZ1YzyH4zWN72lWzm3fGCNORQ3ARLd0_g&s",ช่อง Bread-TV.com
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -2268,20 +2277,47 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTV
+http://74.91.26.218:82/live/ftv.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTVDY
+http://74.91.26.218:82/live/ftvdy.m3u8
+
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLyEB39q-tQOvL6z6h7_lipd5UcGkEBQdkw&s",ช่อง TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMW6NXm2CaBMJMuSDwm3BD13ZuNe14yoCfcSL_hhsqQ&s=10",ช่อง TVBS新聞台
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckiz3StkZ0mzTI0ulH7l1E-LkLFKMlavSlkOfWlKzvVfpS7a8lgtL6Do&s=10",ช่อง SET iNEWS
+http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvlVGQW9Nn8WpfQUijQ_afDVwJH7vOlZ5fYxEqSRdSPw&s=10",ช่อง CTI
+http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง 中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง CTVJD
+http://74.91.26.218:82/live/ctvjd.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png",ช่อง PTS
+http://74.91.26.218:82/live/pts.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTV
+http://74.91.26.218:82/live/ttv.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTVCJ
+http://74.91.26.218:82/live/ttvcj.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXIUFxq9gj6aLecsrK9WqgFdF7wLV4wNgJEBMcJsutw&s=10",ช่อง 台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง 华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
+
+#EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง CTS
+http://74.91.26.218:82/live/ctsjy.m3u8
 
 #EXTINF:-1 group-title="Taiwan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
 http://74.91.26.218:82/live/ftvnews.m3u8
@@ -2379,6 +2415,12 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/YBTV-2_Yanbian.png/revision/latest?cb=20240326061134&path-prefix=vi",ช่อง YBTV-2 汉语综合频道
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg",ช่อง LTV
+https://cdn.qd.je/163189.php?id=lhxj
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg",ช่อง LTV
+https://cdn.qd.je/163189.php?id=lhdy
+
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",ช่อง CHC动作电影
 http://192.151.150.154/live/chcdz.m3u8
 
@@ -2393,6 +2435,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 group-title="Singapore TV" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png",ช่อง CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Singapore TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGWDQDkh0L-19lrBLs9l9UeDkw7jLK10QY4yPv8Q0QA&s",ช่อง Channel 8
+https://cdn.qd.je/163189.php?id=ch8
 
 #EXTINF:-1 group-title="Singapore TV" tvg-logo="https://play-lh.googleusercontent.com/wf6PUcth6iR-8Ftg2gO7ySCqCUSjPjQmdIdiIdQDm2bzXJkznuzeENjweh3uJvtipVyRcGKotHndOuoFLTtiOA",ช่อง meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -3419,6 +3464,39 @@ https://jmp2.uk/plu-64268f52b065d900085eb42b.m3u8
 
 #EXTINF:-1 group-title="Pluto TV" tvg-logo="https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png",ช่อง Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczi17ppithbgUmxsdPgaBZzjFrAjrUB5Zf01iEkzUQA&s=10",ช่อง AOD
+https://cdn.qd.je/163189.php?id=aod
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGPuMzKSjr-YnIJ4o2LHzFXIuWcPhorjgImdK5vso3tSVuaWwj6N34No&s=10",ช่อง TVB Plus
+https://cdn.qd.je/163189.php?id=tvbp
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_mpnDs3-KBczcqEsYJ6PcDFBY4Yj0ZI2PMQhNTsh&s=10",ช่อง TVB1
+https://cdn.qd.je/163189.php?id=tvb1
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง TVB Xinghe
+https://cdn.qd.je/163189.php?id=xinghe
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVB_Classic_2022_IVP_LAND_917x516.jpg",ช่อง TVB Classic
+https://cdn.qd.je/163189.php?id=tvbc
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIuzUof8-t2aVbh1LslIOm2vnZS_N5t0S8FK_8cmOCg&s=10",ช่อง Asian Action Channel
+https://cdn.qd.je/163189.php?id=yzwx
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtB_0ql_fajs5T6iNp4jldCis2hfJiALLTQvc-EjWmQ&s=10",ช่อง HOY
+https://cdn.qd.je/163189.php?id=hoy2
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTizTPooJQcBHgvNXNZD2xN1y41zMENM04IF18GoiJH8g&s=10",ช่อง Rock Action
+http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s900-c-k-c0x00ffffff-no-rj",ช่อง HITS
+http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
+https://cdn.qd.je/163189.php?id=typd
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGN8taRLix82k8Y40MM8p0rnbrDVLi5_BnOJM3tFEJgQ&s=10",ช่อง CCM
+https://cdn.qd.je/163189.php?id=ccm
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",ช่อง True4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
