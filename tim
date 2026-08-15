@@ -177,6 +177,9 @@ https://7fighters.samorn-team.workers.dev/32
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",ช่อง Rock Action
 https://7fighters.samorn-team.workers.dev/33
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png",ช่อง HITS NOW
+https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
 https://7fighters.samorn-team.workers.dev/101
 
@@ -184,7 +187,7 @@ https://7fighters.samorn-team.workers.dev/101
 https://7fighters.samorn-team.workers.dev/102
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
-https://7fighters.samorn-team.workers.dev/86
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSbG4d97ryyJfQvh8shwyubTUMG536NLPmGqHNzhkmQ&s=10",ช่อง True Thai Film
 https://7fighters.samorn-team.workers.dev/117
@@ -3108,11 +3111,20 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News Channel" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MIAMI TV JENNY LIVE
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158588
+
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Playboy TV
 http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/527/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Penthouse Reality TV
 http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง DUSK
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158587
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง EVIL ANGEL
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158558
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Redlight HD
 http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
@@ -3158,6 +3170,15 @@ http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Hustler HD
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/244/manifest.m3u8
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง BLUE HUSTLER
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158554
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง BLACKED
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158553
+
+#EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง BANGBROS
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158552
 
 #EXTINF:-1 group-title="Adult Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Vivid Red HD
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2162/manifest.m3u8
@@ -3545,6 +3566,9 @@ https://cdn.qd.je/163189.php?id=viu
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSN02lRauaA661y4Xqd-N0G3luaUiZO8hHfUmPDQJKyQ&s",ช่อง NOW
 https://fast.hidns.vip/163189/now
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png",ช่อง HITS NOW
+https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
 https://cdn.qd.je/163189.php?id=typd
