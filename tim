@@ -2187,6 +2187,9 @@ https://cdn6.cc.cd/163189/j1
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fz6sOQP4c4viFvggqK0gARU0YC30C177CQ&s",ช่อง TVB News
 http://rihou.cc:555/tv/[Pd]无线新闻
 
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPgafiTfdOV7fJH73tQvN0eVOdTR4bMYp7F6Q-fEAGA&s=10",ช่อง Golden Jade
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
@@ -2252,6 +2255,15 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpUjBKufOJtIZNQKj0IzjqYgEm47LM_YcRBK47Tt9GWA&s=10",ช่อง Lotus TV Macau
 https://cdn.qd.je/163189.php?id=amlh
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmaZqcwel9u2GR7Zl1Ok0SNJpt5Oah84IjXYONbOgQ&s=10",ช่อง Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmaZqcwel9u2GR7Zl1Ok0SNJpt5Oah84IjXYONbOgQ&s=10",ช่อง Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmaZqcwel9u2GR7Zl1Ok0SNJpt5Oah84IjXYONbOgQ&s=10",ช่อง Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9RZ1YzyH4zWN72lWzm3fGCNORQ3ARLd0_g&s",ช่อง Bread-TV.com
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
