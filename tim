@@ -541,13 +541,13 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 http://180.180.243.239/streams/3/hls
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
-http://40.160.24.53/MTV/index.m3u8
+http://198.58.104.90:8989/mtv/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYoLejx_hxY1gI4GCw8WX1YRUzWvAV5b86Q&s",ช่อง MTV2
-http://40.160.24.53/MTV2/index.m3u8
+http://198.58.104.90:8989/mtv2/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1ru8litkjxfU6RQbXhMl7pArQjaME4IVRQ&s",ช่อง MTV Live
-http://40.160.24.53/MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",ช่อง MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
@@ -568,13 +568,13 @@ http://40.160.24.55/TV_ONE/index.m3u8
 http://40.160.24.52/CW/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",ช่อง Fuse
-http://40.160.24.52/FUSE/index.m3u8
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/250px-AWE_Logo_%28platinum%29.jpg",ช่อง AWE
 http://40.160.24.52/AWE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://daystar.tv/img/featured.jpg",ช่อง Daystar TV
-http://40.160.24.52/DAYSTAR_TV/index.m3u8
+http://170.254.17.2/DAYSTAR/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqYI--g9YNL5uON0YCEngZyR2YsWYpVmPHLKiM_1xTUyYvzRilx6_DOSN&s=10",ช่อง Great American Faith & Living
 http://40.160.24.52/GAC_LIVING/index.m3u8
@@ -607,10 +607,10 @@ http://40.160.24.53/INSP/index.m3u8
 http://40.160.24.53/METV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/250px-Buzzr_logo.svg.png",ช่อง Buzzr
-http://40.160.24.52/BUZZR/index.m3u8
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOVz3WJ6SKAK3KqBUin_CeOMoeF89SrL0NOMGYp5rPg&s=10",ช่อง ABC
-http://40.160.24.52/ABC/index.m3u8
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjC8Dxcz6ofrEQKF6xsQpFNmynY08f_BGPA&s",ช่อง Fox
 http://40.160.24.52/FOX/index.m3u8
@@ -625,7 +625,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZ_YSBk5rz8enil6UF8ecd3_Rp_1M0P1uVg&s",ช่อง Hallmark Channel
-http://40.160.24.53/HALLMARK/index.m3u8
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Xt3so1vCtxxczbQJd8MF7CpjjTlJu8muMBiLQJPM3A&s=10",ช่อง Hallmark Family
 http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
@@ -640,7 +640,7 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://40.160.24.52/AMC_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcUU4ySGJUEj7iO0CBbRneQOnCwTuWKTyxQ&s",ช่อง E!
-http://40.160.24.52/E_ENTERTAINMENT_EAST/index.m3u8
+http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgj0Ovwrk_4n6PApmUrDhQ00ET3gkoOWAgvE47WLWpg&s=10",ช่อง MGM+
 http://40.160.24.52/EPIX/index.m3u8
@@ -655,22 +655,22 @@ http://40.160.24.55/POP/index.m3u8
 http://40.160.24.52/FLIX/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png",ช่อง BBC America
-http://40.160.24.52/BBC_AMERICA/index.m3u8
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/WEtv_Logo_2014.png",ช่อง We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962LLrzHEyDwVDfojPk4ExaROh36_Hh9W8Q&s",ช่อง FX
-http://40.160.24.52/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDXzejD9RuQLy1OL_ZlOn87QMnhUGpJACwR1gZp_eewg&s=10",ช่อง FXM
 http://40.160.24.52/FXM/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxOEADiuONZqtC4UxdbBOMyE3Ty3nv3fmBTil7f7Tvw&s=10",ช่อง FXX
-http://40.160.24.52/FXX/index.m3u8
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEiIdGAr2Rm1NeJHQ5VEsphqe6_ZI7sCn4A&s",ช่อง SYFY
-http://40.160.24.55/SYFY/index.m3u8
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRUgw7ng-HWMZlkQfli3FF_pPFcgwrqhB8w&s",ช่อง VH1
 http://40.160.24.55/VH1/index.m3u8
@@ -679,40 +679,40 @@ http://40.160.24.55/VH1/index.m3u8
 http://40.160.24.53/LIFETIME/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqES4FZGHC0EISTbjrmIbwxZPsnVQLpav4_1z3tQsUg&s=10",ช่อง Lifetime Movies
-http://40.160.24.53/LMN/index.m3u8
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5k4Th9RcDZdngcBSCMbFSPaN-3TS95_ZrO2xgkhk&s",ช่อง Lifetime Real Women
 http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKyx1WW7dWTkackBbLjMewiggSy4Vmu8vd3IEc5eyOA&s=10",ช่อง Charge!
-http://40.160.24.52/CHARGE/index.m3u8
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png",ช่อง Bounce
-http://40.160.24.58/BOUNCE_TV/index.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png",ช่อง FETV
 http://40.160.24.52/FETV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDMYXUn0rtZHU1YanVb2qqy3xRd3Th6E_PdCPDkn6Sg&s=10",ช่อง Freeform
-http://40.160.24.52/FREEFORM/index.m3u8
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/250px-Ion_logo.svg.png",ช่อง ION TV
-http://40.160.24.53/ION_TV/index.m3u8
+http://23.237.104.106:8080/USA_ION/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/250px-Ion_Plus_2024.svg.png",ช่อง ION Plus
-http://40.160.24.53/ION_PLUS/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XLfle_EOLnxuyv0aOButvItK71j4oPIUXaJz7v97SA&s",ช่อง Comet
-http://40.160.24.52/COMET/index.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://ovationtv.com/app/uploads/2025/04/ovation-tv-channel-og.jpg",ช่อง Ovation
 http://40.160.24.55/OVATION/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png",ช่อง Bravo
-http://40.160.24.52/BRAVO/index.m3u8
+http://41.205.93.154/BRAVO/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-03TpZ5QompR3HIjLQlbB-0A0QH2K27qAqDFd3b6nA&s=10",ช่อง IFC
-http://40.160.24.53/IFC/index.m3u8
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
@@ -727,7 +727,7 @@ http://45.162.193.35/STAR_CHANNEL/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34CZ83gw9wNpFgdToA_Eg0o_29kDBmejEUUZHXa49Tg&s=10",ช่อง STARZ COMEDY
-http://40.160.24.55/STARZ_COMEDY/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnZ1O6l3YR5qeiI-2MJjMT4DOu1RCOSfUwWUKCEVW2g&s=10",ช่อง STARZ EDGE
 http://40.160.24.55/STARZ_EDGE/index.m3u8
@@ -769,13 +769,13 @@ http://40.160.24.55/RFD-TV/index.m3u8
 http://40.160.24.52/GRIT/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qCdFEMZpoOFdNK50ZbInmBB5irsblO0CE3fgxziXgQ&s",ช่อง Comedy Central
-http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://allenmedia.tv/wp-content/uploads/2020/08/comedy_tv_logo_sq.png",ช่อง Comedy TV
 http://40.160.24.52/COMEDY_TV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Laff_%282025%29.svg/250px-Laff_%282025%29.svg.png",ช่อง Laff
-http://40.160.24.53/LAFF_TV/index.m3u8
+http://tvsen7.aynascope.net/laff/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png",ช่อง Catchy Comedy
 http://40.160.24.52/DECADES/index.m3u8
@@ -799,34 +799,34 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
-http://40.160.24.52/AXS_TV/index.m3u8
+http://23.239.31.26:8989/axstv/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0vDBPYvyZYOQfQTLLxNstHpfykI5yHPyOTpmaReQKw&s",ช่อง Concert Channel
 http://190.124.20.69/ConcertChannel/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvdVEHtqf9XTPgtfAwwh3DrkAhexvl09E0g&s",ช่อง CMT
-http://40.160.24.52/CMT/index.m3u8
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",ช่อง Revolt
-http://40.160.24.58/REVOLT/index.m3u8
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5x1pcE-Ad2jE2Yt06_OgTbZWvOSF2lg1wLW3aFqV9ww&s",ช่อง Fox News Channel
-http://40.160.24.52/FOX_NEWS/index.m3u8
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfk5HlBthgWkKgsw4uWd8kl1qeJd2jEXA0H8nlz3JDWQ&s=10",ช่อง Fox Business Network
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/04/cbs-news-247-logo.jpg",ช่อง CBS News 24/7
 http://40.160.24.56/CBS_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH9N17_HYKhguVXTdl388dek2eEiyUDztVRFAxEV7&s=10",ช่อง NBC News NOW
-http://40.160.24.53/NBC_NEWS_NOW/index.m3u8
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6MMSoXehbjFpqAuXwWsQA3xv6Ou94dprXl28GF61cg&s=10",ช่อง Scripps News
 http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_s7x7xAWWN4v35bvCkvKgqu5W_6gKbC2yZKqUMsN_Q&s=10",ช่อง Cheddar News
-http://40.160.24.52/CHEDDAR_NEWS/index.m3u8
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPrUcmpvqKd2FdCMmcH7KI1PfLmTTwGrIoC7weOvGcg&s=10",ช่อง CheddarU
 http://40.160.24.52/CHEDDAR_BUSINESS/index.m3u8
@@ -841,10 +841,10 @@ http://40.160.24.52/C-SPAN_2/index.m3u8
 http://40.160.24.53/MSNBC/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyApxy_bbdA3xOZ1r167dCdptm_vdljPA6pyiwaCpmTjLUyBzy41mBQQ&s=10",ช่อง One America News Network
-http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+http://23.237.104.106:8080/USA_OAN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRPwO5MID0kamxX7jnzpaysaxvAOTXKbQyr6YK5UJVO_P4mr_Y_hsgwVe&s=10",ช่อง Newsmax TV
-http://40.160.24.53/NEWSMAX/index.m3u8
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJj47q2jq3CejzbZ1QACt86cpHZhKBKuKeeyQzLTVe940JcZifAzxmOw&s=10",ช่อง NewsNation TV
 http://40.160.24.58/NEWSNATION/index.m3u8
@@ -856,37 +856,37 @@ http://40.160.24.52/CNBC/index.m3u8
 http://40.160.24.52/CNBC_WORLD/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWURmfhDbOlYCjClZpI1g-qEK7bEm44oMuw&s",ช่อง Bloomberg TV
-http://40.160.24.52/BLOOMBERG/index.m3u8
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapJJqVo1O96GqoqEr1Z8I6_jxUk0xd8OXLn6j3rwuiQ&s=10",ช่อง AccuWeather Network
-http://40.160.24.52/AccuWeather/index.m3u8
+http://23.239.31.26:8989/accuweather/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR867HOeNy5XSMy9o55oGtvBwnRkxc-NurQOyO1G-3YuQ&s=10",ช่อง Cleo TV
 http://40.160.24.52/Cleo_TV/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVq2o8y2ryOP-X0yGrHrED3pcxhna3MHmd1g&s",ช่อง Reelz
-http://40.160.24.55/REELZ/index.m3u8
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
-http://40.160.24.52/AE/index.m3u8
+http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7jv_7gItwZ-dA-p3CvaDTYT7Q6-I9IJeKZftvoHEVw&s=10",ช่อง HLN
 http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1280px-Oxygen_TV_%282017_Logo%29.svg.png",ช่อง Oxygen 
-http://40.160.24.55/OXYGEN/index.m3u8
+http://198.58.104.90:8989/oxygen/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgBW-Naabc7F3LVn6dLnOvzvZYvH9fGr3Uue9ED4YSQ&s=10",ช่อง Court TV
-http://40.160.24.52/COURT_TV/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUbQb0z9mPHqRpJkN9liQhgGWRSxJOqSAfo2U4vswcg&s=10",ช่อง Justice Central TV
 http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/national-geographic-channel-logo-featured.jpg",ช่อง National Geographic
-http://40.160.24.53/NAT_GEO/index.m3u8
+http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1O2jDVeTiiiD-33SGoKt-gbhL-3cWqkW9g&s",ช่อง National Geographic Wild
-http://40.160.24.53/NAT_GEO_WILD/index.m3u8
+http://198.58.104.90:8989/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn7tIuh5lMn3oezF7GUExtUPK-mKQV_j9wu2Ux4tV0g&s=10",ช่อง Animal Planet
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
@@ -898,7 +898,7 @@ http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
 http://40.160.24.55/SMITHSONIAN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
-http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBW7h_bVpPx8ke9vC5SBzJ6J_R0buTEIYdFqLXcj4Lg&s=10",ช่อง Outside TV
 http://40.160.24.55/OUTSIDE_TV/index.m3u8
@@ -913,19 +913,19 @@ http://40.160.24.52/THE_COWBOY_CHANNEL/index.m3u8
 http://40.160.24.52/Disney_Channel_HD/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",ช่อง Disney Junior
-http://40.160.24.52/Disney_JR/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zaQS86LjerGhqYZaYKUeK3VtO2GHuubmoA&s",ช่อง Disney XD
-http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mvs-j6twviLZegHXTaZ5G601ysnLd4Z6Eg&s",ช่อง Nickelodeon
-http://40.160.24.55/NICKELODEON/index.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CoCV7l9QwbW9NQ39wn8re0XL9qaOO8Cm0Q&s",ช่อง Nick Jr.
 http://40.160.24.55/NICK_JR/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaF8i-xZVM14GhG4Cxb7h9b1thgQI-Qu1jA&s",ช่อง Nicktoons
-http://40.160.24.55/NICKTOONS/index.m3u8
+http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRDaQHOaw9warEuhHZJ3rcZnVgefD6AnFAjvPSmSzQ&s=10",ช่อง DreamWorks Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -941,10 +941,10 @@ http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 http://40.160.24.52/NESN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQFH0YY8EFxSFc5jhbvXeXZkW4uo5HFTJeoPjKsRlKrw&s=10",ช่อง Big Ten Network
-http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnFxq16zQxmM01wpYaKAKz8Ut5qG_IRucvw&s",ช่อง MSG
-http://40.160.24.52/MSG/index.m3u8
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnFxq16zQxmM01wpYaKAKz8Ut5qG_IRucvw&s",ช่อง MSG 2
 http://40.160.24.52/MSG_2/index.m3u8
@@ -953,7 +953,7 @@ http://40.160.24.52/MSG_2/index.m3u8
 http://40.160.24.52/MSG_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png",ช่อง ESPNU
-http://40.160.24.52/ESPN_U/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduBhzlQEGnFfaC-n4yZZ1jbjLVjfLaaP6hZFVTtCSqw&s=10",ช่อง ESPNews
 http://40.160.24.52/ESPN_NEWS/index.m3u8
@@ -971,13 +971,13 @@ http://40.160.24.55/TVG/index.m3u8
 http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png",ช่อง Fox Deportes
-http://40.160.24.58/FOX_DEPORTES/index.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1280px-NBA_TV.svg.png",ช่อง NBA TV
-http://40.160.24.58/NBA_TV/index.m3u8
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS598DuSjdJIF80MNzPsHOukXDoztPnFYSAbRPCNzmRmA&s=10",ช่อง NFL Network
-http://40.160.24.53/NFL_Network/index.m3u8
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7LndfV4e7AAfz4f0PLW72fa6jeyFLzGbg0siD8fcBw&s",ช่อง NHL Network
 http://40.160.24.55/NHL_NETWORK/index.m3u8
@@ -986,10 +986,10 @@ http://40.160.24.55/NHL_NETWORK/index.m3u8
 http://40.160.24.52/GOLF_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLXg_qIUzqsodKGn2wMy2NRr6XIphjeVRw4Kv8Qgo9Q&s=10",ช่อง Tennis Channel
-http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyYSLgrmbWukJx2Zx9DinulNa7ZBCpG5B3RgZfM9-SQ&s=10",ช่อง Racer Network
-http://40.160.24.52/MAV_TV/index.m3u8
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-mh5RPKomQZsVnSMKj866b5laWY9vsV0WD3k-JDNXA&s=10",ช่อง MLB Network
 http://40.160.24.52/MLB_Network/index.m3u8
@@ -1010,10 +1010,10 @@ https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 http://40.160.24.55/TBN/index.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngkc8YfMTVv9Y4foAMBdrJwaHBVSTF2lW4m-AHzlVtg&s",ช่อง HSN
-http://40.160.24.53/HSN/index.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Fnrlpzw2CaECgx_dkWTbsKPnX0pCwwZnmjoCXKxIOg&s=10",ช่อง QVC
-http://40.160.24.55/QVC/index.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://www.entrepreneur.com/wp-content/uploads/sites/2/2023/05/1683812537-EntrepreneurTV2-HorizontalKeyArt-16x9-1.jpg",ช่อง Entrepreneur TV
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
