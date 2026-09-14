@@ -1389,16 +1389,16 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",ช่อง NTV Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",ช่อง TBS Channel 1
-https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",ช่อง TBS Channel 2
-https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง Fuji TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8 
@@ -1419,10 +1419,10 @@ https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",ช่อง TV Asahi Channel 1
-https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",ช่อง TV Asahi Channel 2
-https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8 
@@ -1455,7 +1455,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gx07#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",ช่อง Tokyo MX2
-https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
@@ -1464,7 +1464,7 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif",ช่อง Tetsudo Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",ช่อง Mondo TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8 
@@ -1473,7 +1473,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCfIpzgJBI8FMje9SSkuxHjvfJn-vqoxvJg&s",ช่อง Dance Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/dance_channel/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/dance_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8 
@@ -1488,7 +1488,7 @@ https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-151-400x400.png",ช่อง BS Asahi 4K
-https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",ช่อง BS Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
@@ -1497,13 +1497,13 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png",ช่อง BS Nippon TV 4K
-https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",ช่อง BS Nippon TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png",ช่อง BS TBS 4K
-https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",ช่อง BS TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
@@ -1518,7 +1518,7 @@ https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",ช่อง BS 11
-https://akariko-bck1.sankuria.sbs/stream/jp/bs11/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",ช่อง BS 12
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
@@ -1533,7 +1533,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",ช่อง The Cinema
-https://akariko-bck1.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
@@ -1545,7 +1545,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",ช่อง WOWOW Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",ช่อง Family Gekijo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8 
@@ -1560,7 +1560,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",ช่อง Neco Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",ช่อง Jidaigeki Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8 
@@ -1575,31 +1575,31 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg520t10qVmEtE9tmeiql5tubwhd5FStzqYLpwwxI4w&s=10",ช่อง Super Drama TV
-https://akariko-bck1.sankuria.sbs/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",ช่อง Dlife
 https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",ช่อง Action Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",ช่อง Mystery Channel
 https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lYxT0D1YGAcTZ-wG9XSBZn_sPkuaUABIjA&s",ช่อง V Paradise
-https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/Sptvlogo.jpg",ช่อง Nouvelle Paradise
-https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",ช่อง Pigoo
-https://akariko-bck1.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",ช่อง Music On! TV
-https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",ช่อง Music Japan TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8 
@@ -1611,10 +1611,10 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",ช่อง Music Air
-https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
-https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",ช่อง Discovery Channel Japan
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8 
@@ -1635,7 +1635,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",ช่อง AT-X
-https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",ช่อง Cartoon Network Japan
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs25#.m3u8 
@@ -1662,7 +1662,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif",ช่อง Sport live plus
-https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",ช่อง Sky A
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8 
@@ -1671,7 +1671,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",ช่อง Fighting TV Samurai
-https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",ช่อง Golf Network
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8 
@@ -1683,7 +1683,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",ช่อง Shogi Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",ช่อง CNNj
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8 
@@ -1692,7 +1692,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8 
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",ช่อง NTV News24
-https://akariko-bck1.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",ช่อง TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8 
