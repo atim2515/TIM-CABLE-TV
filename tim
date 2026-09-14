@@ -1436,8 +1436,8 @@ https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
 http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ควย
-https://linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง เหี้ย
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx02#.m3u8
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.mbs.jp/english/images/index/MBS_logo.png",ช่อง MBS
 http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying 
