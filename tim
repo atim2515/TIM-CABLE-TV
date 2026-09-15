@@ -181,19 +181,19 @@ https://7fighters.samorn-team.workers.dev/33
 https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
-https://7fighters.samorn-team.workers.dev/101
+http://58.8.186.128:10004/bysid/2415
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OgJKX7bmSmCvbB_xw5AHdiEEd9aVGMd1cUJOK4qVOg&s=10",ช่อง True Film 2
-https://7fighters.samorn-team.workers.dev/102
+http://58.8.186.128:10004/bysid/2432
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
-https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+http://58.8.186.128:10003/bysid/2325
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSbG4d97ryyJfQvh8shwyubTUMG536NLPmGqHNzhkmQ&s=10",ช่อง True Thai Film
-https://7fighters.samorn-team.workers.dev/117
+http://58.8.186.128:10003/bysid/2326
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
-https://7fighters.samorn-team.workers.dev/106
+http://58.8.186.128:10004/bysid/2416
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_jg8mpBMwD8RkvQDYjjYYZFX86m2U3GULejHfbP4Aw&s=10",ช่อง True Asian More
 https://7fighters.samorn-team.workers.dev/103
@@ -307,7 +307,7 @@ https://7fighters.samorn-team.workers.dev/116
 https://7fighters.samorn-team.workers.dev/124
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",ช่อง True Tennis
-https://7fighters.samorn-team.workers.dev/77
+http://58.8.186.128:10004/bysid/2418
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcg0_e_TEh1MeRLU9y6dKlFJoOs8fDwLnFIpQPuH20g&s=10",ช่อง SPOTV
 https://7fighters.samorn-team.workers.dev/95
