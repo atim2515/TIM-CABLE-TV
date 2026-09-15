@@ -1778,6 +1778,9 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
+http://example.com/stream/532.m3u8
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ช่อง TVN
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzcwMjEsInBhdGgiOiIvbzIifQ.MUxGCuQdiXyZOqV0Q3_Ldt3KyYWhC1Kw9-D4mUpj4TE
 
@@ -2353,7 +2356,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
+http://69.30.245.50/live/cctv1hd.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",ช่อง CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
