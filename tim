@@ -1778,9 +1778,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง Wan Nyan
-http://example.com/stream/532.m3u8
-
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ช่อง TVN
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODYzMzcwMjEsInBhdGgiOiIvbzIifQ.MUxGCuQdiXyZOqV0Q3_Ldt3KyYWhC1Kw9-D4mUpj4TE
 
@@ -2368,7 +2365,7 @@ http://69.30.245.50/live/cctv3.m3u8
 http://69.30.245.50/live/cctv4.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",ช่อง CCTV-5
-http://69.30.245.50/live/cctv5.m3u8
+http://69.30.245.50/live/cctv5hd.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCg8XU4JAQWw0rmDEsAtJDHGhDLuXznxEEBpVbWyw1AQ&s=10",ช่อง CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
@@ -2398,10 +2395,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1_3eifADdwcv1-LXoQZ32afBYwB_3MumsQ&s",ช่อง CCTV-14
-http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+http://74.91.26.218:82/live/cctv14hd.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/CCTV_channel_15.svg/1280px-CCTV_channel_15.svg.png",ช่อง CCTV-15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+http://69.30.245.50/live/cctv15.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuCEypT-ErGiibgTAaSEZLJceuUH6Pb460Q&s",ช่อง CCTV-16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -2417,6 +2414,9 @@ http://173.208.212.130:8181/720p/gfjs.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOrHWqEyyQ6YjsejxPB7Vn5NWpAPtSp1dcwjLmYUN5w&s",ช่อง 第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ341vo5kPzhnRHsJK-eI2Nz5KR7CjeI8jYCFeCedHcIg&s=10",ช่อง CGTN 法语
+http://145.239.5.177/214/index.m3u8
 
 #EXTINF:-1 group-title="Chinese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYGsMEGnlgIbsmHR360uVgNIXOoUaYubWeePBln_B4w&s",ช่อง 延边卫视频道
 https://srs.iyb983.cn/video/CYS/index.m3u8
