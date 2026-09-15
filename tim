@@ -114,6 +114,9 @@ https://7fighters.samorn-team.workers.dev/275
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQle79OtRystArl1k7DfnzCGuCdlTtjUF9vzfWr-TA_2Q&s=10",ช่อง France24
 https://7fighters.samorn-team.workers.dev/276
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyWXwNJN1V_XkjCFDSsCBnJKK97AjGfBfpcZI-66K62wKnJr5ddHHpBLP&s=10",ช่อง TV5 Monde
+http://58.8.186.128:10003/bysid/2336
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMTlRJonZ_Ofx1EqMqc5iFeMGwbagVqX07FB11nXksA&s=10",ช่อง CCTV 4
 https://7fighters.samorn-team.workers.dev/271
 
@@ -201,11 +204,17 @@ https://7fighters.samorn-team.workers.dev/103
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 https://7fighters.samorn-team.workers.dev/112
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://yt3.googleusercontent.com/U9yJGUhVS3Oow3ipVJBbF9QnNbhMRItjtvrZRcJ_sPTgmbmNTlwXD3KUH-_FN8mYN3p05P2U=s900-c-k-c0x00ffffff-no-rj",ช่อง iQIYI
+http://58.8.186.128:10003/bysid/2334
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
 https://cdn3.indevs.in/stream/live/typd/
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFNrTFu0YGKWBQXsduEKCazh66gqbroEqB6yIdF2dLA&s",ช่อง CCM
 https://7fighters.samorn-team.workers.dev/34
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9Hda6MJ3Aw-MJ_QPNEuNbOVz72k8YBIM2nw3-3-4LPZCp2wcfMrIulAT&s=10",ช่อง TrueVisions Now
+http://58.8.186.128:10003/bysid/2332
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch-logo-asian.jpg",ช่อง Asian Hits
 https://7fighters.samorn-team.workers.dev/44
@@ -258,17 +267,20 @@ https://7fighters.samorn-team.workers.dev/35
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง การ์ตูน
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Spark Play
+http://58.8.186.128:10003/bysid/2327
+
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCZC2QxF8Yb_awMQ51zBidRVZO4MlpksnxFJ1rJpaLw&s=10",ช่อง DreamWorks
-https://7fighters.samorn-team.workers.dev/59
+http://58.8.186.128:10003/bysid/2331
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1NpHstuMtNzkDuKM4gz4yz68MlprQgNrLq7k2C6HtQ&s=10",ช่อง Cartoon Network
-https://7fighters.samorn-team.workers.dev/54
+http://58.8.186.128:10003/bysid/2328
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest/scale-to-width-down/1200?cb=20240725134816",ช่อง Nickelodeon
 https://7fighters.samorn-team.workers.dev/91
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/960px-Nick_Jr._logo_2023.svg.png?_=20250701043845",ช่อง Nick Jr.
-https://7fighters.samorn-team.workers.dev/292
+http://58.8.186.128:10003/bysid/2330
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/960px-Tooniverse_logo_2019.svg.png",ช่อง Tooniverse
 http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse#.m3u8
@@ -355,7 +367,7 @@ https://7fighters.samorn-team.workers.dev/69
 https://7fighters.samorn-team.workers.dev/57
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFvyLq6jUxEs1hrgSDuPOQTzdGTbED34XSVXehENVpQ&s=10",ช่อง BBC Lifestyle
-https://7fighters.samorn-team.workers.dev/49
+http://58.8.186.128:10003/bysid/2333
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15v2QLBFV4mWP-91nERKcXXcxwvgxk1ykICCr78-XGQ&s=10",ช่อง สำรวจโลก
 https://7fighters.samorn-team.workers.dev/94
@@ -401,6 +413,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uHSwlvHm8SGQh3Lo2cgDgRnNjskzM3GM_IihVYwwTg&s",ช่อง Mono29 Music Station
 https://7fighters.samorn-team.workers.dev/343
+
+#EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp",ช่อง SOUL SIAM
+http://58.8.186.128:10003/bysid/2323
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
@@ -3607,25 +3622,28 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",ช่อง True Film 1
-https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
+http://58.8.186.128:10004/bysid/2415
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OgJKX7bmSmCvbB_xw5AHdiEEd9aVGMd1cUJOK4qVOg&s=10",ช่อง True Film 2
-http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
+http://58.8.186.128:10004/bysid/2432
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
-https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+http://58.8.186.128:10003/bysid/2325
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSbG4d97ryyJfQvh8shwyubTUMG536NLPmGqHNzhkmQ&s=10",ช่อง True Thai Film
-https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+http://58.8.186.128:10003/bysid/2326
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
-https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
+http://58.8.186.128:10004/bysid/2416
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_jg8mpBMwD8RkvQDYjjYYZFX86m2U3GULejHfbP4Aw&s=10",ช่อง True Asian More
 https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://yt3.googleusercontent.com/U9yJGUhVS3Oow3ipVJBbF9QnNbhMRItjtvrZRcJ_sPTgmbmNTlwXD3KUH-_FN8mYN3p05P2U=s900-c-k-c0x00ffffff-no-rj",ช่อง iQIYI
+http://58.8.186.128:10003/bysid/2334
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdey_Ek3Xc9okKopf2G0BDtSXqalsOUSTwTTJw-KFIA&s=10",ช่อง AXN
 http://45.144.165.187:8080/live/playidlive/12345/75.m3u8
@@ -3639,17 +3657,26 @@ https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",ช่อง True X-ZYTE
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp",ช่อง SOUL SIAM
+http://58.8.186.128:10003/bysid/2323
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Spark Play
+http://58.8.186.128:10003/bysid/2327
+
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1NpHstuMtNzkDuKM4gz4yz68MlprQgNrLq7k2C6HtQ&s=10",ช่อง Cartoon Network
-https://hls.iptv-th.workers.dev/live/54/playlist.m3u8
+http://58.8.186.128:10003/bysid/2328
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCZC2QxF8Yb_awMQ51zBidRVZO4MlpksnxFJ1rJpaLw&s=10",ช่อง DreamWorks
-https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
+http://58.8.186.128:10003/bysid/2331
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/960px-Nick_Jr._logo_2023.svg.png?_=20250701043845",ช่อง Nick Jr.
+http://58.8.186.128:10003/bysid/2330
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxmUFS0ogiMAHH7TjVChePNNov_LUg1wR1n8X0F2fEg&s=10",ช่อง Discovery Asia
 https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFvyLq6jUxEs1hrgSDuPOQTzdGTbED34XSVXehENVpQ&s=10",ช่อง BBC Lifestyle
-https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
+http://58.8.186.128:10003/bysid/2333
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10",ช่อง History Channel
 http://45.144.165.187:8080/live/playidlive/12345/48.m3u8
@@ -3682,7 +3709,7 @@ https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
 https://7fighters.samorn-team.workers.dev/124
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",ช่อง True Tennis
-https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
+http://58.8.186.128:10004/bysid/2418
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcg0_e_TEh1MeRLU9y6dKlFJoOs8fDwLnFIpQPuH20g&s=10",ช่อง SPOTV
 https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
@@ -3704,6 +3731,9 @@ https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
 
 #EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp7VqzCrtWpmLRY086n9C5XHhAtZsRrJjBcEI0Hwx1A&s",ช่อง BBC News
 https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9Hda6MJ3Aw-MJ_QPNEuNbOVz72k8YBIM2nw3-3-4LPZCp2wcfMrIulAT&s=10",ช่อง TrueVisions Now
+http://58.8.186.128:10003/bysid/2332
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://7fighters.samorn-team.workers.dev/175
