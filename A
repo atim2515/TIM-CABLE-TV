@@ -93,7 +93,7 @@ https://playidtv24.vercel.app/stream/3bbtv/nation.html|user-agent=Mozilla/5.0 (i
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",ช่อง TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://mpics.mgronline.com/pics/Images/551000012503902.JPEG",ช่อง ASTV News 1
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdRiBTFX3wLeYfXZfJ83L2hp1HGB8vvZs_Ou6TX80dslR-RE3RVs26oU&s=10",ช่อง ASTV News 1
 http://news1.live14.com/stream/news1.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/kypXJdwjISReU0pJoZnTvZEDkkY1uCY6n-5379M3Cr_YDoaThHA8wK34BarVKj_QJW8wdyzA=s900-c-k-c0x00ffffff-no-rj",ช่อง Suwannabhumi Channel
