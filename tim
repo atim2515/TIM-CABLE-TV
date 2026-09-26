@@ -2227,8 +2227,8 @@ http://rihou.cc:555/tv/[Pd]有线新闻
 http://r.jdshipin.com/vSJvl
 
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_425_305",ช่อง ViuTVsix
-	http://110.235.82.60:8001/bysid/96
-
+http://110.235.82.60:8001/bysid/96
+	
 #EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://mediaconfederation.com/wp-content/uploads/2022/10/600%E5%9B%BD%E9%99%85%E5%8F%B0.jpg",ช่อง 600国际新闻台
 https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 
