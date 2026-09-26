@@ -259,10 +259,10 @@ http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRvQBl_UUPjEmYL3emiBjgbJkmW9335UY8dxBzqcdgQ&s=10",ช่อง 中旺電視
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TjcDWBNP96640AOx__V2i_aQwf4ghVAzA3m8P5Eipw&s=10",ช่อง 东森新闻
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRGHx0u9V_vE_3xmbWJ2m2PiW9m5lW584YzZiPcKteIuqL-cyPjZlb0M&s=10",ช่อง 东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzq2DsYD3jP2EXctSkKtS-32GyIuadTAHJ7IaCibM19UBN1cJY1Sp6dGM&s=10",ช่อง 五星体育
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png/revision/latest/scale-to-width-down/985?cb=20250103132903&path-prefix=vi",ช่อง 五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaR5x5VdWj-eqSabNGLzIrNsIoGWM4OLDac5nW7tKnbg&s=10",ช่อง 大立电视
@@ -357,6 +357,9 @@ https://cdn.qd.je/163189.php?id=ch8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/wf6PUcth6iR-8Ftg2gO7ySCqCUSjPjQmdIdiIdQDm2bzXJkznuzeENjweh3uJvtipVyRcGKotHndOuoFLTtiOA",ช่อง meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKPEinx4L8wM9LI6TmFumwykjGpXu2U-6cEXloWE8k9g&s=10",ช่อง RCTI
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",ช่อง NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -552,9 +555,6 @@ https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง Cinemax Action
 https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0plW5OxbFC0Q1Q9wPpBpcXZNapGkDLMojHqhnkAJumA&s=10",ช่อง AXN
-http://181.78.12.119:16123/play/ch46/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s",ช่อง AMC
 http://23.239.31.26:8989/amc/index.m3u8
@@ -873,9 +873,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZ0I4NQXj-kRuYDpaftfpMZ_MjiPw0E56Rzz5kBZC_A&s=10",ช่อง S KPop!
-https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
