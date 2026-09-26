@@ -250,56 +250,14 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZAIweUG_tT7jmh080U_UNLXwEPGBRM0kQzyAdV__K1u0TMsXDibTptk&s=10",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTV
-http://74.91.26.218:82/live/ftv.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTVDY
-http://74.91.26.218:82/live/ftvdy.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
-http://74.91.26.218:82/live/ftvnews.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLyEB39q-tQOvL6z6h7_lipd5UcGkEBQdkw&s",ช่อง TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMW6NXm2CaBMJMuSDwm3BD13ZuNe14yoCfcSL_hhsqQ&s=10",ช่อง TVBS新聞台
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง 中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง CTV
-http://74.91.26.218:82/live/ctv.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง CTVJD
-http://74.91.26.218:82/live/ctvjd.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png",ช่อง PTS
-http://74.91.26.218:82/live/pts.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTV
-http://74.91.26.218:82/live/ttv.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTVCJ
-http://74.91.26.218:82/live/ttvcj.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXIUFxq9gj6aLecsrK9WqgFdF7wLV4wNgJEBMcJsutw&s=10",ช่อง 台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง 华视新闻
-http://74.91.26.218:82/live/ctsnews.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง CTSJY
-http://74.91.26.218:82/live/ctsjy.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxTP2ArZ0LmRtSEOvoNnwIzgRwCcxptVJD80QxNBDSQ&s=10",ช่อง KTSF26洛杉磯三藩市
-http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRvQBl_UUPjEmYL3emiBjgbJkmW9335UY8dxBzqcdgQ&s=10",ช่อง 中旺電視
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRBnWWqrHsF5_quP3LCtc8VNvFJNFWjV41zK0O8yMjw&s=10",ช่อง 美國城市衛視
-http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TjcDWBNP96640AOx__V2i_aQwf4ghVAzA3m8P5Eipw&s=10",ช่อง 东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
