@@ -250,6 +250,156 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZAIweUG_tT7jmh080U_UNLXwEPGBRM0kQzyAdV__K1u0TMsXDibTptk&s=10",ช่อง 香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTV
+http://74.91.26.218:82/live/ftv.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjRyKkTFIRUFMbnrD6DIo7rW_1Fx8bt-8GjruLlOI&s",ช่อง FTVDY
+http://74.91.26.218:82/live/ftvdy.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg/3840px-%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg.png",ช่อง 民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLyEB39q-tQOvL6z6h7_lipd5UcGkEBQdkw&s",ช่อง TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMW6NXm2CaBMJMuSDwm3BD13ZuNe14yoCfcSL_hhsqQ&s=10",ช่อง TVBS新聞台
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง 中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง CTV
+http://74.91.26.218:82/live/ctv.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8vOoGXZHNPgWF7mZydwts3ba7FhZMk7ZLqfOtd30-w&s=10",ช่อง CTVJD
+http://74.91.26.218:82/live/ctvjd.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png",ช่อง PTS
+http://74.91.26.218:82/live/pts.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTV
+http://74.91.26.218:82/live/ttv.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieZTInIvo0zCYEdc4tpyB7QnKTtChjFCcvXaVfev_DQ&s=10",ช่อง TTVCJ
+http://74.91.26.218:82/live/ttvcj.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXIUFxq9gj6aLecsrK9WqgFdF7wLV4wNgJEBMcJsutw&s=10",ช่อง 台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง 华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy32PNQxZHE1bkpPPxJS4y56jkR_LRQDeKff7N7XuoVg&s",ช่อง CTSJY
+http://74.91.26.218:82/live/ctsjy.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxTP2ArZ0LmRtSEOvoNnwIzgRwCcxptVJD80QxNBDSQ&s=10",ช่อง KTSF26洛杉磯三藩市
+http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRvQBl_UUPjEmYL3emiBjgbJkmW9335UY8dxBzqcdgQ&s=10",ช่อง 中旺電視
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRBnWWqrHsF5_quP3LCtc8VNvFJNFWjV41zK0O8yMjw&s=10",ช่อง 美國城市衛視
+http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TjcDWBNP96640AOx__V2i_aQwf4ghVAzA3m8P5Eipw&s=10",ช่อง 东森新闻
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzq2DsYD3jP2EXctSkKtS-32GyIuadTAHJ7IaCibM19UBN1cJY1Sp6dGM&s=10",ช่อง 五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaR5x5VdWj-eqSabNGLzIrNsIoGWM4OLDac5nW7tKnbg&s=10",ช่อง 大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjwhZgSoKDp3wxFa9wdcIGrzm7iq0xaNA7sw0g2XQpA&s=10",ช่อง 人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
+http://69.30.245.50/live/cctv1hd.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",ช่อง CCTV-2
+http://69.30.245.50/live/cctv2.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",ช่อง CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
+http://69.30.245.50/live/cctv4.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",ช่อง CCTV-5
+http://69.30.245.50/live/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCg8XU4JAQWw0rmDEsAtJDHGhDLuXznxEEBpVbWyw1AQ&s=10",ช่อง CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",ช่อง CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png",ช่อง CCTV-7
+http://69.30.245.50/live/cctv7.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png",ช่อง CCTV-8
+http://69.30.245.50/live/cctv8.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl68XpR_1uFuxV_y-1jnYepB89SpEAfXjO7A&s",ช่อง CCTV-9
+http://69.30.245.50/live/cctv9.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",ช่อง CCTV-10
+http://69.30.245.50/live/cctv10.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8XC1oBybS69HaHgAGLOJDKZOghgx48ZAIg&s",ช่อง CCTV-11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",ช่อง CCTV-12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4r3ASYPx1y862hvlKBDeBwEiZKymrQXtyA&s",ช่อง CCTV-13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1_3eifADdwcv1-LXoQZ32afBYwB_3MumsQ&s",ช่อง CCTV-14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/CCTV_channel_15.svg/1280px-CCTV_channel_15.svg.png",ช่อง CCTV-15
+http://69.30.245.50/live/cctv15.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuCEypT-ErGiibgTAaSEZLJceuUH6Pb460Q&s",ช่อง CCTV-16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9jjhqy2NwyDn8N2eCiGp-WFVikQgSKmVpA&s",ช่อง CCTV-17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkhFPpsVn9mfPftNQQstXm4FRFjUr43Ypr4X0WOiSKVw&s",ช่อง 风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IHZigc3lQ611OavUASjRk2ejcc2YGRS8C93lnmXvKw&s",ช่อง 兵器科技
+http://173.208.212.130:8181/720p/gfjs.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOrHWqEyyQ6YjsejxPB7Vn5NWpAPtSp1dcwjLmYUN5w&s",ช่อง 第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ341vo5kPzhnRHsJK-eI2Nz5KR7CjeI8jYCFeCedHcIg&s=10",ช่อง CGTN 法语
+http://145.239.5.177/214/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYGsMEGnlgIbsmHR360uVgNIXOoUaYubWeePBln_B4w&s",ช่อง 延边卫视频道
+https://srs.iyb983.cn/video/CYS/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBHuxPcTmRCA3VNcyLHlp0UPNN9sFY97fRE8WBkEtOg&s",ช่อง YBTV-1 朝鲜语综合频道
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/YBTV-2_Yanbian.png/revision/latest?cb=20240326061134&path-prefix=vi",ช่อง YBTV-2 汉语综合频道
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg",ช่อง LTV
+https://cdn.qd.je/163189.php?id=lhxj
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg",ช่อง LTV
+https://cdn.qd.je/163189.php?id=lhdy
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGWDQDkh0L-19lrBLs9l9UeDkw7jLK10QY4yPv8Q0QA&s",ช่อง Channel 8
+https://cdn.qd.je/163189.php?id=ch8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/wf6PUcth6iR-8Ftg2gO7ySCqCUSjPjQmdIdiIdQDm2bzXJkznuzeENjweh3uJvtipVyRcGKotHndOuoFLTtiOA",ช่อง meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -273,6 +423,12 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=bbc
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OSA3K3FLvJkH3eGfKtNM-f2qb6uial0as-ZX86Acxg&s=10",ช่อง Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGLiu156ZuHP7czTF-1-CL377WR2IJa3j_7i1oi0CnQ&s=10",ช่อง CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png",ช่อง CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -468,6 +624,15 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",ช่อง CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dLWHwyRifQYCc9H3x5Po820Xe4d2NlzUQAB0aJ1PW9T-X-CPl7dbbV7-&s=10",ช่อง CHC影迷电影
+http://192.151.150.154/live/chchd.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png/revision/latest?cb=20230916095723&path-prefix=vi",ช่อง CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
