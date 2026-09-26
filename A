@@ -358,9 +358,6 @@ https://cdn.qd.je/163189.php?id=ch8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/wf6PUcth6iR-8Ftg2gO7ySCqCUSjPjQmdIdiIdQDm2bzXJkznuzeENjweh3uJvtipVyRcGKotHndOuoFLTtiOA",ช่อง meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKPEinx4L8wM9LI6TmFumwykjGpXu2U-6cEXloWE8k9g&s=10",ช่อง RCTI
-https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",ช่อง NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -550,6 +547,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FHTgEpUt_1q6R_ZDRG7N6iHl9KEleO773_Ii1XujeQ&s=10",ช่อง 맛있는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5g_2jGoTWw41O4_p5yxll19OIOnHcTXG0JjaoMcpgg&s=10",ช่อง HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GDcoxX1zp4STEeaxliQFt58LC7TMchP6T9EvGVYjYA&s=10",ช่อง HBO Drama
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 
@@ -559,8 +559,17 @@ https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s",ช่อง AMC
 http://23.239.31.26:8989/amc/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEiIdGAr2Rm1NeJHQ5VEsphqe6_ZI7sCn4A&s",ช่อง SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png",ช่อง BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/250px-Ion_logo.svg.png",ช่อง ION TV
+http://23.237.104.106:8080/USA_ION/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/250px-Ion_Plus_2024.svg.png",ช่อง ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeM49YsUTe7MElzTJs4337HRFSdNVBYG0jw&s",ช่อง 70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
