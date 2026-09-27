@@ -388,6 +388,93 @@ https://live-stream.dvb.no/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOQGEIR3XWYmpTgxXdFQcv7fKp7qQcb0Em179KE7dWA&s=10",ช่อง FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Vietnam_Today_ident.png/revision/latest/scale-to-width-down/1200?cb=20251101225128&path-prefix=vi",ช่อง Vietnam Today
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",ช่อง An Giang TV1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",ช่อง An Giang TV2
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",ช่อง An Giang TV3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",ช่อง Cần Thơ TV1
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",ช่อง Cần Thơ TV3
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/jAfpzJ_U-gMW1SQxCJmCzpTppm9oTys6FiBDkiKENoZh8JeYF0d0w2s-mWqCE1haZolkOJR5=s900-c-k-c0x00ffffff-no-rj",ช่อง Nghệ An TV
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/rqTojoCP3HAOez-y1-CVrjsHvfmR__MVaHx4VmhL628RrDXh2XqzFZjmofAm7Uu5MtF9oP76LA=s900-c-k-c0x00ffffff-no-rj",ช่อง Đắk Lắk TV
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMDU4MGNfyRTmtG_IPi69Cr7zMIKqorUR6w&s",ช่อง Cao Bằng TV
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",ช่อง Đà Nẵng TV1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",ช่อง Đà Nẵng TV2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TH%C4%90T-Logo.png",ช่อง Đồng Tháp TV2
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HanoiTV1_HD_2016-2026.png/revision/latest?cb=20241227073715&path-prefix=vi",ช่อง HanoiTV1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7LVqgaPsiel6MYKDR1p2LOiMtiTx3ERH5w&s",ช่อง HanoiTV2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_TayNinhTV_2026.png/250px-Logo_TayNinhTV_2026.png",ช่อง Tây Ninh TV
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg?width=500",ช่อง Thái Nguyên TV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_640_360.png",ช่อง Cà Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBV-G508hRBCAd84Aeztj8PFsuP2dC_f9k1xjr0i0-g&s=10",ช่อง Quảng Ngãi TV1
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://brandcom.vn/wp-content/uploads/2024/07/logo-ke%CC%82nh-truye%CC%82%CC%80n-hi%CC%80nh-do%CC%82%CC%80ng-nai-1.jpg",ช่อง Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeahkFYRLl1sUVCfnO_URuP80aEIhWj2sjoFtelFpEhw&s=10",ช่อง TVB Vietnam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlj8n8n2sdRzqZOMf4cVHu7A3-p3vD9gj1Q&s",ช่อง Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20QO-4mjZ9a52PUvl5SDmKPsMPz3DhpVmxQ&s",ช่อง ARDB TV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s",ช่อง CTV 9
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBq7lsJZgWl1lj3Tw0Jcuw8XoAFL1lhx47A&s",ช่อง EBC General Education
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXb8AR5H15AFfOZOyLwD9oHRAb8Kd9Ue3eCg&s",ช่อง Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wv8264POgkLePV50RxC0qksO03DkkNJRsQ&s",ช่อง One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtholiU2U0i-Zrxlx9suT_1eLUkJ-HsAkivlA191Iz6g=s900-c-k-c0x00ffffff-no-rj",ช่อง SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQheHeF6b70TYQPzmvOjtVuNvjH0fXq_RhLQ&s",ช่อง TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iFB9fTeRs2KCqZdWrB5lbIzrded2jl3afA&s",ช่อง TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -417,6 +504,30 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png",ช่อง CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ra5bFRmZ8jusZ-eYl9va6uCiLWwDFjGDSA&s",ช่อง CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s",ช่อง NEWSMAX2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CMdieU1YSM6pUePCUtSp2w5jbUWLQQys4A&s",ช่อง GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcb66QnEr5U2SdZIIoxZi_W1xbR2DKlVZeg&s",ช่อง France 24 English
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV0vxC6lZhJcOZ6_WPhZAK_2g-cP-k0d1Hg&s",ช่อง DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",ช่อง RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png?_=20170130200146",ช่อง News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/FHKYcMhA4RzdNNTMU1Jxqi_UPWZns3f5rgVjHXHUi_STHQ-MuoGlGoHUccsVkFZnTbIBEX90=s900-c-k-c0x00ffffff-no-rj",ช่อง FOX Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",ช่อง NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -571,6 +682,12 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/250px-Ion_Plus_2024.svg.png",ช่อง ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAg5RHFmbDJpybDaMIL19urZttp0nCy8KIg&s",ช่อง Great! Romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeM49YsUTe7MElzTJs4337HRFSdNVBYG0jw&s",ช่อง 70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 
@@ -585,6 +702,18 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYH-aCWshiYAl-qsrCf1JzjqtG3w3OtkjtQ&s",ช่อง 90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qKfaGbAe1DxNVjUEvgjozUkOPOejg1MuIA&s",ช่อง Dove Channel
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKU4wBlLEkpt5pV9I0V8xybCbjYtTmY1Ajw&s",ช่อง AsianCrush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/h22LrFBB-AVzwcEh6zUpkcAKrPH_gCN64y9-h5YJBk53n1yyF4o4SmEzaLhafgQZv_0",ช่อง Wu Tang Collection
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
@@ -670,6 +799,9 @@ http://192.151.150.154/live/chchd.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png/revision/latest?cb=20230916095723&path-prefix=vi",ช่อง CHC家庭影院
 http://192.151.150.154/live/chcjt.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczi17ppithbgUmxsdPgaBZzjFrAjrUB5Zf01iEkzUQA&s=10",ช่อง ASTRO AOD
+https://cdn.qd.je/163189.php?id=aod
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
 
@@ -690,6 +822,9 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png",ช่อง D MEDIA
 https://live1.thaitvstream.com/play/medianews/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1280px-Pop_UK_TV_Logo_%282015%29.svg.png",ช่อง Pop
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg",ช่อง Cartoonumi
 http://49.0.64.96:8007/Cartoonumi
@@ -738,6 +873,15 @@ https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtC9wtEH-jCEQL-g4rnG-1N95Y0OiaWfLsJg&s",ช่อง The Design Network
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJci0xQxOQmEU94dSNpcjag_2OpEZSYE1W5w&s",ช่อง FIFA+
+https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cdn.onefc.com/wp-content/uploads/2024/06/Superlek-Kiatmoo9-Kongthoranee-Sor-Sommai-ONE-Friday-Fights-68-49-scaled.jpg",ช่อง Hi Fight SuperSports
+http://49.0.64.96:8007/HIFIGHT
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.worldpokertour.com/dxydtqlpr/image/fetch/w_1240,c_limit/f_auto:image/https://wptmedia.wpt.com/wp-content/uploads/2023/09/Watch-Header-2023-1.jpg",ช่อง World Poker Tour
+https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
