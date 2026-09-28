@@ -676,11 +676,29 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png",ช่อง BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcUU4ySGJUEj7iO0CBbRneQOnCwTuWKTyxQ&s",ช่อง E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
+http://198.58.104.90:8989/mtv/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYoLejx_hxY1gI4GCw8WX1YRUzWvAV5b86Q&s",ช่อง MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/250px-Ion_logo.svg.png",ช่อง ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/250px-Ion_Plus_2024.svg.png",ช่อง ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKyx1WW7dWTkackBbLjMewiggSy4Vmu8vd3IEc5eyOA&s=10",ช่อง Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png",ช่อง Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XLfle_EOLnxuyv0aOButvItK71j4oPIUXaJz7v97SA&s",ช่อง Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/zOu4bBa71C9f6tNane5wjLDPTkofs9qEdu8CwRf1FG-L_1F187dKzS0a7Y0ZV4WneA1lKFS7tG4=s900-c-k-c0x00ffffff-no-rj",ช่อง Great! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
@@ -853,6 +871,12 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kids_tv
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://wepick-bucket.s3.amazonaws.com/uploads/general/1758610271606_up_______TV_______TV.png",ช่อง 뽀요 TV-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png",ช่อง Bravo
+http://41.205.93.154/BRAVO/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/250px-Buzzr_logo.svg.png",ช่อง Buzzr
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEb3C1a7FWu0Hl-_tOJE1R3W6YokFGLRew&s",ช่อง AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
@@ -985,6 +1009,9 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1ru8litkjxfU6RQbXhMl7pArQjaME4IVRQ&s",ช่อง MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/09/vevo.png?fit=780%2C314&ssl=1",ช่อง Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
@@ -1029,6 +1056,9 @@ https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/p
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",ช่อง Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
