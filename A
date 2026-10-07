@@ -1125,9 +1125,6 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcUU4ySGJUEj7iO0CBbRneQOnCwTuWKTyxQ&s",ช่อง E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FSaAxfQgprCOvR59Xtcgv4z36R-9Kwb4YaNU03EQqA&s",ช่อง USA Network
-http://200.32.231.178/USA_NETWORK/index.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://198.58.104.90:8989/mtv/index.m3u8
 
@@ -1585,6 +1582,18 @@ https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk2yyVsFEzCIYBbSovHMG_F5zfIYLuXeMmMox0t95zw&s",ช่อง Al Jazeera
 https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk2yyVsFEzCIYBbSovHMG_F5zfIYLuXeMmMox0t95zw&s",ช่อง America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk2yyVsFEzCIYBbSovHMG_F5zfIYLuXeMmMox0t95zw&s",ช่อง American Idol
+https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk2yyVsFEzCIYBbSovHMG_F5zfIYLuXeMmMox0t95zw&s",ช่อง Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk2yyVsFEzCIYBbSovHMG_F5zfIYLuXeMmMox0t95zw&s",ช่อง Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQFH0YY8EFxSFc5jhbvXeXZkW4uo5HFTJeoPjKsRlKrw&s=10",ช่อง Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
