@@ -1,35 +1,17 @@
 #EXTM3U
-#EXTINF:-1,a
-https://live-us1.thaimomo.com/live-as/ch5hd-1/playlist.m3u8
-#EXTINF:-1,b
-https://live-us1.thaimomo.com/live-as/chmono29-1/playlist.m3u8
-#EXTINF:-1,CNBC
-http://58.8.186.128:10003/bysid/2313
-#EXTINF:-1,DSCV
-http://58.8.186.128:10003/bysid/2314
-#EXTINF:-1,CCTV
-http://58.8.186.128:10003/bysid/2315
-#EXTINF:-1,Arirang
-http://58.8.186.128:10003/bysid/2316
-#EXTINF:-1,BBC News
-http://58.8.186.128:10003/bysid/2317
-#EXTINF:-1,CCM
-http://58.8.186.128:10003/bysid/2318
-#EXTINF:-1,DW ENG
-http://58.8.186.128:10003/bysid/2319
-#EXTINF:-1,SOUL SIAM
-http://58.8.186.128:10003/bysid/2323
-#EXTINF:-1,True Movie Hits
-http://58.8.186.128:10003/bysid/2325
-#EXTINF:-1,True Thai Flim
-http://58.8.186.128:10003/bysid/2326
-#EXTINF:-1,SPK PLAY
-http://58.8.186.128:10003/bysid/2327
-#EXTINF:-1,TCCN
-http://58.8.186.128:10003/bysid/2328
-#EXTINF:-1,Nick Jr
-http://58.8.186.128:10003/bysid/2330
-#EXTINF:-1,DreamWorks
-http://58.8.186.128:10003/bysid/2331
-#EXTINF:-1,BBC Lifestyle
-http://58.8.186.128:10003/bysid/2333
+#EXTINF:-1 tvg-id="AsianCultureTV.us@HD",Asian Culture TV (1080p)
+https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-id="LasVegasTonightwithDaleDavidson.us@HD",Las Vegas Tonight with Dale Davidson (1080p)
+https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoChannelTV.us@HD",Latino Channel TV (1080p)
+https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@HD",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="PacificIslandNetwork.us@HD",Pacific Island Network (1080p)
+https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
