@@ -1137,6 +1137,12 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34CZ83gw9wNpFgdToA_Eg0o_29kDBmejEUUZHXa49Tg&s=10",ช่อง STARZ COMEDY
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmf9vHOJ6sP_6ARBr3rgV1KseswaopVqdJm3JqIaCYqw&s=10",ช่อง Star Action HD
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHECVNKrqCLOnQRMR7fYbL1CtU_Wsb-kQUW_wzyFR0mw&s=10",ช่อง Star World HD
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/500px-Showtime_Family_Zone.svg.png?_=20160604164339",ช่อง SHOWTIME FAMILY
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 
@@ -1822,6 +1828,9 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcPm5f6SIXTezvx0DNDFpLSGOlXofW-6-KQ&s",ช่อง Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWlDh8ZDDpyqfhQHowEDm0OR3ZYpoND1S_OwORW1U-cHJClveuqFJqQ1H&s=10",ช่อง ลูกทุ่ง TV HD
+https://bx-tv.com/proxy.php?url=https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png",ช่อง Looktung Network FM 98.5
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
