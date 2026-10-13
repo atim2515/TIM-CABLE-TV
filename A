@@ -1125,6 +1125,13 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcUU4ySGJUEj7iO0CBbRneQOnCwTuWKTyxQ&s",ช่อง E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrdcDyDKlThxwe5CxkBS1mRAwFbbwHCGBTWc41kshHA&s=10",ช่อง We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",ช่อง Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
 http://198.58.104.90:8989/mtv/index.m3u8
 
@@ -1372,6 +1379,9 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
 http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2vs_cNH1sQ1JqjRJTACMTMcV5XOy2mRRWiNSslr4Vg&s=10",ช่อง Crime + Investigation
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7jv_7gItwZ-dA-p3CvaDTYT7Q6-I9IJeKZftvoHEVw&s=10",ช่อง HLN
 http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
