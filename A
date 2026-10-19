@@ -1275,6 +1275,9 @@ https://cdn.qd.je/163189.php?id=amlh
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmaZqcwel9u2GR7Zl1Ok0SNJpt5Oah84IjXYONbOgQ&s=10",ช่อง Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljChKbAkTksdH96-onPyibiW39iH9wp6veuIMoAo_owRw=s900-c-k-c0x00ffffff-no-rj",ช่อง KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbO1m7iISUEdgm9j4JNm3cSxs2-vUU66XQgFcH1e_Nw&s",ช่อง 邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 
@@ -2345,9 +2348,6 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://radio-thailand.com/storage/radios/15992/29384/conversions/UfBAIRwc7HjkHPUzctmv2MZMJxLeg0-metaMTAxIHNtb290aCBqYXp6LmpwZw==--lg.webp",ช่อง 101 Smooth Jazz Radio
 https://radio-thailand.com/101-smooth-jazz-radio
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/7/103627.v2.png",ช่อง Sunny's Music Show
-http://p.onlineradiobox.com/hk/sunnysmusicshow/player/?cs=hk.sunnysmusicshow&played=1
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/q9zazp8aXCA/maxresdefault.jpg",ช่อง Sunny's Music Show
 http://procyon.shoutca.st:8492/listen.mp3
