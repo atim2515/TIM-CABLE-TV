@@ -2345,3 +2345,9 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://radio-thailand.com/storage/radios/15992/29384/conversions/UfBAIRwc7HjkHPUzctmv2MZMJxLeg0-metaMTAxIHNtb290aCBqYXp6LmpwZw==--lg.webp",ช่อง 101 Smooth Jazz Radio
 https://radio-thailand.com/101-smooth-jazz-radio
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/7/103627.v2.png",ช่อง Sunny's Music Show
+http://p.onlineradiobox.com/hk/sunnysmusicshow/player/?cs=hk.sunnysmusicshow&played=1
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/q9zazp8aXCA/maxresdefault.jpg",ช่อง Sunny's Music Show
+http://procyon.shoutca.st:8492/listen.mp3
