@@ -316,8 +316,11 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/mqdefault.jpg",ช่อง KBS LIVECAM DOKDO
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQneuOvajvFpjvEyAt9tu3AYyJRv97GwzzsZ6p6EnILIQ&s=10",ช่อง TVB Jade 4K
+https://cdn.qd.je/163189.php?id=fct4k
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
-http://r.jdshipin.com/GeWKr?id=mzt720
+https://cdn.qd.je/163189.php?id=fct
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade Astro
 http://r.jdshipin.com/thuYX
@@ -326,7 +329,7 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png",ช่อง TVB Plus
-http://rihou.cc:555/tv/[Pd]Plus综合
+https://cdn.qd.je/163189.php?id=tvbp
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://r.jdshipin.com/Voac4
@@ -336,6 +339,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000030X81446.jpg",ช่อง TVB Entertainment News
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6FHdtQ17ZG2GJa7oyj0LtBt9o1MUW38SIFGnKfou1g&s=10",ช่อง TVB News
+https://cdn.qd.je/163189.php?id=wxxw
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgaYLzu2vpRV_RlFDC27zIfWwN-99IaOyAK9EWFHM&s=10",ช่อง TVB1
 https://cdn6.cc.cd/163189/tvb1
@@ -1267,7 +1273,10 @@ http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO9JJjTKvn5smsyCbcV4AZZR4oEaUm0V_SMln-GoFJUaatdKdRqco2BOQ&s=10",ช่อง Celestial Movies
-https://cdn3.indevs.in/stream/live/typd/
+https://cdn.qd.je/163189.php?id=typd
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGN8taRLix82k8Y40MM8p0rnbrDVLi5_BnOJM3tFEJgQ&s=10",ช่อง CCM
+https://cdn.qd.je/163189.php?id=ccm
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpUjBKufOJtIZNQKj0IzjqYgEm47LM_YcRBK47Tt9GWA&s=10",ช่อง Lotus TV Macau
 https://cdn.qd.je/163189.php?id=amlh
