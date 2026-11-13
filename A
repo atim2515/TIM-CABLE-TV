@@ -1389,6 +1389,9 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kids_tv
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://wepick-bucket.s3.amazonaws.com/uploads/general/1758610271606_up_______TV_______TV.png",ช่อง 뽀요 TV-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/153_x_nRilZMNvECqgadYQ2mbAo7FGejwHzhXJ.jpg",ช่อง Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
 http://23.239.31.26:8989/aande/index.m3u8
 
