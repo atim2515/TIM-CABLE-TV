@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",8 Out Of 10 Cats (1080p)
-https://d1l7vcuh4hn9ei.cloudfront.net/8OutOf10Cats_GB.m3u8
+#EXTINF:-1 tvg-id="",ba
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="",60 Days in Jail (720p)
 https://39328386.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl82MERheXNJbklOVExfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International",&TV International (1080p)
