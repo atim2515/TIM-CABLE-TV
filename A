@@ -75,9 +75,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9n5pVETAgC7QvUji1OQCRpr22NP9QadS1lfSQ16ryA&s=10",ช่อง Channel 4
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง Brit Asia TV
-https://hls.autopo.st/hls/britasiatv/index.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoFEFBkPlKILenHQGRDJ24KIGGegUGFbVk9f-TyvF-w&s=10",ช่อง Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 
@@ -87,17 +84,23 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aZ4FWFgOfEeQmjV5e4f7Wtfs4SpehJhYWpAiXaVZcw&s=10",ช่อง Latest TV
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lD_VHIV5VhchgC7XIZuy8rfgfAlZ743g88Ne4DGoePE5Y=s900-c-k-c0x00ffffff-no-rj",ช่อง Magnavision TV
-https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2hBxOXz6kYHh4ZCs3VqIaUF1kPXmjnUztg30vYPyR8mjwaqLFz4FlA8&s=10",ช่อง Master Chefs Academy TV
-https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Mr._bean_title_card.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง Mr Bean Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQND0XJg8r9yn_vLqwGyDCeyjYi6hFz5rauhssOjjr-1g&s=10",ช่อง Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-P4gWOr3vazqPIhHql2MSJtoLZ9j16GpANZRkvdGQg&s",ช่อง HGTV Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=99
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFG-lQ181XmuI1ehy154WCaFjFKQhNrUzzqnZR-0qSzA&s=10",ช่อง History Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpXNMnD8yp6vnZEUBBldF0VvhIPDRvCmFundITLmIiw&s=10",ช่อง Fun Roads
+https://www.funroads-hls1.com/funroads.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0BMvGrf_bheEkISlR7c7uJSHV3AoBfQguGVAGOeE2vC1XqhKxz6rFjnM&s=10",ช่อง In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
 http://103.255.250.188:5002/gd03.m3u8?channel=zhongying&gid=gd03&token=guoziyun
