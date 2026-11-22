@@ -90,17 +90,17 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQND0XJg8r9yn_vLqwGyDCeyjYi6hFz5rauhssOjjr-1g&s=10",ช่อง Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-P4gWOr3vazqPIhHql2MSJtoLZ9j16GpANZRkvdGQg&s",ช่อง HGTV Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=99
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFG-lQ181XmuI1ehy154WCaFjFKQhNrUzzqnZR-0qSzA&s=10",ช่อง History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpXNMnD8yp6vnZEUBBldF0VvhIPDRvCmFundITLmIiw&s=10",ช่อง Fun Roads
 https://www.funroads-hls1.com/funroads.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0BMvGrf_bheEkISlR7c7uJSHV3AoBfQguGVAGOeE2vC1XqhKxz6rFjnM&s=10",ช่อง In the kitchen
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://vcz-kapang-tv.b-cdn.net/files/thumbs/2026/05/06/1778037346ayAfpsWIMj-300x300-square.png",ช่อง Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlR6uGiAHTuVhjfdbfCKzRjNXe1w0bkkpoaVrOou0kg&s",ช่อง Kartoon Channel!
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
 http://103.255.250.188:5002/gd03.m3u8?channel=zhongying&gid=gd03&token=guoziyun
