@@ -37,13 +37,13 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",ช่อง AMARIN TV HD
-https://playidtv24.vercel.app/stream/3bbtv/amarin.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",ช่อง PPTV HD
 https://live-us1.thaimomo.com/live-as/chpptv-2/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง ไทยรัฐ TV
-https://playidtv24.vercel.app/stream/3bbtv/thairathtv.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",ช่อง Workpoint TV
 https://playidtv24.vercel.app/stream/3bbtv/wp.html|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -73,25 +73,25 @@ https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
 https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",ช่อง Nippon TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
+http://103.255.250.188:5002/gd03.m3u8?channel=zhongying&gid=gd03&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",ช่อง TBS
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
+http://103.255.250.188:5002/gd04.m3u8?channel=zhongying&gid=gd04&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง Fuji TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
+http://103.255.250.188:5002/gd05.m3u8?channel=zhongying&gid=gd05&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCwGGo9Fq8gnptIaFWA0uOj_rMobBBN54QQ&s",ช่อง Fuji TV NEXT
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8
+http://103.255.250.188:5002/cs26.m3u8?channel=zhongying&gid=cs26&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",ช่อง フジテレビ系
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",ช่อง TV Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
+http://103.255.250.188:5002/gd06.m3u8?channel=zhongying&gid=gd06&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
+http://103.255.250.188:5002/gd07.m3u8?channel=zhongying&gid=gd07&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",ช่อง 代替 テレ朝系
 https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
@@ -100,25 +100,34 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx02#.m3u8
+http://103.255.250.188:5002/gx02.m3u8?channel=zhongying&gid=gx02&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.mbs.jp/english/images/index/MBS_logo.png",ช่อง MBS
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx01#.m3u8 
+http://103.255.250.188:5002/gx01.m3u8?channel=zhongying&gid=gx01&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/250px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ช่อง YTV
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx04#.m3u8 
+http://103.255.250.188:5002/gx04.m3u8?channel=zhongying&gid=gx04&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2025/01/tvosaka_420x237_thumb.jpg",ช่อง TV Osaka
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8 
+http://103.255.250.188:5002/gx05.m3u8?channel=zhongying&gid=gx05&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",ช่อง Kansai TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx03#.m3u8 
+http://103.255.250.188:5002/gx03.m3u8?channel=zhongying&gid=gx03&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHr3U1uVUvN2EcARRaz8eKVrHUXkAXaIRgnQ&s",ช่อง Sun TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx07#.m3u8 
+http://103.255.250.188:5002/gx07.m3u8?channel=zhongying&gid=gx07&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",ช่อง Tokyo MX1
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
+http://103.255.250.188:5002/gd08.m3u8?channel=zhongying&gid=gd08&token=guoziyun
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABYXn3eISEG1VlSakqcM9BPCYwIlL3xayrDDCfltcxg&s=10",ช่อง Sakuranbo TV
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItvsFMd0fK30i79sbJ9SbfGk9ajklr5HHa9HDLDZSMw&s",ช่อง TV-U Yamagata
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEnu2AJiIO0IQsKUa94ItenkzlRixHb4gSBs9BlZqxw&s=10",ช่อง YTS Yamagata TV
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
@@ -328,7 +337,7 @@ http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
 http://r.jdshipin.com/ZQ4kN
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png",ช่อง TVB Plus
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7tgaAisjsqHgn2aK1yTjtrbWeCQfqhsnsG-Jp14h5rNT7ltxT519k9I&s=10",ช่อง TVB Plus
 https://cdn.qd.je/163189.php?id=tvbp
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
@@ -361,7 +370,7 @@ https://cdn6.cc.cd/163189/hoy
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQne_e3HL5Bqnfa0y3pJ-yt_cGppsrXrmZ0wGjSCvg4&s",ช่อง HOY 78
 http://rihou.cc:555/tv/[Pd]有线新闻
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png",ช่อง ViuTV
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",ช่อง ViuTV
 http://r.jdshipin.com/vSJvl
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_425_305",ช่อง ViuTVsix
@@ -427,7 +436,7 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlnOR6g18sbFQz2DoLlu00X2KoKaL_LhGDQ&s",ช่อง CCTV-1
 http://69.30.245.50/live/cctv1hd.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",ช่อง CCTV-2
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_F4ftFILEit8GTjFgvN9xiqtWN3qfxEPY67cA5B-Ng&s=10",ช่อง CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",ช่อง CCTV-3
@@ -961,30 +970,33 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8 
+http://103.255.250.188:5002/gd01.m3u8?channel=zhongying&gid=gd01&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G (Osaka)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx06#.m3u8 
+http://103.255.250.188:5002/gx06.m3u8?channel=zhongying&gid=gx06&token=guoziyun 
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK G (Yamagata)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/250px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK E
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8 
+http://103.255.250.188:5002/gd02.m3u8?channel=zhongying&gid=gd02&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s",ช่อง NHK BS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
+http://103.255.250.188:5002/bs11.m3u8?channel=zhongying&gid=bs11&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",ช่อง NHK BSP4K
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
+http://103.255.250.188:5002/bs01.m3u8?channel=zhongying&gid=bs01&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",ช่อง CNNj
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8 
+http://103.255.250.188:5002/cs16.m3u8?channel=zhongying&gid=cs16&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",ช่อง BBC News Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
+http://103.255.250.188:5002/cs15.m3u8?channel=zhongying&gid=cs15&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",ช่อง TBS News
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8 
+http://103.255.250.188:5002/cs11.m3u8?channel=zhongying&gid=cs11&token=guoziyun 
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",ช่อง Weather News
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79uK8DgLDznx1W49dXwuaxXvaKCSxgFzr1MlhcvcPng&s=10",ช่อง Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
@@ -1047,31 +1059,31 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEetdQliPDPN9OsBNPxRyA7fMrArdOLynKQ&s",ช่อง Tabi Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs12#.m3u8
+http://103.255.250.188:5002/cs12.m3u8?channel=zhongying&gid=cs12&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",ช่อง Mondo TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8
+http://103.255.250.188:5002/cs21.m3u8?channel=zhongying&gid=cs21&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",ช่อง TAKARAZUKA SKY STAGE
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28#.m3u8
+http://103.255.250.188:5002/cs28.m3u8?channel=zhongying&gid=cs28&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",ช่อง BS Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
+http://103.255.250.188:5002/bs03.m3u8?channel=zhongying&gid=bs03&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",ช่อง BS Fuji TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
+http://103.255.250.188:5002/bs06.m3u8?channel=zhongying&gid=bs06&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",ช่อง BS Nippon TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
+http://103.255.250.188:5002/bs02.m3u8?channel=zhongying&gid=bs02&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",ช่อง BS TBS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
+http://103.255.250.188:5002/bs04.m3u8?channel=zhongying&gid=bs04&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",ช่อง BS TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
+http://103.255.250.188:5002/bs05.m3u8?channel=zhongying&gid=bs05&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",ช่อง JCOM BS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8
+http://103.255.250.188:5002/bs31.m3u8?channel=zhongying&gid=bs31&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",ช่อง FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
@@ -1211,43 +1223,43 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
+http://103.255.250.188:5002/bs08.m3u8?channel=zhongying&gid=bs08&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",ช่อง Movie Plus
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
+http://103.255.250.188:5002/cs14.m3u8?channel=zhongying&gid=cs14&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",ช่อง WOWOW Cinema
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
+http://103.255.250.188:5002/bs07.m3u8?channel=zhongying&gid=bs07&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",ช่อง WOWOW Prime
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
+http://103.255.250.188:5002/bs12.m3u8?channel=zhongying&gid=bs12&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",ช่อง WOWOW Live
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
+http://103.255.250.188:5002/bs20.m3u8?channel=zhongying&gid=bs20&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",ช่อง Family Gekijo
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8 
+http://103.255.250.188:5002/cs20.m3u8?channel=zhongying&gid=cs20&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",ช่อง Toei Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8 
+http://103.255.250.188:5002/cs27.m3u8?channel=zhongying&gid=cs27&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",ช่อง Home Drama Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8 
+http://103.255.250.188:5002/cs05.m3u8?channel=zhongying&gid=cs05&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i7CPm1dTs-fDNMZhGuEAOSzkipdTGxWLvg&s",ช่อง Nihon Eiga Senmon
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs23#.m3u8
+http://103.255.250.188:5002/bs23.m3u8?channel=zhongying&gid=bs23&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",ช่อง Jidaigeki Senmon
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8 
+http://103.255.250.188:5002/cs04.m3u8?channel=zhongying&gid=cs04&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",ช่อง Eisei Gekijo
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8 
+http://103.255.250.188:5002/cs22.m3u8?channel=zhongying&gid=cs22&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLQga46f4coqBxuohNJ1ZxBboeexN0eBQQ&s",ช่อง LaLa TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8
+http://103.255.250.188:5002/cs19.m3u8?channel=zhongying&gid=cs19&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",ช่อง Channel Ginga
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
+http://103.255.250.188:5002/cs29.m3u8?channel=zhongying&gid=cs29&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3wh7Mm0XrISGGl6f4vuN3m-SFIy6daxTdQLhZoMzvUPrHwoKtfWZwqwt&s=10",ช่อง K-DRAMA+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1366,19 +1378,19 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ช่อง Animax
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8
+http://103.255.250.188:5002/bs15.m3u8?channel=zhongying&gid=bs15&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",ช่อง Kids Station
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8
+http://103.255.250.188:5002/cs07.m3u8?channel=zhongying&gid=cs07&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",ช่อง Cartoon Network Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs25#.m3u8 
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-dc.jpg",ช่อง Disney Channel Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-junior.jpg",ช่อง Disney Jr. Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8
+http://103.255.250.188:5002/bs23.m3u8?channel=zhongying&gid=bs23&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/960px-Tooniverse_logo_2019.svg.png",ช่อง Tooniverse
 http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse#.m3u8
@@ -1707,35 +1719,35 @@ https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqn-NCP1UR6LWYYfMSuUsbAm9p_g5cS8mhA&s",ช่อง HI Sport
 http://49.0.64.96:8007/HiSports
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png",ช่อง J Sports 1
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXf1q35HkTekxJjFjT_1Lh3K6_HovSw_XJ0IpLnULPocitrxyH94B6PYh4&s=10",ช่อง J Sports 1
+http://103.255.250.188:5002/bs18.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/747.png",ช่อง J Sports 2
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BrTgOzcCMOhSIGODDg2DIAvWGMMLsjI1zmZ3P1CQfYQ8mMQ4WYxj_m8&s=10",ช่อง J Sports 2
+http://103.255.250.188:5002/bs19.m3u8?channel=zhongying&gid=bs19&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",ช่อง J Sports 3
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8
+http://103.255.250.188:5002/bs21.m3u8?channel=zhongying&gid=bs21&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpE1ETERXAr0sDDPk5x4-27nMvr2S1y2_0A&s",ช่อง J Sports 4
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8
+http://103.255.250.188:5002/bs22.m3u8?channel=zhongying&gid=bs22&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap0xYgCK4qjD0o7l6NcIdnoefn9z_DvZjKA&s",ช่อง Nittele G Plus
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8
+http://103.255.250.188:5002/cs02.m3u8?channel=zhongying&gid=cs02&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",ช่อง Sky A
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8 
+http://103.255.250.188:5002/cs01.m3u8?channel=zhongying&gid=cs01&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/1280px-GAORA_SPORTS_logo.svg.png",ช่อง Gaora Sports
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs17#.m3u8
+http://103.255.250.188:5002/cs17.m3u8?channel=zhongying&gid=cs17&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",ช่อง Golf Network
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8 
+http://103.255.250.188:5002/cs03.m3u8?channel=zhongying&gid=cs03&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://hidakakonbu.net/wp-content/uploads/2018/07/logo_greenchannel.png",ช่อง Green Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8
+http://103.255.250.188:5002/bs14.m3u8?channel=zhongying&gid=bs14&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/31dSiRDx8XYX41jikFPIwYJK213ghYEbLKP0wqZ2sHNQlbd98Tv5k_G8vgF0-n5LHWaCdHF9Fw=s160-c-k-c0x00ffffff-no-rj",ช่อง Fishing Vision
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8
+http://103.255.250.188:5002/bs25.m3u8?channel=zhongying&gid=bs25&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITqwLMG45eRjeHhyMkwn-bjIivYvbtiFePJQrhiQt1A&s",ช่อง TVN Sports-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
@@ -1795,16 +1807,16 @@ http://49.0.64.96:8007/AMAZING
 http://49.0.64.96:8007/Animal
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",ช่อง Discovery Channel Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8 
+http://103.255.250.188:5002/cs08.m3u8?channel=zhongying&gid=cs08&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",ช่อง National Geographic Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs10#.m3u8 
+http://103.255.250.188:5002/cs10.m3u8?channel=zhongying&gid=cs10&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png",ช่อง History Channel Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs09#.m3u8 
+http://103.255.250.188:5002/cs09.m3u8?channel=zhongying&gid=cs09&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8
+http://103.255.250.188:5002/cs24.m3u8?channel=zhongying&gid=cs24&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xKfkhm0rHP0A7iSk3rQKqxFc0paRF7eCFmGm0j2r&s=10",ช่อง Smithsonian Channel
 http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
@@ -1870,16 +1882,16 @@ https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",ช่อง Music Japan TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8 
+http://103.255.250.188:5002/cs06.m3u8?channel=zhongying&gid=cs06&token=guoziyun 
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://yt3.googleusercontent.com/gPp9qo9jvkd9r9kUJ0ejfO_FoM1zRGbAatXN5AC9AfnUL0a4uh0fy7Ixm3v8G7y_GjDX1eSCYQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Space Shower TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8
+http://103.255.250.188:5002/bs26.m3u8?channel=zhongying&gid=bs26&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png",ช่อง Kayo Pops
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
+http://103.255.250.188:5002/cs13.m3u8?channel=zhongying&gid=cs13&token=guoziyun
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://kpop.youzab.com/wp-content/uploads/2021/05/CJENM.jpg",ช่อง K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
@@ -2265,7 +2277,7 @@ http://live.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--lg.webp",ช่อง 106.5 GreenWave
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyy750sUmfWHDuuhkJ-blikyWLkU7KVfwPE6yBWqjPcdQbEu9IR41T22HI&s=10",ช่อง 106.5 GreenWave
 https://radio-thailand.com/greenwave
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--lg.webp",ช่อง EFM 94
