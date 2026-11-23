@@ -96,9 +96,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpXNMnD8yp6vnZEUBBldF0VvhIPDRvCmFundITLmIiw&s=10",ช่อง Fun Roads
 https://www.funroads-hls1.com/funroads.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://vcz-kapang-tv.b-cdn.net/files/thumbs/2026/05/06/1778037346ayAfpsWIMj-300x300-square.png",ช่อง Kaloopy TV
-https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlR6uGiAHTuVhjfdbfCKzRjNXe1w0bkkpoaVrOou0kg&s",ช่อง Kartoon Channel!
 https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
 
@@ -2109,11 +2106,17 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3GD2rMM9LXFZNeIpR4_SgLi3Hlfth2V4RfnvwK07oaxTUalkMaGwjA4&s=10",ช่อง R Channel
 http://180.180.243.239/streams/3/hls
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://vcz-kapang-tv.b-cdn.net/files/thumbs/2026/05/06/1778037346ayAfpsWIMj-300x300-square.png",ช่อง Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Babes tv
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/37449/hls/pl.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Playboy TV
 http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/527/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง PLAYBOY
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6242/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง Шелк
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/27993/hls/pl.m3u8
@@ -2210,9 +2213,6 @@ http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6248/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง REALITYKINGS
 http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6249/manifest.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง PLAYBOY
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6242/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
