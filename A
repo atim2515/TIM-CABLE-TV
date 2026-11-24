@@ -90,9 +90,6 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQND0XJg8r9yn_vLqwGyDCeyjYi6hFz5rauhssOjjr-1g&s=10",ช่อง Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFG-lQ181XmuI1ehy154WCaFjFKQhNrUzzqnZR-0qSzA&s=10",ช่อง History Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpXNMnD8yp6vnZEUBBldF0VvhIPDRvCmFundITLmIiw&s=10",ช่อง Fun Roads
 https://www.funroads-hls1.com/funroads.m3u8
 
@@ -966,6 +963,9 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyApxy_bbdA3xOZ1r167dCdptm_vdljPA6pyiwaCpmTjLUyBzy41mBQQ&s=10",ช่อง One America News Network
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxshxBC4OvywCJb51dY1gEE-DF0GGh2_JxJe585xfVg&s=10",ช่อง Real America's Voice
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CMdieU1YSM6pUePCUtSp2w5jbUWLQQys4A&s",ช่อง GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 
@@ -1504,7 +1504,7 @@ https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtC9wtEH-jCEQL-g4rnG-1N95Y0OiaWfLsJg&s",ช่อง The Design Network
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtC9wtEH-jCEQL-g4rnG-1N95Y0OiaWfLsJg&s",ช่อง Wine Watches & Whiskey
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreL5NeBID46IzyLI5Zdmqri60uXknsB6A9D1ufILuO0xxdQ9LhiNaMbvI&s=10",ช่อง Wine Watches & Whiskey
 https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NWADIfeq1QuU6sSMGzaotrAivo2DrsUTNjwI2OQoS2rLZqhjERJLkRwP&s=10",ช่อง AKC TV
@@ -1774,6 +1774,9 @@ http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyYSLgrmbWukJx2Zx9DinulNa7ZBCpG5B3RgZfM9-SQ&s=10",ช่อง Racer Network
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLV6Tagxv-qP3I6KVmJ5XNsqkS2i53c0CbYmWDj5dFA&s=10",ช่อง Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiLGZHrYShDZ6hNZjX7neXsdnuE2F1Nd-F6AEWNdwgw&s=10",ช่อง RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -1875,6 +1878,9 @@ http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gTcFg1YvEG6AJslIRiAy1xlaAgMubPZD3sfCh3kp-g&s=10",ช่อง Discovery Family
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFG-lQ181XmuI1ehy154WCaFjFKQhNrUzzqnZR-0qSzA&s=10",ช่อง History
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn7tIuh5lMn3oezF7GUExtUPK-mKQV_j9wu2Ux4tV0g&s=10",ช่อง Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
