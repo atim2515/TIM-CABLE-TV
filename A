@@ -1146,26 +1146,24 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7605
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5g_2jGoTWw41O4_p5yxll19OIOnHcTXG0JjaoMcpgg&s=10",ช่อง HBO ZONE
-http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง Cinemax
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GDcoxX1zp4STEeaxliQFt58LC7TMchP6T9EvGVYjYA&s=10",ช่อง HBO Drama
-https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_og206tBV1uS8KjqIQRknXSysu612nNya-erDg42DnYbNLVLVcL-c7k35&s=10",ช่อง Cinemax Moremax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_12d4KtFkLdZ5kTR3eObo7P5vqi3z72crBtBer9bF_w&s=10",ช่อง CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/5-star-max.png",ช่อง Cinemax 5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง Cinemax Action
-https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s",ช่อง AMC
-http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGARruPn2tchIQbTB6uuuOa3KaDz6AGpNgAweA2X4wg&s=10",ช่อง Universal Cinema
+http://45.167.1.138:8000/play/a06m
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEiIdGAr2Rm1NeJHQ5VEsphqe6_ZI7sCn4A&s",ช่อง SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/250px-BBC_America_logo_2021.svg.png",ช่อง BBC America
-http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRentVGu73tg20E-SDwtTkVeNxrRBisqKf5hpfs-4OFQQ&s=10",ช่อง AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.17:5000
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcUU4ySGJUEj7iO0CBbRneQOnCwTuWKTyxQ&s",ช่อง E!
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -1177,17 +1175,26 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQDy-YbitQu-CWmQIGM09EmdFwRaXWVxhl0N349nsWQ&s=10",ช่อง Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmSaK0WA_6guYfLuknRHb_nTBbGBaPTmRBw&s",ช่อง MTV
-http://198.58.104.90:8989/mtv/index.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYoLejx_hxY1gI4GCw8WX1YRUzWvAV5b86Q&s",ช่อง MTV2
-http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IHGgnNeabNSTl64LUOrH929yUBWKoV8k2buCCPmjHg&s=10",ช่อง VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1280px-Starz_Cinema_Logo_2022.svg.png",ช่อง STARZ CINEMA
-http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPHVotp14Bj4Wy-sXkP0el_PvxxGScnC6Iikkn5peJKsY7xpZHfOS7Ry-&s=10",ช่อง VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34CZ83gw9wNpFgdToA_Eg0o_29kDBmejEUUZHXa49Tg&s=10",ช่อง STARZ COMEDY
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYdo6Pn4YW39WNtfHJ1SIwewcVVQO3mPs9bptfjcpcsCRucLkZhODgsEK&s=10",ช่อง Starz
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34CZ83gw9wNpFgdToA_Eg0o_29kDBmejEUUZHXa49Tg&s=10",ช่อง Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhAu5yfov5WERpYBXIVqzfSJPicAG8KHsry5GndRpcQ&s=10",ช่อง Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmf9vHOJ6sP_6ARBr3rgV1KseswaopVqdJm3JqIaCYqw&s=10",ช่อง Star Action HD
 http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
@@ -1248,6 +1255,9 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/h22LrFBB-AVzwcEh6zUpkcAKrPH_gCN64y9-h5YJBk53n1yyF4o4SmEzaLhafgQZv_0",ช่อง Wu Tang Collection
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://image.tmdb.org/t/p/original/uNV0cmBpUqHKaI1pPFbTuebNFcg.png",ช่อง Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",ช่อง BS 10 Premium
 http://103.255.250.188:5002/bs08.m3u8?channel=zhongying&gid=bs08&token=guoziyun
@@ -1924,7 +1934,7 @@ http://103.255.250.188:5002/cs13.m3u8?channel=zhongying&gid=cs13&token=guoziyun
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQVcDmoCIQ6-aOwB7pZNXvF5m3QCbAtWk-g&s",ช่อง AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",ช่อง Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
@@ -2145,6 +2155,12 @@ http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/92273/hls/pl.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง VIVID RED
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/91663/hls/pl.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง VIVID TV EUROPE
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6264/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง VIXEN.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6265/manifest.m3u8
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง NCKYWEHNE
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/23879/hls/pl.m3u8
 
@@ -2171,6 +2187,39 @@ http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6217/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MYCAMTV.COM
 http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6219/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MYCAMTV.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6250/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MYCAMTV.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6251/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MYCAMTV.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6256/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง MYCAMTV.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6257/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง SEXWITHMUSLIMS.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6252/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง SEXART.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6253/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง SINEMATICA
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6255/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง TINY4K.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6258/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง DOUBLERABBIT
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6260/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง TUSHY.COM
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6261/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง TUSHY RAW
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6262/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง HOLED.COM
 http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6221/manifest.m3u8
@@ -2213,6 +2262,33 @@ http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6248/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง REALITYKINGS
 http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6249/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง REALITYKINGS
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6266/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง WHITEBOXXX
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6267/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง WICKED
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6268/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง KAZ6269
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6269/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง BALKAN EROTIC
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6270/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง RED LIPS
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6271/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง LEO TV
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6272/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง IHOT
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6275/manifest.m3u8
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง HOT PLEASURE
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6277/manifest.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv2DH-J4WpUdYtIdN-hUQGFX4qz_4P28MCg&s",ช่อง AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
