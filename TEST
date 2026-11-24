@@ -1,124 +1,124 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",jacky
-http://103.255.250.188:5002/bs01.m3u8?channel=zhongying&gid=bs01&token=guoziyun
+#EXTINF:-1 tvg-id="",tim
+http://103.255.250.188:5002/gx01.m3u8?channel=zhongying&gid=gx01&token=guoziyun
 #EXTINF:-1 tvg-id="",2
-http://103.255.250.188:5002/bs02.m3u8?channel=zhongying&gid=bs02&token=guoziyun
+http://103.255.250.188:5002/gx02.m3u8?channel=zhongying&gid=gx02&token=guoziyun
 #EXTINF:-1 tvg-id="AndTV.in@International",3
-http://103.255.250.188:5002/bs03.m3u8?channel=zhongying&gid=bs03&token=guoziyun
+http://103.255.250.188:5002/gx03.m3u8?channel=zhongying&gid=gx03&token=guoziyun
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD",5
-http://103.255.250.188:5002/bs04.m3u8?channel=zhongying&gid=bs04&token=guoziyun
+http://103.255.250.188:5002/gx04.m3u8?channel=zhongying&gid=gx04&token=guoziyun
 #EXTINF:-1 tvg-id="AlJazeera.qa@English",6
-http://103.255.250.188:5002/bs05.m3u8?channel=zhongying&gid=bs05&token=guoziyun
+http://103.255.250.188:5002/gx05.m3u8?channel=zhongying&gid=gx05&token=guoziyun
 #EXTINF:-1 tvg-id="",7
-http://103.255.250.188:5002/bs06.m3u8?channel=zhongying&gid=bs06&token=guoziyun
+http://103.255.250.188:5002/gx06.m3u8?channel=zhongying&gid=gx06&token=guoziyun
 #EXTINF:-1 tvg-id="",8
-http://103.255.250.188:5002/bs07.m3u8?channel=zhongying&gid=bs07&token=guoziyun
+http://103.255.250.188:5002/gx07.m3u8?channel=zhongying&gid=gx07&token=guoziyun
 #EXTINF:-1 tvg-id="",9
-http://103.255.250.188:5002/bs08.m3u8?channel=zhongying&gid=bs08&token=guoziyun
+http://103.255.250.188:5002/gx08.m3u8?channel=zhongying&gid=gx08&token=guoziyun
 #EXTINF:-1 tvg-id="",10
-http://103.255.250.188:5002/bs09.m3u8?channel=zhongying&gid=bs09&token=guoziyun
+http://103.255.250.188:5002/gx09.m3u8?channel=zhongying&gid=gx09&token=guoziyun
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",11
-http://103.255.250.188:5002/bs10.m3u8?channel=zhongying&gid=bs10&token=guoziyun
+http://103.255.250.188:5002/gx10.m3u8?channel=zhongying&gid=gx10&token=guoziyun
 #EXTINF:-1 tvg-id="AreWeThereYet.us@SD",12
-http://103.255.250.188:5002/bs11.m3u8?channel=zhongying&gid=bs11&token=guoziyun
+http://103.255.250.188:5002/gx11.m3u8?channel=zhongying&gid=gx11&token=guoziyun
 #EXTINF:-1 tvg-id="",13
-http://103.255.250.188:5002/bs12.m3u8?channel=zhongying&gid=bs12&token=guoziyun
+http://103.255.250.188:5002/gx12.m3u8?channel=zhongying&gid=gx12&token=guoziyun
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD",14
-http://103.255.250.188:5002/bs13.m3u8?channel=zhongying&gid=bs13&token=guoziyun
+http://103.255.250.188:5002/gx13.m3u8?channel=zhongying&gid=gx13&token=guoziyun
 #EXTINF:-1 tvg-id="AutenticTravel.de@SD",15
-http://103.255.250.188:5002/bs14.m3u8?channel=zhongying&gid=bs14&token=guoziyun
+http://103.255.250.188:5002/gx14.m3u8?channel=zhongying&gid=gx14&token=guoziyun
 #EXTINF:-1 tvg-id="",16
-http://103.255.250.188:5002/bs15.m3u8?channel=zhongying&gid=bs15&token=guoziyun
+http://103.255.250.188:5002/gx15.m3u8?channel=zhongying&gid=gx15&token=guoziyun
 #EXTINF:-1 tvg-id="",17
-http://103.255.250.188:5002/bs16.m3u8?channel=zhongying&gid=bs16&token=guoziyun
+http://103.255.250.188:5002/gx16.m3u8?channel=zhongying&gid=gx16&token=guoziyun
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus",18
-http://103.255.250.188:5002/bs17.m3u8?channel=zhongying&gid=bs17&token=guoziyun
+http://103.255.250.188:5002/gx17.m3u8?channel=zhongying&gid=gx17&token=guoziyun
 #EXTINF:-1 tvg-id="",19
-http://103.255.250.188:5002/bs18.m3u8?channel=zhongying&gid=bs18&token=guoziyun
+http://103.255.250.188:5002/gx18.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 #EXTINF:-1 tvg-id="",20
-http://103.255.250.188:5002/bs19.m3u8?channel=zhongying&gid=bs19&token=guoziyun
+http://103.255.250.188:5002/gx19.m3u8?channel=zhongying&gid=gx19&token=guoziyun
 #EXTINF:-1 tvg-id="",21
-http://103.255.250.188:5002/bs20.m3u8?channel=zhongying&gid=bs20&token=guoziyun
+http://103.255.250.188:5002/gx20.m3u8?channel=zhongying&gid=gx20&token=guoziyun
 #EXTINF:-1 tvg-id="",22
-http://103.255.250.188:5002/bs21.m3u8?channel=zhongying&gid=bs21&token=guoziyun
+http://103.255.250.188:5002/gx21.m3u8?channel=zhongying&gid=gx21&token=guoziyun
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD",23
-http://103.255.250.188:5002/bs22.m3u8?channel=zhongying&gid=bs22&token=guoziyun
+http://103.255.250.188:5002/gx22.m3u8?channel=zhongying&gid=gx22&token=guoziyun
 #EXTINF:-1 tvg-id="",24
-http://103.255.250.188:5002/bs23.m3u8?channel=zhongying&gid=bs23&token=guoziyun
+http://103.255.250.188:5002/gx23.m3u8?channel=zhongying&gid=gx23&token=guoziyun
 #EXTINF:-1 tvg-id="",25
-http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+http://103.255.250.188:5002/gx24.m3u8?channel=zhongying&gid=gx24&token=guoziyun
 #EXTINF:-1 tvg-id="",26
-http://103.255.250.188:5002/bs25.m3u8?channel=zhongying&gid=bs25&token=guoziyun
+http://103.255.250.188:5002/gx25.m3u8?channel=zhongying&gid=gx25&token=guoziyun
 #EXTINF:-1 tvg-id="",27
-http://103.255.250.188:5002/bs26.m3u8?channel=zhongying&gid=bs26&token=guoziyun
+http://103.255.250.188:5002/gx26.m3u8?channel=zhongying&gid=gx26&token=guoziyun
 #EXTINF:-1 tvg-id="",28
-http://103.255.250.188:5002/bs27.m3u8?channel=zhongying&gid=bs27&token=guoziyun
+http://103.255.250.188:5002/gx27.m3u8?channel=zhongying&gid=gx27&token=guoziyun
 #EXTINF:-1 tvg-id="CuriosityNOW.de@EN",29
-http://103.255.250.188:5002/bs28.m3u8?channel=zhongying&gid=bs28&token=guoziyun
+http://103.255.250.188:5002/gx28.m3u8?channel=zhongying&gid=gx28&token=guoziyun
 #EXTINF:-1 tvg-id="Dateline247.us@SD",30
-http://103.255.250.188:5002/bs29.m3u8?channel=zhongying&gid=bs29&token=guoziyun
+http://103.255.250.188:5002/gx29.m3u8?channel=zhongying&gid=gx29&token=guoziyun
 #EXTINF:-1 tvg-id="Dateline247.us@SD",30
-http://103.255.250.188:5002/bs30.m3u8?channel=zhongying&gid=bs30&token=guoziyun
+http://103.255.250.188:5002/gx30.m3u8?channel=zhongying&gid=gx30&token=guoziyun
 
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Babess РОССИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6100/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6250/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Barely Legal TVs РОССИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6101/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6251/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",BCU Charm HD
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6102/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6252/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Blue Hustlers РОССИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6103/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6253/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Шелк
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6104/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6254/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Центр ТВ RU
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6105/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6255/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Центральное ТВ RU
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6106/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6256/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",THT International
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6107/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6257/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Центральное ТВ RU
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6108/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6258/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",POCCИЯ Dorcel TV HD
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6109/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6259/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",POCCИЯ Шалун HD
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6110/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6260/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",POCCИЯ Redlight HD
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6111/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6261/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",POCCИЯ Penthouse GOLD
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6112/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6262/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Exxxotica
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6113/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6263/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Brazzers
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6114/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6264/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Центральное ТВ RU
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6115/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6265/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Hustler TV POCCИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6116/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6266/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Blue Hustler POCCИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6117/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6267/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Extasy РОССИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6118/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6268/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Private РОССИЯ
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6119/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6269/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Penthouse Quickies
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6120/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6270/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Hustler
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6121/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6271/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Dorcel
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6122/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6272/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6123/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6273/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6124/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6274/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6125/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6275/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6126/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6276/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6127/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6277/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6128/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6278/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6129/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6279/manifest.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Vivid
-http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6130/manifest.m3u8
+http://233d3515.kazmazpaz.ru/iptv/YDFRWUQHUKMN2V/6280/manifest.m3u8
