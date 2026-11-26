@@ -356,7 +356,7 @@ https://cdn.qd.je/163189.php?id=fct4k
 https://cdn.qd.je/163189.php?id=fct
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade Astro
-http://r.jdshipin.com/thuYX
+https://cdn3.indevs.in/stream/live/hlt/
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
 http://r.jdshipin.com/ZQ4kN
@@ -392,7 +392,7 @@ https://cdn11.163189.xyz/163189/hoy76
 https://cdn6.cc.cd/163189/hoy
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQne_e3HL5Bqnfa0y3pJ-yt_cGppsrXrmZ0wGjSCvg4&s",ช่อง HOY 78
-http://rihou.cc:555/tv/[Pd]有线新闻
+https://cdn.qd.je/163189.php?id=hoy78
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/330px-ViuTV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",ช่อง ViuTV
 http://r.jdshipin.com/vSJvl
@@ -1039,7 +1039,7 @@ http://103.255.250.188:5002/cs11.m3u8?channel=zhongying&gid=cs11&token=guoziyun
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1280px-Now_News_logo.svg.png",ช่อง NOW NEWS
-https://cdn.123.rr.kg/163189/now
+http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://cdn.prod.website-files.com/63c60a65b11cea030c5b3137/63c647cb3f09c3adfc80d0ed_logo-icable.png",ช่อง 有綫新聞
 http://rihou.cc:555/tv/[Pd]有线新闻
@@ -1349,7 +1349,7 @@ https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboVbq6fYHIZKKYnidHFoCZsR4Nr_dWyFyH4ZSNz5LVZtA0NUOrQ-iX54&s=10",ช่อง Pluto TV Comedy
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboVbq6fYHIZKKYnidHFoCZsR4Nr_dWyFyH4ZSNz5LVZtA0NUOrQ-iX54&s=10",ช่อง Pluto TV Sci-fi
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMG_5hcSdAjDgbAcNdwnPJFmphOhBrrDo4GfvOYZ0Mpr3R3gWYOyj1-o&s=10",ช่อง Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qKfaGbAe1DxNVjUEvgjozUkOPOejg1MuIA&s",ช่อง Dove Channel
@@ -1467,6 +1467,15 @@ http://192.151.150.154/live/chcjt.m3u8
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczi17ppithbgUmxsdPgaBZzjFrAjrUB5Zf01iEkzUQA&s=10",ช่อง ASTRO AOD
 https://cdn.qd.je/163189.php?id=aod
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Mu0bDuRJOjHAgSlXd4y9DyVK63ahtLB0w7_3ipsKg&s=10",ช่อง Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",ช่อง Astro欢喜台
+https://cdn3.indevs.in/stream/live/hxt/
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://play-lh.googleusercontent.com/YwBcb-xmyJhGyOYd_JdVevW3ebmgILBLRKOLmekRreua2rFZkSzBHHQ_6ZCPcpqCaUE60QR5qr1TESOtx3o3aWA",ช่อง 爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg",ช่อง MOVIES 1
 http://49.0.64.96:8007/PING
